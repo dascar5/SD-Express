@@ -23,7 +23,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GPL License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -152,7 +152,7 @@ Project Link: [SD Express](https://github.com/dascar5/SD-Express)
 [issues-shield]: https://img.shields.io/github/issues/dascar5/SD-Express.svg?style=for-the-badge
 [issues-url]: https://github.com/dascar5/SD-Express/issues
 [license-shield]: https://img.shields.io/github/license/dascar5/SD-Express.svg?style=for-the-badge
-[license-url]: https://github.com/dascar5/SD-Express/blob/main/license.txt
+[license-url]: https://github.com/dascar5/SD-Express/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bogdan-laban-521070163/
 [product-screenshot]: images/screenshot.png
