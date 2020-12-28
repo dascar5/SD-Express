@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dascar5/SD-Express">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">SD Express</h3>
