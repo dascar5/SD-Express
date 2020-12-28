@@ -19,11 +19,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![GitHub contributors](https://img.shields.io/github/contributors/dascar5/SD-Express.svg)](https://GitHub.com/dascar5/SD-Express/graphs/contributors/)
-[![GitHub forks](https://img.shields.io/github/forks/dascar5/SD-Express.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/dascar5/SD-Express/network/)
-[![GitHub stars](https://img.shields.io/github/stars/dascar5/SD-Express.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/dascar5/SD-Express/stargazers/)
-[![GitHub issues](https://img.shields.io/github/issues/dascar5/SD-Express.svg)](https://GitHub.com/dascar5/SD-Express/issues/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/dascar5/SD-Express/blob/main/LICENSE.txt)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -143,7 +143,16 @@ Project Link: [SD Express](https://github.com/dascar5/SD-Express)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[contributors-shield]: https://img.shields.io/github/contributors/dascar5/SD-Express.svg?style=for-the-badge
+[contributors-url]: https://github.com/dascar5/SD-Express/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dascar5/SD-Express.svg?style=for-the-badge
+[forks-url]: https://github.com/dascar5/SD-Express/network/members
+[stars-shield]: https://img.shields.io/github/stars/dascar5/SD-Express.svg?style=for-the-badge
+[stars-url]: https://github.com/dascar5/SD-Express/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dascar5/SD-Express.svg?style=for-the-badge
+[issues-url]: https://github.com/dascar5/SD-Express/issues
+[license-shield]: https://img.shields.io/github/license/dascar5/SD-Express.svg?style=for-the-badge
+[license-url]: https://github.com/dascar5/SD-Express/blob/main/license.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bogdan-laban-521070163/
-[product-screenshot]: images/screenshot.png 
+[product-screenshot]: images/screenshot.png
