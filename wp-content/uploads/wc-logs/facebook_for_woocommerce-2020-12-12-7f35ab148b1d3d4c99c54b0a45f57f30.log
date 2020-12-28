@@ -1,0 +1,3 @@
+12-12-2020 @ 22:25:11 - There was an error trying sync products using the Catalog Batch API for job 9b9c8ab8af9c208d33621b13617a6865: Cannot create the API instance because the access token is missing.
+12-12-2020 @ 22:26:09 - Background sync error: No product found with ID equal to 408.
+12-12-2020 @ 22:26:09 - Background sync error: No product found with ID equal to 409.

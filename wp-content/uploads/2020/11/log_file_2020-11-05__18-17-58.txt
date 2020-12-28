@@ -1,0 +1,60 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://sdexpress.me
+Data file = /home/customer/www/sdexpress.me/public_html/wp-content/uploads/2020/11/content-2.xml
+Widget file = /home/customer/www/sdexpress.me/public_html/wp-content/uploads/2020/11/widget-2.wie
+Customizer file = /home/customer/www/sdexpress.me/public_html/wp-content/uploads/2020/11/customizer-2.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Widget already exists
+Gallery - Product Gallery - Widget already exists
+Product Categories - Product categories - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+
+Advertisements Below Slider : 
+
+eC-Gem: Advertisement - LADIES - Widget already exists
+eC-Gem: Advertisement - FOOTWARE - Widget already exists
+eC-Gem: Advertisement - SMART - Widget already exists
+
+Home Page Widget Area : 
+
+eC-Gem: Featured Categories - Featured Categories - Widget already exists
+eC-Gem: CTA - Trending Season - Widget already exists
+eC-Gem: Products Carousel - Featured Products - Widget already exists
+eC-Gem: Latest News - Latest News - Widget already exists
+eC-Gem: Newsletter - Subscribe Newsletter - Widget already exists
+
+Footer 1 : 
+
+Text - About eCommerce Gem - Widget already exists
+eC-Gem: Social - No Title - Widget already exists
+
+Footer 2 : 
+
+eC-Gem: Contact - Contact Us - Widget already exists
+
+Footer 3 : 
+
+eC-Gem: Features - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

@@ -1,0 +1,21 @@
+2020-12-19T17:46:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 5
+2020-12-19T17:46:09+00:00 NOTICE member.sync :: Subscribed Member cikigo6041@febeks.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2020-12-19T21:07:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 5
+2020-12-19T21:08:20+00:00 NOTICE member.sync :: Updated Member cikigo6041@febeks.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => asda
+            [LNAME] => asda
+        )
+
+)
+

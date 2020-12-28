@@ -1,0 +1,141 @@
+0000.001 () Opened log file at time: Sat, 12 Dec 2020 22:01:14 +0000 on https://www.sdexpress.me
+0000.001 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.42 WP: 5.6 PHP: 7.3.25 (cgi-fcgi, Linux gnldm1049.siteground.biz 3.12.18-clouder0 #1 SMP PREEMPT Mon Sep 21 14:18:04 EEST 2020 x86_64) MySQL: 5.7.26-29-log WPLANG: bs_BA Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 35.4M | 38M) multisite: N openssl: OpenSSL 1.1.1d FIPS  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing Updraft's temporary directory: 1720632.4 MB
+0000.001 () Opened log file at time: Sat, 12 Dec 2020 22:01:15 +0000 on https://www.sdexpress.me
+0000.001 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.42 WP: 5.6 PHP: 7.3.25 (cgi-fcgi, Linux gnldm1049.siteground.biz 3.12.18-clouder0 #1 SMP PREEMPT Mon Sep 21 14:18:04 EEST 2020 x86_64) MySQL: 5.7.26-29-log WPLANG: bs_BA Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 33.9M | 36M) multisite: N openssl: OpenSSL 1.1.1d FIPS  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing Updraft's temporary directory: 1720627.8 MB
+0000.003 () Ensuring WP_Filesystem is setup for a restore
+0000.004 () WP_Filesystem is setup and ready for a restore
+0000.008 () Restore job started. Entities to restore: themes, uploads, others, db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["exo_options","exo_users","exo_usermeta","exo_actionscheduler_actions","exo_actionscheduler_claims","exo_actionscheduler_groups","exo_actionscheduler_logs","exo_commentmeta","exo_comments","exo_links","exo_postmeta","exo_posts","exo_term_relationships","exo_term_taxonomy","exo_termmeta","exo_terms","exo_wc_category_lookup","exo_wc_product_meta_lookup","exo_wc_reserved_stock","exo_wc_tax_rate_classes","exo_woocommerce_order_itemmeta","exo_woocommerce_payment_tokenmeta","exo_dokan_announcement","exo_dokan_orders","exo_dokan_refund","exo_dokan_shipping_zone_locations","exo_dokan_shipping_zone_methods","exo_dokan_vendor_balance","exo_dokan_withdraw","exo_mailchimp_carts","exo_mailchimp_jobs","exo_revslider_css","exo_revslider_css_bkp","exo_revslider_layer_animations","exo_revslider_layer_animations_bkp","exo_revslider_navigations","exo_revslider_navigations_bkp","exo_revslider_sliders","exo_revslider_sliders_bkp","exo_revslider_slides","exo_revslider_slides_bkp","exo_revslider_static_slides","exo_revslider_static_slides_bkp","exo_wc_admin_note_actions","exo_wc_admin_notes","exo_wc_customer_lookup","exo_wc_download_log","exo_wc_order_coupon_lookup","exo_wc_order_product_lookup","exo_wc_order_stats","exo_wc_order_tax_lookup","exo_wc_webhooks","exo_woocommerce_api_keys","exo_woocommerce_attribute_taxonomies","exo_woocommerce_downloadable_product_permissions","exo_woocommerce_log","exo_woocommerce_order_items","exo_woocommerce_payment_tokens","exo_woocommerce_sessions","exo_woocommerce_shipping_zone_locations","exo_woocommerce_shipping_zone_methods","exo_woocommerce_shipping_zones","exo_woocommerce_tax_rate_locations","exo_woocommerce_tax_rates","exo_wpforms_tasks_meta","exo_yith_wcwl","exo_yith_wcwl_lists"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.010 () Entity: db
+0000.010 () restore_backup(backup_file=backup_2020-12-11-1544_SD_Express_af8587474a24-db.gz, type=db, info=a:0:{}, last_one=)
+0000.010 () Unpacking backup... (backup_2020-12-11-1544_SD_Express_af8587474a24-db.gz, 0.6 Mb)
+0000.011 () Database successfully unpacked
+0000.011 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.011 () Using direct MySQL access; value of use_mysqli is: 1
+0000.012 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ENGINE_SUBSTITUTION
+0000.050 () Max packet size: 32 MB
+0000.050 () Entering maintenance mode
+0000.050 () Omogućavanje moda za održavanje&#8230;
+0000.057 () Backup of: https://www.sdexpress.me
+0000.058 () Content URL: https://www.sdexpress.me/wp-content
+0000.058 () Uploads URL: https://www.sdexpress.me/wp-content/uploads
+0000.058 () Old table prefix: exo_
+0000.058 () Site information: multisite=0
+0000.058 () Site information: sql_mode=NO_ENGINE_SUBSTITUTION
+0000.058 () Skipped tables: 61dfa5_exo_actionscheduler_actions, 61dfa5_exo_actionscheduler_claims, 61dfa5_exo_actionscheduler_groups, 61dfa5_exo_actionscheduler_logs, 61dfa5_exo_commentmeta, 61dfa5_exo_comments, 61dfa5_exo_links, 61dfa5_exo_mailchimp_carts, 61dfa5_exo_mailchimp_jobs, 61dfa5_exo_options, 61dfa5_exo_postmeta, 61dfa5_exo_posts, 61dfa5_exo_revslider_css, 61dfa5_exo_revslider_css_bkp, 61dfa5_exo_revslider_layer_animations, 61dfa5_exo_revslider_layer_animations_bkp, 61dfa5_exo_revslider_navigations, 61dfa5_exo_revslider_navigations_bkp, 61dfa5_exo_revslider_sliders, 61dfa5_exo_revslider_sliders_bkp, 61dfa5_exo_revslider_slides, 61dfa5_exo_revslider_slides_bkp, 61dfa5_exo_revslider_static_slides, 61dfa5_exo_revslider_static_slides_bkp, 61dfa5_exo_term_relationships, 61dfa5_exo_term_taxonomy, 61dfa5_exo_termmeta, 61dfa5_exo_terms, 61dfa5_exo_usermeta, 61dfa5_exo_users, 61dfa5_exo_wc_admin_note_actions, 61dfa5_exo_wc_admin_notes, 61dfa5_exo_wc_category_lookup, 61dfa5_exo_wc_customer_lookup, 61dfa5_exo_wc_download_log, 61dfa5_exo_wc_order_coupon_lookup, 61dfa5_exo_wc_order_product_lookup, 61dfa5_exo_wc_order_stats, 61dfa5_exo_wc_order_tax_lookup, 61dfa5_exo_wc_product_meta_lookup, 61dfa5_exo_wc_reserved_stock, 61dfa5_exo_wc_tax_rate_classes, 61dfa5_exo_wc_webhooks, 61dfa5_exo_woocommerce_api_keys, 61dfa5_exo_woocommerce_attribute_taxonomies, 61dfa5_exo_woocommerce_downloadable_product_permissions, 61dfa5_exo_woocommerce_log, 61dfa5_exo_woocommerce_order_itemmeta, 61dfa5_exo_woocommerce_order_items, 61dfa5_exo_woocommerce_payment_tokenmeta, 61dfa5_exo_woocommerce_payment_tokens, 61dfa5_exo_woocommerce_sessions, 61dfa5_exo_woocommerce_shipping_zone_locations, 61dfa5_exo_woocommerce_shipping_zone_methods, 61dfa5_exo_woocommerce_shipping_zones, 61dfa5_exo_woocommerce_tax_rate_locations, 61dfa5_exo_woocommerce_tax_rates, 61dfa5_exo_yith_wcwl, 61dfa5_exo_yith_wcwl_lists, af0e4d_exo_actionscheduler_actions, af0e4d_exo_actionscheduler_claims, af0e4d_exo_actionscheduler_groups, af0e4d_exo_actionscheduler_logs, af0e4d_exo_commentmeta, af0e4d_exo_comments, af0e4d_exo_links, af0e4d_exo_mailchimp_carts, af0e4d_exo_mailchimp_jobs, af0e4d_exo_options, af0e4d_exo_postmeta, af0e4d_exo_posts, af0e4d_exo_revslider_css, af0e4d_exo_revslider_css_bkp, af0e4d_exo_revslider_layer_animations, af0e4d_exo_revslider_layer_animations_bkp, af0e4d_exo_revslider_navigations, af0e4d_exo_revslider_navigations_bkp, af0e4d_exo_revslider_sliders, af0e4d_exo_revslider_sliders_bkp, af0e4d_exo_revslider_slides, af0e4d_exo_revslider_slides_bkp, af0e4d_exo_revslider_static_slides, af0e4d_exo_revslider_static_slides_bkp, af0e4d_exo_term_relationships, af0e4d_exo_term_taxonomy, af0e4d_exo_termmeta, af0e4d_exo_terms, af0e4d_exo_usermeta, af0e4d_exo_users, af0e4d_exo_wc_admin_note_actions, af0e4d_exo_wc_admin_notes, af0e4d_exo_wc_category_lookup, af0e4d_exo_wc_customer_lookup, af0e4d_exo_wc_download_log, af0e4d_exo_wc_order_coupon_lookup, af0e4d_exo_wc_order_product_lookup, af0e4d_exo_wc_order_stats, af0e4d_exo_wc_order_tax_lookup, af0e4d_exo_wc_product_meta_lookup, af0e4d_exo_wc_reserved_stock, af0e4d_exo_wc_tax_rate_classes, af0e4d_exo_wc_webhooks, af0e4d_exo_woocommerce_api_keys, af0e4d_exo_woocommerce_attribute_taxonomies, af0e4d_exo_woocommerce_downloadable_product_permissions, af0e4d_exo_woocommerce_log, af0e4d_exo_woocommerce_order_itemmeta, af0e4d_exo_woocommerce_order_items, af0e4d_exo_woocommerce_payment_tokenmeta, af0e4d_exo_woocommerce_payment_tokens, af0e4d_exo_woocommerce_sessions, af0e4d_exo_woocommerce_shipping_zone_locations, af0e4d_exo_woocommerce_shipping_zone_methods, af0e4d_exo_woocommerce_shipping_zones, af0e4d_exo_woocommerce_tax_rate_locations, af0e4d_exo_woocommerce_tax_rates, af0e4d_exo_yith_wcwl, af0e4d_exo_yith_wcwl_lists, b2bdd4_exo_actionscheduler_actions, b2bdd4_exo_actionscheduler_claims, b2bdd4_exo_actionscheduler_groups, b2bdd4_exo_actionscheduler_logs, b2bdd4_exo_commentmeta, b2bdd4_exo_comments, b2bdd4_exo_links, b2bdd4_exo_mailchimp_carts, b2bdd4_exo_mailchimp_jobs, b2bdd4_exo_options, b2bdd4_exo_postmeta, b2bdd4_exo_posts, b2bdd4_exo_revslider_css, b2bdd4_exo_revslider_css_bkp, b2bdd4_exo_revslider_layer_animations, b2bdd4_exo_revslider_layer_animations_bkp, b2bdd4_exo_revslider_navigations, b2bdd4_exo_revslider_navigations_bkp, b2bdd4_exo_revslider_sliders, b2bdd4_exo_revslider_sliders_bkp, b2bdd4_exo_revslider_slides, b2bdd4_exo_revslider_slides_bkp, b2bdd4_exo_revslider_static_slides, b2bdd4_exo_revslider_static_slides_bkp, b2bdd4_exo_term_relationships, b2bdd4_exo_term_taxonomy, b2bdd4_exo_termmeta, b2bdd4_exo_terms, b2bdd4_exo_usermeta, b2bdd4_exo_users, b2bdd4_exo_wc_admin_note_actions, b2bdd4_exo_wc_admin_notes, b2bdd4_exo_wc_category_lookup, b2bdd4_exo_wc_customer_lookup, b2bdd4_exo_wc_download_log, b2bdd4_exo_wc_order_coupon_lookup, b2bdd4_exo_wc_order_product_lookup, b2bdd4_exo_wc_order_stats, b2bdd4_exo_wc_order_tax_lookup, b2bdd4_exo_wc_product_meta_lookup, b2bdd4_exo_wc_reserved_stock, b2bdd4_exo_wc_tax_rate_classes, b2bdd4_exo_wc_webhooks, b2bdd4_exo_woocommerce_api_keys, b2bdd4_exo_woocommerce_attribute_taxonomies, b2bdd4_exo_woocommerce_downloadable_product_permissions, b2bdd4_exo_woocommerce_log, b2bdd4_exo_woocommerce_order_itemmeta, b2bdd4_exo_woocommerce_order_items, b2bdd4_exo_woocommerce_payment_tokenmeta, b2bdd4_exo_woocommerce_payment_tokens, b2bdd4_exo_woocommerce_sessions, b2bdd4_exo_woocommerce_shipping_zone_locations, b2bdd4_exo_woocommerce_shipping_zone_methods, b2bdd4_exo_woocommerce_shipping_zones, b2bdd4_exo_woocommerce_tax_rate_locations, b2bdd4_exo_woocommerce_tax_rates, b2bdd4_exo_wpforms_tasks_meta, b2bdd4_exo_yith_wcwl, b2bdd4_exo_yith_wcwl_lists
+0000.059 () New table prefix: exo_
+0000.073 () Processing table (InnoDB): exo_options
+0000.283 () Restoring prior UD configuration (table: exo_options; keys: 4)
+0000.295 () Processing table (InnoDB): exo_users
+0000.325 () Processing table (InnoDB): exo_usermeta
+0000.359 () Processing table (InnoDB): exo_actionscheduler_actions
+0000.397 () Processing table (InnoDB): exo_actionscheduler_claims
+0000.420 () Processing table (InnoDB): exo_actionscheduler_groups
+0000.446 () Processing table (InnoDB): exo_actionscheduler_logs
+0000.479 () Processing table (InnoDB): exo_commentmeta
+0000.509 () Processing table (InnoDB): exo_comments
+0000.545 () Processing table (InnoDB): exo_links
+0000.571 () Processing table (InnoDB): exo_postmeta
+0000.673 () Processing table (InnoDB): exo_posts
+0000.745 () Processing table (InnoDB): exo_term_relationships
+0000.768 () Processing table (InnoDB): exo_term_taxonomy
+0000.783 () Database queries processed: 50 in 0.77 seconds
+0000.794 () Processing table (InnoDB): exo_termmeta
+0000.860 () Processing table (InnoDB): exo_terms
+0000.886 () Processing table (InnoDB): exo_wc_category_lookup
+0000.915 () Processing table (InnoDB): exo_wc_product_meta_lookup
+0000.946 () Processing table (InnoDB): exo_wc_reserved_stock
+0000.966 () Processing table (InnoDB): exo_wc_tax_rate_classes
+0000.990 () Processing table (InnoDB): exo_woocommerce_order_itemmeta
+0001.016 () Processing table (InnoDB): exo_woocommerce_payment_tokenmeta
+0001.045 () Processing table (InnoDB): exo_dokan_announcement
+0001.068 () Processing table (InnoDB): exo_dokan_orders
+0001.091 () Processing table (InnoDB): exo_dokan_refund
+0001.111 () Processing table (InnoDB): exo_dokan_shipping_zone_locations
+0001.130 () Processing table (InnoDB): exo_dokan_shipping_zone_methods
+0001.150 () Processing table (InnoDB): exo_dokan_vendor_balance
+0001.169 () Processing table (InnoDB): exo_dokan_withdraw
+0001.189 () Processing table (InnoDB): exo_mailchimp_carts
+0001.211 () Processing table (InnoDB): exo_mailchimp_jobs
+0001.229 () Processing table (InnoDB): exo_revslider_css
+0001.260 () Processing table (InnoDB): exo_revslider_css_bkp
+0001.273 () Database queries processed: 100 in 1.26 seconds
+0001.282 () Processing table (InnoDB): exo_revslider_layer_animations
+0001.303 () Processing table (InnoDB): exo_revslider_layer_animations_bkp
+0001.322 () Processing table (InnoDB): exo_revslider_navigations
+0001.342 () Processing table (InnoDB): exo_revslider_navigations_bkp
+0001.359 () Processing table (InnoDB): exo_revslider_sliders
+0001.379 () Processing table (InnoDB): exo_revslider_sliders_bkp
+0001.398 () Processing table (InnoDB): exo_revslider_slides
+0001.418 () Processing table (InnoDB): exo_revslider_slides_bkp
+0001.436 () Processing table (InnoDB): exo_revslider_static_slides
+0001.455 () Processing table (InnoDB): exo_revslider_static_slides_bkp
+0001.475 () Processing table (InnoDB): exo_wc_admin_note_actions
+0001.496 () Processing table (InnoDB): exo_wc_admin_notes
+0001.519 () Processing table (InnoDB): exo_wc_customer_lookup
+0001.550 () Processing table (InnoDB): exo_wc_download_log
+0001.573 () Processing table (InnoDB): exo_wc_order_coupon_lookup
+0001.597 () Processing table (InnoDB): exo_wc_order_product_lookup
+0001.624 () Processing table (InnoDB): exo_wc_order_stats
+0001.649 () Processing table (InnoDB): exo_wc_order_tax_lookup
+0001.673 () Processing table (InnoDB): exo_wc_webhooks
+0001.695 () Processing table (InnoDB): exo_woocommerce_api_keys
+0001.718 () Processing table (InnoDB): exo_woocommerce_attribute_taxonomies
+0001.729 () Database queries processed: 150 in 1.72 seconds
+0001.741 () Processing table (InnoDB): exo_woocommerce_downloadable_product_permissions
+0001.768 () Processing table (InnoDB): exo_woocommerce_log
+0001.789 () Processing table (InnoDB): exo_woocommerce_order_items
+0001.810 () Processing table (InnoDB): exo_woocommerce_payment_tokens
+0001.829 () Processing table (InnoDB): exo_woocommerce_sessions
+0001.853 () Processing table (InnoDB): exo_woocommerce_shipping_zone_locations
+0001.875 () Processing table (InnoDB): exo_woocommerce_shipping_zone_methods
+0001.893 () Processing table (InnoDB): exo_woocommerce_shipping_zones
+0001.912 () Processing table (InnoDB): exo_woocommerce_tax_rate_locations
+0001.937 () Processing table (InnoDB): exo_woocommerce_tax_rates
+0001.966 () Processing table (InnoDB): exo_wpforms_tasks_meta
+0001.985 () Processing table (InnoDB): exo_yith_wcwl
+0002.007 () Processing table (InnoDB): exo_yith_wcwl_lists
+0002.026 () UpdraftPlus Vault: this site has not been connected - check your settings
+0004.279 () Unlocking database and leaving maintenance mode
+0004.279 () Onemogućavanje moda za održavanje&#8230; 
+0004.279 () Finished: lines processed: 184 in 4.27 seconds
+0004.280 () Cleaning up rubbish...
+0004.289 () Entity: themes
+0004.289 () restore_backup(backup_file=backup_2020-12-11-1544_SD_Express_af8587474a24-themes.zip, type=themes, info=a:2:{s:4:"path";s:61:"/home/customer/www/sdexpress.me/public_html/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0004.289 () Unpacking backup... (backup_2020-12-11-1544_SD_Express_af8587474a24-themes.zip, 7.6 MB)
+0004.292 () Unzipping backup_2020-12-11-1544_SD_Express_af8587474a24-themes.zip to /home/customer/www/sdexpress.me/public_html/wp-content/upgrade/f6cc35ed/ using UpdraftPlus_ZipArchive, starting index 0
+0004.443 () Unzip progress: 708 out of 708 files (25.7 MB, themes/electro/wpml-config.xml)
+0004.446 () Moving old data: filesystem method / updraft_dir is potentially possible
+0004.447 () Moving old data: can potentially use wp_filesystem method / -old
+0004.447 () Moving old data out of the way...
+0004.465 () Top-level entities being moved: electro, twentytwentyone, electro-child, index.php
+0004.466 () Moving unpacked backup into place...
+0004.484 () Top-level entities being moved: electro, twentytwentyone, electro-child, index.php
+0004.485 () Cleaning up rubbish...
+0004.487 () Entity: uploads
+0004.487 () restore_backup(backup_file=backup_2020-12-11-1544_SD_Express_af8587474a24-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:62:"/home/customer/www/sdexpress.me/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0004.487 () Unpacking backup... (backup_2020-12-11-1544_SD_Express_af8587474a24-uploads.zip, 204.5 MB)
+0004.487 () Unzipping backup_2020-12-11-1544_SD_Express_af8587474a24-uploads.zip to /home/customer/www/sdexpress.me/public_html/wp-content/upgrade/33ed940b/ using UpdraftPlus_ZipArchive, starting index 0
+0004.618 () Unzip progress: 1002 out of 7876 files (9.6 MB, uploads/2019/06/Image-3-2-1024x420.jpg)
+0004.705 () Unzip progress: 2003 out of 7876 files (28.9 MB, uploads/2019/04/Image-32-1-150x150.jpg)
+0004.799 () Unzip progress: 3004 out of 7876 files (50.2 MB, uploads/2019/03/newspaper_bg3-2-1024x768.jpg)
+0004.908 () Unzip progress: 4005 out of 7876 files (78.7 MB, uploads/2018/06/paymet-1-220x24.png)
+0005.071 () Unzip progress: 5006 out of 7876 files (129.1 MB, uploads/2017/01/portfolio-5-100x100.jpg)
+0005.158 () Unzip progress: 6007 out of 7876 files (147.4 MB, uploads/2020/02/banner-vendor-4-1170x350-1-1-300x300.jpg)
+0005.295 () Unzip progress: 7008 out of 7876 files (185.6 MB, uploads/2020/02/home-8-300x300.jpg)
+0005.378 () Unzip progress: 7876 out of 7876 files (204.3 MB, uploads/2016/03/2-220x154.jpg)
+0005.415 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.415 () Moving old data: can potentially use wp_filesystem method / -old
+0005.415 () Moving old data out of the way...
+0005.689 () Moving unpacked backup into place...
+0005.908 () Cleaning up rubbish...
+0005.911 () Entity: others
+0005.911 () restore_backup(backup_file=backup_2020-12-11-1544_SD_Express_af8587474a24-others.zip, type=others, info=a:2:{s:4:"path";s:54:"/home/customer/www/sdexpress.me/public_html/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0005.911 () Unpacking backup... (backup_2020-12-11-1544_SD_Express_af8587474a24-others.zip, 5.9 MB)
+0005.911 () Unzipping backup_2020-12-11-1544_SD_Express_af8587474a24-others.zip to /home/customer/www/sdexpress.me/public_html/wp-content/upgrade/581348fa/ using UpdraftPlus_ZipArchive, starting index 0
+0006.067 () Unzip progress: 1002 out of 1096 files (16.5 MB, languages/sr_RS-81c889563f09dd13de1701135dc62941.json)
+0006.108 () Unzip progress: 1096 out of 1096 files (22.8 MB, languages/sr_RS-f575f481034e90e21d832e415fd95fcf.json)
+0006.110 () Cleaning up rubbish...
+0006.125 () Restore successful!
+0006.125 () Restore successful

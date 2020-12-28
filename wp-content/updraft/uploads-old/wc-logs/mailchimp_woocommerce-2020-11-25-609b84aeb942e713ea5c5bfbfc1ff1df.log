@@ -1,0 +1,108 @@
+2020-11-25T14:28:23+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5faae7147244e
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 577d3b626f
+            [name] => SD Express
+            [domain] => https://www.sdexpress.me
+            [email_address] => admin@sdexpress.me
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => bs_BA
+            [timezone] => +00:00
+            [phone] => +38268383940
+            [address] => Array
+                (
+                    [address1] => Prve Proleterske brigade 72
+                    [city] => Podgorica
+                    [province] => Montenegro
+                    [postal_code] => 81000
+                    [country] => ME
+                    [country_code] => ME
+                    [phone] => +38268383940
+                    [company] => SD Express
+                )
+
+        )
+
+)
+
+2020-11-25T14:28:26+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5faae7147244e
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 577d3b626f
+            [name] => SD Express
+            [domain] => https://www.sdexpress.me
+            [email_address] => admin@sdexpress.me
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => bs_BA
+            [timezone] => +00:00
+            [phone] => +38268383940
+            [address] => Array
+                (
+                    [address1] => Prve Proleterske brigade 72
+                    [city] => Podgorica
+                    [province] => Montenegro
+                    [postal_code] => 81000
+                    [country] => ME
+                    [country_code] => ME
+                    [phone] => +38268383940
+                    [company] => SD Express
+                )
+
+        )
+
+)
+
+2020-11-25T14:28:27+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5faae7147244e
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 577d3b626f
+            [name] => SD Express
+            [domain] => https://www.sdexpress.me
+            [email_address] => admin@sdexpress.me
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => bs_BA
+            [timezone] => +00:00
+            [phone] => +38268383940
+            [address] => Array
+                (
+                    [address1] => Prve Proleterske brigade 72
+                    [city] => Podgorica
+                    [province] => Montenegro
+                    [postal_code] => 81000
+                    [country] => ME
+                    [country_code] => ME
+                    [phone] => +38268383940
+                    [company] => SD Express
+                )
+
+        )
+
+)
+
+2020-11-25T14:28:28+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Nov 25, 2020 2:28 PM
+2020-11-25T14:28:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-11-25T14:29:30+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-11-25T14:29:30+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-11-25T14:29:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-11-25T14:29:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-11-25T14:29:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 35
+2020-11-25T14:29:32+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-11-25T14:29:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #35
+2020-11-25T14:30:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-11-25T14:30:24+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-11-25T14:30:54+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Nov 25, 2020 2:30 PM (total time: 00:02:26)

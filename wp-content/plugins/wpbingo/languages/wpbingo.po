@@ -1,0 +1,1169 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid " Chose to select footer page content for this page. "
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid " Chose to select header page content for this page. "
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid " Chose to select type dropdown vertical menu for this page. "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-recent-post/default.php:58
+#: wpbingo/elementor-template/bwp-recent-post/slider3.php:52
+#: wpbingo/elementor-template/bwp-recent-post/slider4.php:55
+msgid " Comment"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-recent-post/default.php:60
+#: wpbingo/elementor-template/bwp-recent-post/default.php:63
+#: wpbingo/elementor-template/bwp-recent-post/slider3.php:54
+#: wpbingo/elementor-template/bwp-recent-post/slider4.php:57
+#: wpbingo/elementor-template/bwp-recent-post/slider4.php:60
+msgid " Comments"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_category-3.php:31
+#: wpbingo/elementor-template/bwp-image/banner_category.php:22
+#: wpbingo/elementor-template/bwp-product-categories/default.php:78
+#: wpbingo/elementor-template/bwp-product-categories/slider.php:69
+#: wpbingo/elementor-template/bwp-product-categories/slider1.php:69
+#: wpbingo/elementor-template/bwp-product-categories/slider2.php:69
+msgid " Item"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_category-3.php:33
+#: wpbingo/elementor-template/bwp-image/banner_category.php:24
+#: wpbingo/elementor-template/bwp-product-categories/default.php:80
+#: wpbingo/elementor-template/bwp-product-categories/list.php:57
+#: wpbingo/elementor-template/bwp-product-categories/slider.php:71
+#: wpbingo/elementor-template/bwp-product-categories/slider1.php:71
+#: wpbingo/elementor-template/bwp-product-categories/slider2.php:71
+msgid " Items"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:143
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "Add New Brands"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:1
+msgid "Add a custom menu to your sidebar."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-category/default.php:27
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-category/slider-2.php:31
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-category/slider-3.php:24
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-category/slider.php:26
+#: wpbingo/elementor-template/bwp-portfolio/portfolio-item.php:46
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "All Brands"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/loadmore.php:52
+msgid "All Products"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "All done."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:53
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:54
+msgid "All products"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/bwp_ajax_filter.php:1
+msgid "Allows you to filter atribute,price products"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:330
+msgid "Attribute"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:99
+#: wpbingo/lib/metabox.php:192
+msgid "Banner Category"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/loadmore.php:79
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/default.php:27
+msgid "Best Sellers"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/slider.php:22
+msgid "Best Selling"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:30
+#: wpbingo/lib/metabox.php:57
+msgid "Blog Sidebar"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:21
+#: wpbingo/lib/metabox.php:46
+msgid "Blog View"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+#: wpbingo/widgets/bwp_ajax_filter.php:511
+msgid "Brands"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/metabox.php:829
+#: wpbingo/lib/metabox.php:853
+msgid "Browse"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:119
+#: wpbingo/lib/metabox.php:222
+msgid "Button Banner"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/widgets/recent_post.php:228
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:127
+#: wpbingo/lib/metabox.php:234
+msgid "Category Icon"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:140
+#: wpbingo/lib/metabox.php:251
+msgid "Category Sidebar"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:132
+#: wpbingo/lib/metabox.php:241
+msgid "Category View"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:364
+#: wpbingo/function.php:272
+msgid "Choose "
+msgstr ""
+
+#. Text in function
+#: wpbingo/function.php:322
+msgid "Choose Brands"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:859
+msgid "Chose to select layout for post. "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:83
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:84
+#: wpbingo/widgets-template/bwp-ajax-filter/title.php:26
+msgid "Clear All"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:37
+msgid "Close"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_countdown-2.php:23
+#: wpbingo/elementor-template/bwp-image/banner_countdown.php:32
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown-2.php:31
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown.php:32
+#: wpbingo/elementor-template/bwp-product-countdown/slider.php:41
+#: wpbingo/elementor-template/bwp-product-countdown/slider2.php:40
+#: wpbingo/elementor-template/bwp-product-countdown/slider3.php:43
+#: wpbingo/elementor-template/bwp-product-countdown/slider4.php:61
+msgid "Days"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/function.php:1
+#: wpbingo/lib/metabox.php:142
+#: wpbingo/lib/metabox.php:49
+#: wpbingo/lib/metabox.php:60
+#: wpbingo/lib/metabox.php:244
+#: wpbingo/lib/metabox.php:254
+#: wpbingo/lib/metabox.php:859
+#: wpbingo/widgets/recent_post.php:367
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:1
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:1
+msgid "Default sorting"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Dropdown Vertical Menu"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "Edit Brands"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:153
+msgid "Edit Menu"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Enter Max number on screen >= 1200px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Enter Max number on screen >= 1530px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Enter Max number on screen >= 991px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:129
+#: wpbingo/lib/metabox.php:237
+msgid "Ex : fa fa-home"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:245
+msgid "Excerpt length (in words): "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Extra Class"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Extra Description"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/slider.php:22
+#: wpbingo/lib/brands.php:121
+#: wpbingo/lib/brands.php:139
+msgid "Featured"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/loadmore.php:79
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/default.php:27
+msgid "Featured Products"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:66
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:67
+msgid "Filter"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Footer Page Select"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:135
+#: wpbingo/lib/metabox.php:50
+#: wpbingo/lib/metabox.php:245
+msgid "Grid"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Have fun!"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Header Style Select"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets-template/bwp-ajax-filter/breadcrumb.php:2
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_countdown-2.php:24
+#: wpbingo/elementor-template/bwp-image/banner_countdown.php:33
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown-2.php:32
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown.php:33
+#: wpbingo/elementor-template/bwp-product-countdown/slider.php:42
+#: wpbingo/elementor-template/bwp-product-countdown/slider2.php:41
+#: wpbingo/elementor-template/bwp-product-countdown/slider3.php:44
+#: wpbingo/elementor-template/bwp-product-countdown/slider4.php:62
+msgid "Hours"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-instagram/default.php:27
+#: wpbingo/elementor-template/bwp-instagram/slider.php:29
+#: wpbingo/elementor-template/bwp-slider/default.php:11
+#: wpbingo/elementor-template/bwp-slider/default.php:40
+msgid "Image Slider"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Imported"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Imported to Inactive"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets-template/bwp-ajax-filter/filter.php:98
+msgid "In Stock"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+#: wpbingo/lib/metabox.php:797
+msgid "Job"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/slider.php:22
+msgid "Lastest Products"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/loadmore.php:79
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/default.php:27
+msgid "Latest Products"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/lib/metabox.php:859
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:143
+#: wpbingo/lib/metabox.php:61
+#: wpbingo/lib/metabox.php:255
+#: wpbingo/lib/metabox.php:859
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:123
+#: wpbingo/lib/metabox.php:228
+msgid "Link Button Banner"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:136
+#: wpbingo/lib/metabox.php:51
+#: wpbingo/lib/metabox.php:246
+msgid "List"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-product-list/loadmore.php:39
+msgid "Load More"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Loadmore"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:26
+#: wpbingo/lib/metabox.php:52
+msgid "Masonry"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Max number vertical menu on screen >= 1200px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Max number vertical menu on screen >= 1530px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Max number vertical menu on screen >= 991px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_countdown-2.php:25
+#: wpbingo/elementor-template/bwp-image/banner_countdown.php:34
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown-2.php:33
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown.php:34
+#: wpbingo/elementor-template/bwp-product-countdown/slider.php:43
+#: wpbingo/elementor-template/bwp-product-countdown/slider2.php:42
+#: wpbingo/elementor-template/bwp-product-countdown/slider3.php:45
+#: wpbingo/elementor-template/bwp-product-countdown/slider4.php:63
+msgid "Mins"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/brands.php:40
+msgid "Most Used"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "New Brands Name"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/widgets/bwp_ajax_filter.php:324
+#: wpbingo/widgets/custom_menu.php:136
+#: wpbingo/widgets/recent_post.php:356
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-recent-post/slider3.php:57
+msgid "No Comments"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "No Title"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:120
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number Of Products"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number of Columns 1200px to 1500px"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:253
+msgid "Number of Columns >1200px: "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number of Columns >1500px"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number of Columns in 480px or less than"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:329
+msgid "Number of Columns in 480px or less than: "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number of Columns on 480px to 767px"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:310
+msgid "Number of Columns on 480px to 767px: "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number of Columns on 768px to 991px"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:291
+msgid "Number of Columns on 768px to 991px: "
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number of Columns on 992px to 1199px"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:272
+msgid "Number of Columns on 992px to 1199px: "
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:233
+msgid "Number of Posts"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:239
+msgid "Number row of Posts"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Number row per column"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets-template/bwp-ajax-filter/filter.php:89
+msgid "Only Sale"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Order Product"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:36
+msgid "Other"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Page Logo"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Page Metabox"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "Parent Brands"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "Parent Brands:"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:1
+msgid "Please active woocommerce plugin or install woomcommerce plugin first!"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Post Metabox"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:859
+msgid "Post Sidebar"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/bwp_ajax_filter.php:380
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown-2.php:21
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown.php:21
+msgid "Price From "
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Profile"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/bwp_ajax_filter.php:380
+msgid "Range : "
+msgstr ""
+
+#. Text in echo
+#: wpbingo/elementor-template/bwp-recent-post/blogs.php:20
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/metabox.php:830
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/metabox.php:94
+#: wpbingo/lib/metabox.php:106
+#: wpbingo/lib/metabox.php:186
+#: wpbingo/lib/metabox.php:204
+#: wpbingo/lib/metabox.php:854
+#: wpbingo/lib/metabox.php:931
+msgid "Remove image"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:144
+#: wpbingo/lib/metabox.php:62
+#: wpbingo/lib/metabox.php:256
+#: wpbingo/lib/metabox.php:859
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-product-countdown/slider4.php:72
+msgid "Sale up to <span>%s</span> off"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "Search Genres"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-image/banner_countdown-2.php:26
+#: wpbingo/elementor-template/bwp-image/banner_countdown.php:35
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown-2.php:34
+#: wpbingo/elementor-template/bwp-image/banner_product_countdown.php:35
+#: wpbingo/elementor-template/bwp-product-countdown/slider.php:44
+#: wpbingo/elementor-template/bwp-product-countdown/slider2.php:43
+#: wpbingo/elementor-template/bwp-product-countdown/slider3.php:46
+#: wpbingo/elementor-template/bwp-product-countdown/slider4.php:64
+msgid "Secs"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Select Categories"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:141
+msgid "Select Menu:"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets-template/bwp-ajax-filter/breadcrumb.php:4
+msgid "Shop"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-widget-slider/default.php:19
+msgid "Shop Now"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:314
+msgid "Show Brand"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:254
+msgid "Show Filter Price"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Show Icon Categories"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:284
+msgid "Show In Stock"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/widgets/recent_post.php:348
+msgid "Show Navigation"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:299
+msgid "Show Number Of Product"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/bwp_ajax_filter.php:269
+msgid "Show Only Sale"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Show Pagination"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Show Thumbnail Categories"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/recent_post.php:371
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Site does not support widget"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:69
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:70
+msgid "Sort by"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:1
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:1
+msgid "Sort by average rating"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:1
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:1
+msgid "Sort by newness"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:1
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:1
+msgid "Sort by popularity"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:1
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:1
+msgid "Sort by price: high to low"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:1
+#: wpbingo/elementor-template/bwp-filter-homepage/slider.php:1
+msgid "Sort by price: low to high"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:797
+msgid "Star Rating"
+msgstr ""
+
+#. Text in function
+#: wpbingo/function.php:1
+msgid "Sticky"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets-template/bwp-ajax-filter/filter.php:82
+msgid "Stock status"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:115
+#: wpbingo/lib/metabox.php:216
+msgid "Sub Title Banner"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Category"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Category Slider"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Category Slider 3"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Product"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Product Slider"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Product Slider 2"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Product Slider 3"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Tab Product Slider 4"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/recent_post.php:361
+msgid "Template"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/metabox.php:823
+#: wpbingo/lib/metabox.php:842
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:87
+#: wpbingo/lib/metabox.php:174
+msgid "Thumbnail 1"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/widgets/bwp_ajax_filter.php:248
+#: wpbingo/widgets/recent_post.php:222
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:111
+#: wpbingo/lib/metabox.php:210
+msgid "Title Banner"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:124
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/wordpress-importer.php:265
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/loadmore.php:79
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/default.php:27
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-product/slider.php:22
+msgid "Top Rating"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Tumblr"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Type your Class here"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Type your Description here"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Type your title here"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "Update Brands"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Upload custom Logo for this page"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/lib/metabox.php:93
+#: wpbingo/lib/metabox.php:105
+#: wpbingo/lib/metabox.php:185
+#: wpbingo/lib/metabox.php:203
+#: wpbingo/lib/metabox.php:930
+msgid "Upload/Add image"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:797
+msgid "Url"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Vertical"
+msgstr ""
+
+#. Text in echo
+#: wpbingo/widgets/custom_menu.php:128
+msgid "Vetical Menu"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/default.php:165
+msgid "View More"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/loadmore.php:136
+msgid "View all"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Widget already exists"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:145
+#: wpbingo/lib/metabox.php:63
+#: wpbingo/lib/metabox.php:257
+#: wpbingo/lib/metabox.php:859
+msgid "Without Sidebar"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/custom_menu.php:1
+msgid "Wpbingo Custom Menu"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+msgid "Wpbingo Filter Homepage"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/recent_post.php:1
+msgid "Wpbingo Recent Post"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/recent_post.php:1
+msgid "Wpbingo Recent Post Widget"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Wpbingo Slider"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor/bwp_filter_homepage.php:1
+#: wpbingo/widgets/bwp_ajax_filter.php:320
+#: wpbingo/widgets/custom_menu.php:133
+#: wpbingo/widgets/recent_post.php:353
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/metabox.php:550
+msgid "Youtube"
+msgstr ""
+
+#. Text in function
+#: wpbingo/elementor-template/bwp-filter-homepage/tab-category/slider.php:41
+msgid "all category"
+msgstr ""
+
+#. Text in function
+#: wpbingo/lib/brands.php:144
+msgid "brand"
+msgstr ""
+
+#. Text in function
+#: wpbingo/widgets/bwp_ajax_filter.php:354
+msgid "color"
+msgstr ""
+
+#. Text in function
+#: wpbingo/function.php:1
+msgid "read More"
+msgstr ""

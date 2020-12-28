@@ -1,0 +1,1582 @@
+0000.000 (0) Opened log file at time: Sat, 12 Dec 2020 15:43:31 +0000 on https://www.sdexpress.me
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.42 WP: 5.6 PHP: 7.3.25 (cgi-fcgi, Linux gnldm1049.siteground.biz 3.12.18-clouder0 #1 SMP PREEMPT Mon Sep 21 14:18:04 EEST 2020 x86_64) MySQL: 5.7.26-29-log WPLANG: bs_BA Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 28M | 30M) multisite: N openssl: OpenSSL 1.1.1d FIPS  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 1727138.9 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.003 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.007 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1607784016, seconds_ago=3795)
+0000.008 (0) Semaphore (fd, exo_options) was stuck, set lock time to 2020-12-12 15:43:31
+0000.009 (0) Semaphore (fd, exo_options) reset to 1
+0000.009 (0) Set semaphore last lock (fd) time to 2020-12-12 15:43:31
+0000.010 (0) Semaphore lock (fd) complete
+0000.011 (0) Backup run: resumption=0, nonce=19d42699c422, file_nonce=19d42699c422 begun at=1607787811 (0s ago), job type=backup
+0000.012 (0) Scheduling a resumption (1) after 300 seconds (1607788111) in case this run gets aborted
+0000.023 (0) Checking if we have a zip executable available
+0000.024 (0) Testing: /usr/bin/zip
+0000.026 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.027 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.027 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.028 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.028 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.033 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.034 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.040 (0) Working binary zip found: /usr/bin/zip
+0000.041 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.041 (0) Creation of backups of directories: beginning
+0000.043 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.312 (0) Total entities for the zip file: 2948 directories, 17015 files (0 skipped as non-modified), 271 MB
+0000.317 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.321 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.325 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.328 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.332 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.336 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.340 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.344 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.348 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.351 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.352 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.7 MB, 17015 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0000.876 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: size is now: 5.30 MB
+0000.881 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1100 files added (on-disk size: 5411.1 KB)
+0000.885 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1200 files added (on-disk size: 5411.1 KB)
+0000.888 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1300 files added (on-disk size: 5411.1 KB)
+0000.892 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1400 files added (on-disk size: 5411.1 KB)
+0000.896 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1500 files added (on-disk size: 5411.1 KB)
+0000.899 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1600 files added (on-disk size: 5411.1 KB)
+0000.903 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1700 files added (on-disk size: 5411.1 KB)
+0000.909 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1800 files added (on-disk size: 5411.1 KB)
+0000.913 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 1900 files added (on-disk size: 5411.1 KB)
+0000.918 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2000 files added (on-disk size: 5411.1 KB)
+0000.918 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.2 MB, 17015 files batched, 1001 (2002) added so far); re-opening (prior size: 5411.1 KB)
+0001.851 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: size is now: 12.00 MB
+0001.856 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2100 files added (on-disk size: 12302.8 KB)
+0001.860 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2200 files added (on-disk size: 12302.8 KB)
+0001.864 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2300 files added (on-disk size: 12302.8 KB)
+0001.869 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2400 files added (on-disk size: 12302.8 KB)
+0001.872 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2500 files added (on-disk size: 12302.8 KB)
+0001.876 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2600 files added (on-disk size: 12302.8 KB)
+0001.879 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2700 files added (on-disk size: 12302.8 KB)
+0001.883 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2800 files added (on-disk size: 12302.8 KB)
+0001.887 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 2900 files added (on-disk size: 12302.8 KB)
+0001.890 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3000 files added (on-disk size: 12302.8 KB)
+0001.891 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.8 MB, 17015 files batched, 1001 (3003) added so far); re-opening (prior size: 12302.8 KB)
+0002.464 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: size is now: 27.40 MB
+0002.470 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3100 files added (on-disk size: 28063.1 KB)
+0002.474 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3200 files added (on-disk size: 28063.1 KB)
+0002.478 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3300 files added (on-disk size: 28063.1 KB)
+0002.482 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3400 files added (on-disk size: 28063.1 KB)
+0002.486 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3500 files added (on-disk size: 28063.1 KB)
+0002.490 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3600 files added (on-disk size: 28063.1 KB)
+0002.494 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3700 files added (on-disk size: 28063.1 KB)
+0002.497 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3800 files added (on-disk size: 28063.1 KB)
+0002.501 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 3900 files added (on-disk size: 28063.1 KB)
+0002.505 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4000 files added (on-disk size: 28063.1 KB)
+0002.506 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.6 MB, 17015 files batched, 1001 (4004) added so far); re-opening (prior size: 28063.1 KB)
+0002.982 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4100 files added (on-disk size: 33125.2 KB)
+0002.986 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4200 files added (on-disk size: 33125.2 KB)
+0002.990 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4300 files added (on-disk size: 33125.2 KB)
+0002.994 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4400 files added (on-disk size: 33125.2 KB)
+0002.997 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4500 files added (on-disk size: 33125.2 KB)
+0003.001 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4600 files added (on-disk size: 33125.2 KB)
+0003.005 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4700 files added (on-disk size: 33125.2 KB)
+0003.010 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4800 files added (on-disk size: 33125.2 KB)
+0003.014 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 4900 files added (on-disk size: 33125.2 KB)
+0003.018 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5000 files added (on-disk size: 33125.2 KB)
+0003.019 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.2 MB, 17015 files batched, 1001 (5005) added so far); re-opening (prior size: 33125.2 KB)
+0003.444 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5100 files added (on-disk size: 36536.4 KB)
+0003.449 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5200 files added (on-disk size: 36536.4 KB)
+0003.454 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5300 files added (on-disk size: 36536.4 KB)
+0003.459 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5400 files added (on-disk size: 36536.4 KB)
+0003.463 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5500 files added (on-disk size: 36536.4 KB)
+0003.468 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5600 files added (on-disk size: 36536.4 KB)
+0003.474 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5700 files added (on-disk size: 36536.4 KB)
+0003.478 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5800 files added (on-disk size: 36536.4 KB)
+0003.483 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 5900 files added (on-disk size: 36536.4 KB)
+0003.489 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6000 files added (on-disk size: 36536.4 KB)
+0003.490 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3 MB, 17015 files batched, 1001 (6006) added so far); re-opening (prior size: 36536.4 KB)
+0003.720 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6100 files added (on-disk size: 38080 KB)
+0003.726 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6200 files added (on-disk size: 38080 KB)
+0003.731 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6300 files added (on-disk size: 38080 KB)
+0003.735 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6400 files added (on-disk size: 38080 KB)
+0003.740 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6500 files added (on-disk size: 38080 KB)
+0003.744 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6600 files added (on-disk size: 38080 KB)
+0003.748 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6700 files added (on-disk size: 38080 KB)
+0003.753 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6800 files added (on-disk size: 38080 KB)
+0003.757 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 6900 files added (on-disk size: 38080 KB)
+0003.762 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7000 files added (on-disk size: 38080 KB)
+0003.763 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.8 MB, 17015 files batched, 1001 (7007) added so far); re-opening (prior size: 38080 KB)
+0004.374 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7100 files added (on-disk size: 41659.5 KB)
+0004.379 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7200 files added (on-disk size: 41659.5 KB)
+0004.385 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7300 files added (on-disk size: 41659.5 KB)
+0004.391 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7400 files added (on-disk size: 41659.5 KB)
+0004.397 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7500 files added (on-disk size: 41659.5 KB)
+0004.403 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7600 files added (on-disk size: 41659.5 KB)
+0004.410 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7700 files added (on-disk size: 41659.5 KB)
+0004.416 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7800 files added (on-disk size: 41659.5 KB)
+0004.423 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 7900 files added (on-disk size: 41659.5 KB)
+0004.427 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (35.8 MB, 17015 files batched, 942 (7949) added so far); re-opening (prior size: 41659.5 KB)
+0005.186 (0) A useful amount of data was added after this amount of zip processing: 1.6 s (normalised: 1.1 s, rate: 23548.8 KB/s)
+0005.187 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.5569589138031, normalised_time=1.0871059173026, max_time=5.1861960887909, data points known=1, old_max_bytes=26214400, new_max_bytes=144683602)
+0005.191 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8000 files added (on-disk size: 48438.1 KB)
+0005.198 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8100 files added (on-disk size: 48438.1 KB)
+0005.204 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8200 files added (on-disk size: 48438.1 KB)
+0005.211 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8300 files added (on-disk size: 48438.1 KB)
+0005.217 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8400 files added (on-disk size: 48438.1 KB)
+0005.224 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8500 files added (on-disk size: 48438.1 KB)
+0005.231 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8600 files added (on-disk size: 48438.1 KB)
+0005.238 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8700 files added (on-disk size: 48438.1 KB)
+0005.245 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8800 files added (on-disk size: 48438.1 KB)
+0005.250 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 8900 files added (on-disk size: 48438.1 KB)
+0005.252 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.1 MB, 17015 files batched, 1001 (8950) added so far); re-opening (prior size: 48438.1 KB)
+0005.899 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9000 files added (on-disk size: 52314.8 KB)
+0005.903 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9100 files added (on-disk size: 52314.8 KB)
+0005.907 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9200 files added (on-disk size: 52314.8 KB)
+0005.911 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9300 files added (on-disk size: 52314.8 KB)
+0005.915 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9400 files added (on-disk size: 52314.8 KB)
+0005.920 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9500 files added (on-disk size: 52314.8 KB)
+0005.925 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9600 files added (on-disk size: 52314.8 KB)
+0005.929 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9700 files added (on-disk size: 52314.8 KB)
+0005.933 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9800 files added (on-disk size: 52314.8 KB)
+0005.938 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 9900 files added (on-disk size: 52314.8 KB)
+0005.941 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (14.4 MB, 17015 files batched, 1001 (9951) added so far); re-opening (prior size: 52314.8 KB)
+0006.468 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10000 files added (on-disk size: 59052.2 KB)
+0006.474 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10100 files added (on-disk size: 59052.2 KB)
+0006.478 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10200 files added (on-disk size: 59052.2 KB)
+0006.482 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10300 files added (on-disk size: 59052.2 KB)
+0006.486 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10400 files added (on-disk size: 59052.2 KB)
+0006.490 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10500 files added (on-disk size: 59052.2 KB)
+0006.494 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10600 files added (on-disk size: 59052.2 KB)
+0006.498 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10700 files added (on-disk size: 59052.2 KB)
+0006.502 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10800 files added (on-disk size: 59052.2 KB)
+0006.506 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 10900 files added (on-disk size: 59052.2 KB)
+0006.508 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15 MB, 17015 files batched, 1001 (10952) added so far); re-opening (prior size: 59052.2 KB)
+0007.059 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11000 files added (on-disk size: 66850.4 KB)
+0007.063 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11100 files added (on-disk size: 66850.4 KB)
+0007.068 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11200 files added (on-disk size: 66850.4 KB)
+0007.072 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11300 files added (on-disk size: 66850.4 KB)
+0007.076 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11400 files added (on-disk size: 66850.4 KB)
+0007.080 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11500 files added (on-disk size: 66850.4 KB)
+0007.084 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11600 files added (on-disk size: 66850.4 KB)
+0007.088 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11700 files added (on-disk size: 66850.4 KB)
+0007.091 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11800 files added (on-disk size: 66850.4 KB)
+0007.095 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 11900 files added (on-disk size: 66850.4 KB)
+0007.097 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (23.3 MB, 17015 files batched, 1001 (11953) added so far); re-opening (prior size: 66850.4 KB)
+0007.952 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12000 files added (on-disk size: 76652.7 KB)
+0007.957 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12100 files added (on-disk size: 76652.7 KB)
+0007.961 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12200 files added (on-disk size: 76652.7 KB)
+0007.965 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12300 files added (on-disk size: 76652.7 KB)
+0007.969 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12400 files added (on-disk size: 76652.7 KB)
+0007.973 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12500 files added (on-disk size: 76652.7 KB)
+0007.977 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12600 files added (on-disk size: 76652.7 KB)
+0007.980 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12700 files added (on-disk size: 76652.7 KB)
+0007.987 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12800 files added (on-disk size: 76652.7 KB)
+0007.992 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 12900 files added (on-disk size: 76652.7 KB)
+0007.994 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.1 MB, 17015 files batched, 1001 (12954) added so far); re-opening (prior size: 76652.7 KB)
+0008.958 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13000 files added (on-disk size: 83100.9 KB)
+0008.962 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13100 files added (on-disk size: 83100.9 KB)
+0008.966 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13200 files added (on-disk size: 83100.9 KB)
+0008.970 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13300 files added (on-disk size: 83100.9 KB)
+0008.974 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13400 files added (on-disk size: 83100.9 KB)
+0008.979 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13500 files added (on-disk size: 83100.9 KB)
+0008.984 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13600 files added (on-disk size: 83100.9 KB)
+0008.988 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13700 files added (on-disk size: 83100.9 KB)
+0008.992 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13800 files added (on-disk size: 83100.9 KB)
+0008.997 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 13900 files added (on-disk size: 83100.9 KB)
+0009.000 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.5 MB, 17015 files batched, 1001 (13955) added so far); re-opening (prior size: 83100.9 KB)
+0009.419 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14000 files added (on-disk size: 85156.2 KB)
+0009.424 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14100 files added (on-disk size: 85156.2 KB)
+0009.428 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14200 files added (on-disk size: 85156.2 KB)
+0009.432 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14300 files added (on-disk size: 85156.2 KB)
+0009.436 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14400 files added (on-disk size: 85156.2 KB)
+0009.440 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14500 files added (on-disk size: 85156.2 KB)
+0009.445 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14600 files added (on-disk size: 85156.2 KB)
+0009.449 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14700 files added (on-disk size: 85156.2 KB)
+0009.453 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14800 files added (on-disk size: 85156.2 KB)
+0009.457 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 14900 files added (on-disk size: 85156.2 KB)
+0009.459 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (14.9 MB, 17015 files batched, 1001 (14956) added so far); re-opening (prior size: 85156.2 KB)
+0010.347 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15000 files added (on-disk size: 90394.2 KB)
+0010.351 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15100 files added (on-disk size: 90394.2 KB)
+0010.355 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15200 files added (on-disk size: 90394.2 KB)
+0010.360 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15300 files added (on-disk size: 90394.2 KB)
+0010.364 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15400 files added (on-disk size: 90394.2 KB)
+0010.368 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15500 files added (on-disk size: 90394.2 KB)
+0010.372 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15600 files added (on-disk size: 90394.2 KB)
+0010.376 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15700 files added (on-disk size: 90394.2 KB)
+0010.380 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15800 files added (on-disk size: 90394.2 KB)
+0010.383 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 15900 files added (on-disk size: 90394.2 KB)
+0010.386 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (20.7 MB, 17015 files batched, 1001 (15957) added so far); re-opening (prior size: 90394.2 KB)
+0011.257 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16000 files added (on-disk size: 97414.9 KB)
+0011.261 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16100 files added (on-disk size: 97414.9 KB)
+0011.265 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16200 files added (on-disk size: 97414.9 KB)
+0011.269 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16300 files added (on-disk size: 97414.9 KB)
+0011.273 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16400 files added (on-disk size: 97414.9 KB)
+0011.277 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16500 files added (on-disk size: 97414.9 KB)
+0011.281 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16600 files added (on-disk size: 97414.9 KB)
+0011.285 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16700 files added (on-disk size: 97414.9 KB)
+0011.289 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16800 files added (on-disk size: 97414.9 KB)
+0011.293 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 16900 files added (on-disk size: 97414.9 KB)
+0011.296 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (2.7 MB, 17015 files batched, 1001 (16958) added so far); re-opening (prior size: 97414.9 KB)
+0011.686 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip.tmp: 17000 files added (on-disk size: 99001.9 KB)
+0012.783 (0) Created plugins zip (0) - 99248.4 KB in 12.7 s (7790.8 KB/s) (sha1: 0c0659d9d231eab5d0d240c39d34cdfca188d7fe, sha256: 8effbc421241a5830bfb44a1f4033bce4eca3023b877e69c5b3dc50b0ebfe9e3)
+0012.785 (0) Beginning creation of dump of themes (split every: 400 MB)
+0012.795 (0) Total entities for the zip file: 124 directories, 584 files (0 skipped as non-modified), 25.7 MB
+0012.798 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.802 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.805 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.808 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.812 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0013.498 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip.tmp: size is now: 7.60 MB
+0013.567 (0) Created themes zip (0) - 7824 KB in 0.8 s (10004.3 KB/s) (sha1: 045ed0d7157521f8d4dc34a60d49591ecc83775d, sha256: 6705f337a2c74134cc94ef1b495938610a55cdbb19a99d74f6f0792bdbe56f86)
+0013.569 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.570 (0) Looking for candidates to backup in: /home/customer/www/sdexpress.me/public_html/wp-content/uploads
+0013.570 (0) finding files: woocommerce-placeholder-870x460.png: adding to list (1)
+0013.570 (0) finding files: essential-addons-elementor: adding to list (2)
+0013.571 (0) finding files: woocommerce-placeholder-370x260.png: adding to list (3)
+0013.571 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (4)
+0013.571 (0) finding files: redux: adding to list (5)
+0013.572 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (6)
+0013.572 (0) finding files: 2019: adding to list (7)
+0013.572 (0) finding files: woocommerce_uploads: adding to list (8)
+0013.573 (0) finding files: woocommerce-placeholder.png: adding to list (9)
+0013.573 (0) finding files: 2018: adding to list (10)
+0013.574 (0) finding files: woocommerce-placeholder-430x245.png: adding to list (11)
+0013.574 (0) finding files: woocommerce-placeholder-270x180.png: adding to list (12)
+0013.574 (0) finding files: 2017: adding to list (13)
+0013.575 (0) finding files: wc-logs: adding to list (14)
+0013.575 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (15)
+0013.576 (0) finding files: visualcomposer-assets: adding to list (16)
+0013.576 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (17)
+0013.576 (0) finding files: siteground-optimizer-assets: adding to list (18)
+0013.577 (0) finding files: 2020: adding to list (19)
+0013.577 (0) finding files: wpforms: adding to list (20)
+0013.578 (0) finding files: woocommerce-placeholder-1170x787.png: adding to list (21)
+0013.578 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (22)
+0013.578 (0) finding files: woocommerce-placeholder-720x484.png: adding to list (23)
+0013.579 (0) finding files: woocommerce-placeholder-1170x615.png: adding to list (24)
+0013.579 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (25)
+0013.579 (0) finding files: 2016: adding to list (26)
+0013.580 (0) finding files: elementor: adding to list (27)
+0013.580 (0) finding files: js_composer: adding to list (28)
+0013.580 (0) finding files: revslider: adding to list (29)
+0013.581 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0013.677 (0) Total entities for the zip file: 92 directories, 8653 files (0 skipped as non-modified), 485.5 MB
+0013.681 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0013.685 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0013.689 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0013.692 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0013.696 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0013.700 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0013.703 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0013.707 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0013.711 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0013.715 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0013.715 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.7 MB, 8653 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0013.813 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 10.90 MB
+0013.822 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1100 files added (on-disk size: 11174.6 KB)
+0013.828 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1200 files added (on-disk size: 11174.6 KB)
+0013.834 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1300 files added (on-disk size: 11174.6 KB)
+0013.840 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1400 files added (on-disk size: 11174.6 KB)
+0013.846 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1500 files added (on-disk size: 11174.6 KB)
+0013.853 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1600 files added (on-disk size: 11174.6 KB)
+0013.859 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1700 files added (on-disk size: 11174.6 KB)
+0013.865 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1800 files added (on-disk size: 11174.6 KB)
+0013.871 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 1900 files added (on-disk size: 11174.6 KB)
+0013.877 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2000 files added (on-disk size: 11174.6 KB)
+0013.878 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19.5 MB, 8653 files batched, 1001 (2002) added so far); re-opening (prior size: 11174.6 KB)
+0014.024 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 30.60 MB
+0014.031 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2100 files added (on-disk size: 31327.4 KB)
+0014.037 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2200 files added (on-disk size: 31327.4 KB)
+0014.043 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2300 files added (on-disk size: 31327.4 KB)
+0014.049 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2400 files added (on-disk size: 31327.4 KB)
+0014.053 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2500 files added (on-disk size: 31327.4 KB)
+0014.058 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2600 files added (on-disk size: 31327.4 KB)
+0014.063 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2700 files added (on-disk size: 31327.4 KB)
+0014.068 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2800 files added (on-disk size: 31327.4 KB)
+0014.072 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 2900 files added (on-disk size: 31327.4 KB)
+0014.078 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3000 files added (on-disk size: 31327.4 KB)
+0014.079 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (22.5 MB, 8653 files batched, 1001 (3003) added so far); re-opening (prior size: 31327.4 KB)
+0014.287 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 53.30 MB
+0014.292 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3100 files added (on-disk size: 54548.6 KB)
+0014.296 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3200 files added (on-disk size: 54548.6 KB)
+0014.300 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3300 files added (on-disk size: 54548.6 KB)
+0014.304 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3400 files added (on-disk size: 54548.6 KB)
+0014.308 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3500 files added (on-disk size: 54548.6 KB)
+0014.312 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3600 files added (on-disk size: 54548.6 KB)
+0014.316 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3700 files added (on-disk size: 54548.6 KB)
+0014.321 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3800 files added (on-disk size: 54548.6 KB)
+0014.327 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 3900 files added (on-disk size: 54548.6 KB)
+0014.331 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4000 files added (on-disk size: 54548.6 KB)
+0014.332 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (28 MB, 8653 files batched, 1001 (4004) added so far); re-opening (prior size: 54548.6 KB)
+0014.611 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 81.50 MB
+0014.617 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4100 files added (on-disk size: 83415.7 KB)
+0014.622 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4200 files added (on-disk size: 83415.7 KB)
+0014.629 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4300 files added (on-disk size: 83415.7 KB)
+0014.637 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4400 files added (on-disk size: 83415.7 KB)
+0014.644 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4500 files added (on-disk size: 83415.7 KB)
+0014.650 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4600 files added (on-disk size: 83415.7 KB)
+0014.656 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4700 files added (on-disk size: 83415.7 KB)
+0014.662 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4800 files added (on-disk size: 83415.7 KB)
+0014.669 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 4900 files added (on-disk size: 83415.7 KB)
+0014.675 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5000 files added (on-disk size: 83415.7 KB)
+0014.676 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (50 MB, 8653 files batched, 1001 (5005) added so far); re-opening (prior size: 83415.7 KB)
+0015.075 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 130.50 MB
+0015.080 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5100 files added (on-disk size: 133581.2 KB)
+0015.085 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5200 files added (on-disk size: 133581.2 KB)
+0015.088 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5300 files added (on-disk size: 133581.2 KB)
+0015.093 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5400 files added (on-disk size: 133581.2 KB)
+0015.097 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5500 files added (on-disk size: 133581.2 KB)
+0015.102 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5600 files added (on-disk size: 133581.2 KB)
+0015.106 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5700 files added (on-disk size: 133581.2 KB)
+0015.110 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5800 files added (on-disk size: 133581.2 KB)
+0015.115 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 5900 files added (on-disk size: 133581.2 KB)
+0015.122 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6000 files added (on-disk size: 133581.2 KB)
+0015.123 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.6 MB, 8653 files batched, 1001 (6006) added so far); re-opening (prior size: 133581.2 KB)
+0015.449 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6100 files added (on-disk size: 152860 KB)
+0015.453 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6200 files added (on-disk size: 152860 KB)
+0015.457 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6300 files added (on-disk size: 152860 KB)
+0015.461 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6400 files added (on-disk size: 152860 KB)
+0015.465 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6500 files added (on-disk size: 152860 KB)
+0015.469 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6600 files added (on-disk size: 152860 KB)
+0015.472 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6700 files added (on-disk size: 152860 KB)
+0015.475 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 138 MB added on this batch (142.7 MB, 8653 files batched, 746 (6752) added so far); re-opening (prior size: 152860 KB)
+0016.322 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 292.10 MB
+0016.325 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.6 s, rate: 86153.5 KB/s)
+0016.326 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.6959080696106, normalised_time=1.6400096397544, max_time=16.325048923492, data points known=1, old_max_bytes=144683602, new_max_bytes=209715200)
+0016.330 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6800 files added (on-disk size: 299127.9 KB)
+0016.336 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: 6900 files added (on-disk size: 299127.9 KB)
+0016.342 (0) Adding batch to zip file (UpdraftPlus_BinZip): possibly approaching split limit (98.8 MB, 246 (6998) files added so far); last ratio: 1; re-opening (prior size: 299127.9 KB)
+0017.193 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip.tmp: size is now: 390.90 MB
+0017.195 (0) Zip size is at/near split limit (390.9 MB / 400 MB) - bumping index (from: 0)
+0020.926 (0) Created uploads zip (0) - 400320.6 KB in 3.6 s (110777.9 KB/s) (checksums: sha1: 375ce125d6355c32dae7e63db23dbc35f3808a07, sha256: d77b3cb96feaf13674bea5273b36bc7fee0c27f96b7eabde7e97ed2ae3acfdaa)
+0020.929 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (6999) files added so far); re-opening (prior size: 0 KB)
+0020.935 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: size is now: 0.00 MB
+0020.938 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7000 files added (on-disk size: 2.2 KB)
+0020.942 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7100 files added (on-disk size: 2.2 KB)
+0020.947 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7200 files added (on-disk size: 2.2 KB)
+0020.951 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7300 files added (on-disk size: 2.2 KB)
+0020.955 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7400 files added (on-disk size: 2.2 KB)
+0020.959 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7500 files added (on-disk size: 2.2 KB)
+0020.963 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7600 files added (on-disk size: 2.2 KB)
+0020.967 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7700 files added (on-disk size: 2.2 KB)
+0020.971 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7800 files added (on-disk size: 2.2 KB)
+0020.974 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 7900 files added (on-disk size: 2.2 KB)
+0020.978 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (79.8 MB, 8653 files batched, 1001 (8000) added so far); re-opening (prior size: 2.2 KB)
+0021.332 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: size is now: 80.00 MB
+0021.334 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8000 files added (on-disk size: 81903.2 KB)
+0021.338 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8100 files added (on-disk size: 81903.2 KB)
+0021.344 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8200 files added (on-disk size: 81903.2 KB)
+0021.348 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8300 files added (on-disk size: 81903.2 KB)
+0021.353 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8400 files added (on-disk size: 81903.2 KB)
+0021.359 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8500 files added (on-disk size: 81903.2 KB)
+0021.365 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip.tmp: 8600 files added (on-disk size: 81903.2 KB)
+0022.489 (0) Created uploads zip (1) - 97320.4 KB in 1.6 s (62332.2 KB/s) (sha1: d21d93a53353507ab81c19678172b596f738964b, sha256: d38656fac59c231eccd0fe1f7aebd79521430b1b9e4229c41bb52c1f3e6b2d97)
+0022.491 (0) Beginning backup of other directories found in the content directory (index: 0)
+0022.492 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0022.493 (0) Looking for candidates to backup in: /home/customer/www/sdexpress.me/public_html/wp-content
+0022.493 (0) finding files: plugins: skipping: this is the plugins directory
+0022.494 (0) finding files: languages: adding to list (1)
+0022.494 (0) finding files: uploads: skipping: this is the uploads directory
+0022.495 (0) finding files: upgrade: skipping: excluded by options
+0022.495 (0) finding files: index.php: adding to list (2)
+0022.496 (0) finding files: updraft: skipping: this is the updraft directory
+0022.496 (0) finding files: themes: skipping: this is the themes directory
+0022.521 (0) Total entities for the zip file: 3 directories, 1093 files (0 skipped as non-modified), 22.8 MB
+0022.527 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0022.531 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0022.534 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0022.538 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0022.543 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0022.546 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 600 files added (on-disk size: 0 KB)
+0022.550 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 700 files added (on-disk size: 0 KB)
+0022.555 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 800 files added (on-disk size: 0 KB)
+0022.559 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 900 files added (on-disk size: 0 KB)
+0022.563 (0) Zip: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0022.564 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.2 MB, 1093 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0023.289 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: size is now: 4.50 MB
+0023.534 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip.tmp: size is now: 5.90 MB
+0023.590 (0) Created others zip (0) - 6051.2 KB in 1.1 s (5537.2 KB/s) (sha1: 29096da63ac7a47459c36bcedf1fde2e04feeabe, sha256: 0d693499458eab9983c47ec2ba2c20029041755f648b4c06ea97f9558bab5986)
+0023.593 (0) Saving backup status to database (elements: 9)
+0023.595 (0) Beginning creation of database dump (WordPress DB)
+0023.596 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0023.597 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0023.810 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `exo_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCR (truncated - 1245 bytes total)
+0023.812 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0023.835 (0) Table exo_options: Total expected rows (approximate): 1015
+0024.100 (0) Table exo_options: Rows added in this batch (next record: 9691): 1049 (uncompressed bytes in this segment=3413605) in 0.26 seconds
+0024.104 (0) Table exo_options: finishing file(s) (2, 502.4 KB)
+0024.109 (0) Table exo_users: Total expected rows (approximate): 0
+0024.113 (0) Table exo_users: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1846) in 0.00 seconds
+0024.115 (0) Table exo_users: finishing file(s) (2, 0.8 KB)
+0024.118 (0) Table exo_usermeta: Total expected rows (approximate): 123
+0024.123 (0) Table exo_usermeta: Rows added in this batch (next record: 164): 127 (uncompressed bytes in this segment=16623) in 0.00 seconds
+0024.125 (0) Table exo_usermeta: finishing file(s) (2, 4.2 KB)
+0024.127 (0) Table exo_actionscheduler_actions: Total expected rows (approximate): 195
+0024.137 (0) Table exo_actionscheduler_actions: Rows added in this batch (next record: 222): 195 (uncompressed bytes in this segment=69610) in 0.01 seconds
+0024.140 (0) Table exo_actionscheduler_actions: finishing file(s) (2, 6.7 KB)
+0024.142 (0) Table exo_actionscheduler_claims: Total expected rows (approximate): 0
+0024.145 (0) Table exo_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=640) in 0.00 seconds
+0024.146 (0) Table exo_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0024.149 (0) Table exo_actionscheduler_groups: Total expected rows (approximate): 0
+0024.152 (0) Table exo_actionscheduler_groups: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=792) in 0.00 seconds
+0024.154 (0) Table exo_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0024.160 (0) Table exo_actionscheduler_logs: Total expected rows (approximate): 200
+0024.170 (0) Table exo_actionscheduler_logs: Rows added in this batch (next record: 620): 581 (uncompressed bytes in this segment=52987) in 0.01 seconds
+0024.173 (0) Table exo_actionscheduler_logs: finishing file(s) (2, 6.9 KB)
+0024.177 (0) Table exo_commentmeta: Total expected rows (approximate): 6
+0024.180 (0) Table exo_commentmeta: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=895) in 0.00 seconds
+0024.182 (0) Table exo_commentmeta: finishing file(s) (2, 0.5 KB)
+0024.185 (0) Table exo_comments: Total expected rows (approximate): 6
+0024.189 (0) Table exo_comments: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=3733) in 0.00 seconds
+0024.191 (0) Table exo_comments: finishing file(s) (2, 1.3 KB)
+0024.194 (0) Table exo_links: Total expected rows (approximate): 0
+0024.196 (0) Table exo_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1316) in 0.00 seconds
+0024.199 (0) Table exo_links: finishing file(s) (2, 0.5 KB)
+0024.201 (0) Table exo_postmeta: Total expected rows (approximate): 3752
+0024.267 (0) Table exo_postmeta: Rows added in this batch (next record: 4573): 4122 (uncompressed bytes in this segment=617396) in 0.07 seconds
+0024.269 (0) Table exo_postmeta: finishing file(s) (2, 51.5 KB)
+0024.271 (0) Table exo_posts: Total expected rows (approximate): 407
+0024.324 (0) Table exo_posts: Rows added in this batch (next record: 566): 508 (uncompressed bytes in this segment=567047) in 0.05 seconds
+0024.327 (0) Table exo_posts: finishing file(s) (2, 53.6 KB)
+0024.330 (0) Table exo_term_relationships: Total expected rows (approximate): 288
+0024.337 (0) Table exo_term_relationships: Rows added in this batch (next record: 100000): 518 (uncompressed bytes in this segment=8602) in 0.01 seconds
+0024.340 (0) Table exo_term_relationships: finishing file(s) (2, 1.7 KB)
+0024.342 (0) Table exo_term_taxonomy: Total expected rows (approximate): 145
+0024.347 (0) Table exo_term_taxonomy: Rows added in this batch (next record: 204): 193 (uncompressed bytes in this segment=8227) in 0.00 seconds
+0024.349 (0) Table exo_term_taxonomy: finishing file(s) (2, 1.7 KB)
+0024.352 (0) Table exo_termmeta: Total expected rows (approximate): 1126
+0024.368 (0) Table exo_termmeta: Rows added in this batch (next record: 1484): 1383 (uncompressed bytes in this segment=57567) in 0.02 seconds
+0024.370 (0) Table exo_termmeta: finishing file(s) (2, 8.3 KB)
+0024.373 (0) Table exo_terms: Total expected rows (approximate): 145
+0024.377 (0) Table exo_terms: Rows added in this batch (next record: 204): 193 (uncompressed bytes in this segment=8814) in 0.00 seconds
+0024.379 (0) Table exo_terms: finishing file(s) (2, 3.1 KB)
+0024.385 (0) Table exo_wc_category_lookup: Total expected rows (approximate): 265
+0024.388 (0) Table exo_wc_category_lookup: Rows added in this batch (next record: 1000): 265 (uncompressed bytes in this segment=3724) in 0.00 seconds
+0024.390 (0) Table exo_wc_category_lookup: finishing file(s) (2, 1.2 KB)
+0024.393 (0) Table exo_wc_product_meta_lookup: Total expected rows (approximate): 65
+0024.397 (0) Table exo_wc_product_meta_lookup: Rows added in this batch (next record: 565): 78 (uncompressed bytes in this segment=8538) in 0.00 seconds
+0024.399 (0) Table exo_wc_product_meta_lookup: finishing file(s) (2, 1.3 KB)
+0024.401 (0) Table exo_wc_reserved_stock: Total expected rows (approximate): 0
+0024.404 (0) Table exo_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=671) in 0.00 seconds
+0024.406 (0) Table exo_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0024.408 (0) Table exo_wc_tax_rate_classes: Total expected rows (approximate): 4
+0024.411 (0) Table exo_wc_tax_rate_classes: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=897) in 0.00 seconds
+0024.413 (0) Table exo_wc_tax_rate_classes: finishing file(s) (2, 0.5 KB)
+0024.416 (0) Table exo_woocommerce_order_itemmeta: Total expected rows (approximate): 13
+0024.419 (0) Table exo_woocommerce_order_itemmeta: Rows added in this batch (next record: 14): 13 (uncompressed bytes in this segment=1317) in 0.00 seconds
+0024.420 (0) Table exo_woocommerce_order_itemmeta: finishing file(s) (2, 0.6 KB)
+0024.422 (0) Table exo_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0024.425 (0) Table exo_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.00 seconds
+0024.427 (0) Table exo_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0024.427 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_actionscheduler_actions
+0024.427 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_actionscheduler_claims
+0024.428 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_actionscheduler_groups
+0024.428 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_actionscheduler_logs
+0024.428 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_commentmeta
+0024.429 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_comments
+0024.429 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_links
+0024.429 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_mailchimp_carts
+0024.430 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_mailchimp_jobs
+0024.430 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_options
+0024.430 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_postmeta
+0024.430 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_posts
+0024.431 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_css
+0024.431 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_css_bkp
+0024.431 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_layer_animations
+0024.432 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_layer_animations_bkp
+0024.432 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_navigations
+0024.432 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_navigations_bkp
+0024.433 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_sliders
+0024.433 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_sliders_bkp
+0024.434 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_slides
+0024.434 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_slides_bkp
+0024.435 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_static_slides
+0024.435 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_revslider_static_slides_bkp
+0024.435 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_term_relationships
+0024.436 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_term_taxonomy
+0024.436 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_termmeta
+0024.436 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_terms
+0024.436 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_usermeta
+0024.437 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_users
+0024.437 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_admin_note_actions
+0024.437 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_admin_notes
+0024.438 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_category_lookup
+0024.438 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_customer_lookup
+0024.438 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_download_log
+0024.439 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_order_coupon_lookup
+0024.439 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_order_product_lookup
+0024.439 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_order_stats
+0024.439 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_order_tax_lookup
+0024.440 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_product_meta_lookup
+0024.440 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_reserved_stock
+0024.440 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_tax_rate_classes
+0024.441 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_wc_webhooks
+0024.441 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_api_keys
+0024.442 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_attribute_taxonomies
+0024.442 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_downloadable_product_permissions
+0024.442 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_log
+0024.443 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_order_itemmeta
+0024.443 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_order_items
+0024.443 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_payment_tokenmeta
+0024.444 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_payment_tokens
+0024.444 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_sessions
+0024.444 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_shipping_zone_locations
+0024.445 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_shipping_zone_methods
+0024.445 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_shipping_zones
+0024.445 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_tax_rate_locations
+0024.446 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_woocommerce_tax_rates
+0024.446 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_yith_wcwl
+0024.446 (0) Skipping table (lacks our prefix (exo_)): 61dfa5_exo_yith_wcwl_lists
+0024.446 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_actionscheduler_actions
+0024.447 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_actionscheduler_claims
+0024.447 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_actionscheduler_groups
+0024.447 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_actionscheduler_logs
+0024.448 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_commentmeta
+0024.448 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_comments
+0024.448 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_links
+0024.449 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_mailchimp_carts
+0024.449 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_mailchimp_jobs
+0024.449 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_options
+0024.450 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_postmeta
+0024.450 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_posts
+0024.450 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_css
+0024.451 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_css_bkp
+0024.451 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_layer_animations
+0024.451 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_layer_animations_bkp
+0024.451 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_navigations
+0024.452 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_navigations_bkp
+0024.452 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_sliders
+0024.452 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_sliders_bkp
+0024.453 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_slides
+0024.453 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_slides_bkp
+0024.453 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_static_slides
+0024.454 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_revslider_static_slides_bkp
+0024.454 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_term_relationships
+0024.454 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_term_taxonomy
+0024.454 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_termmeta
+0024.455 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_terms
+0024.455 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_usermeta
+0024.455 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_users
+0024.456 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_admin_note_actions
+0024.456 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_admin_notes
+0024.456 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_category_lookup
+0024.456 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_customer_lookup
+0024.457 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_download_log
+0024.457 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_order_coupon_lookup
+0024.457 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_order_product_lookup
+0024.458 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_order_stats
+0024.458 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_order_tax_lookup
+0024.458 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_product_meta_lookup
+0024.459 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_reserved_stock
+0024.459 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_tax_rate_classes
+0024.459 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_wc_webhooks
+0024.460 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_api_keys
+0024.460 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_attribute_taxonomies
+0024.461 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_downloadable_product_permissions
+0024.461 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_log
+0024.461 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_order_itemmeta
+0024.462 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_order_items
+0024.462 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_payment_tokenmeta
+0024.463 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_payment_tokens
+0024.463 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_sessions
+0024.463 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_shipping_zone_locations
+0024.464 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_shipping_zone_methods
+0024.464 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_shipping_zones
+0024.465 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_tax_rate_locations
+0024.465 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_woocommerce_tax_rates
+0024.465 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_yith_wcwl
+0024.466 (0) Skipping table (lacks our prefix (exo_)): af0e4d_exo_yith_wcwl_lists
+0024.466 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_actionscheduler_actions
+0024.466 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_actionscheduler_claims
+0024.467 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_actionscheduler_groups
+0024.467 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_actionscheduler_logs
+0024.468 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_commentmeta
+0024.468 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_comments
+0024.469 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_links
+0024.469 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_mailchimp_carts
+0024.470 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_mailchimp_jobs
+0024.470 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_options
+0024.471 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_postmeta
+0024.472 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_posts
+0024.472 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_css
+0024.473 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_css_bkp
+0024.473 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_layer_animations
+0024.474 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_layer_animations_bkp
+0024.474 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_navigations
+0024.475 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_navigations_bkp
+0024.475 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_sliders
+0024.476 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_sliders_bkp
+0024.476 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_slides
+0024.477 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_slides_bkp
+0024.477 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_static_slides
+0024.478 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_revslider_static_slides_bkp
+0024.478 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_term_relationships
+0024.478 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_term_taxonomy
+0024.479 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_termmeta
+0024.479 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_terms
+0024.480 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_usermeta
+0024.480 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_users
+0024.481 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_admin_note_actions
+0024.481 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_admin_notes
+0024.482 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_category_lookup
+0024.482 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_customer_lookup
+0024.482 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_download_log
+0024.483 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_order_coupon_lookup
+0024.483 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_order_product_lookup
+0024.484 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_order_stats
+0024.484 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_order_tax_lookup
+0024.485 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_product_meta_lookup
+0024.485 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_reserved_stock
+0024.485 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_tax_rate_classes
+0024.486 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wc_webhooks
+0024.486 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_api_keys
+0024.487 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_attribute_taxonomies
+0024.487 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_downloadable_product_permissions
+0024.488 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_log
+0024.488 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_order_itemmeta
+0024.488 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_order_items
+0024.489 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_payment_tokenmeta
+0024.489 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_payment_tokens
+0024.490 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_sessions
+0024.490 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_shipping_zone_locations
+0024.491 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_shipping_zone_methods
+0024.491 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_shipping_zones
+0024.491 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_tax_rate_locations
+0024.492 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_woocommerce_tax_rates
+0024.492 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_wpforms_tasks_meta
+0024.493 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_yith_wcwl
+0024.493 (0) Skipping table (lacks our prefix (exo_)): b2bdd4_exo_yith_wcwl_lists
+0024.502 (0) Table exo_dokan_announcement: Total expected rows (approximate): 0
+0024.506 (0) Table exo_dokan_announcement: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=542) in 0.00 seconds
+0024.508 (0) Table exo_dokan_announcement: finishing file(s) (2, 0.3 KB)
+0024.510 (0) Table exo_dokan_orders: Total expected rows (approximate): 0
+0024.512 (0) Table exo_dokan_orders: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=776) in 0.00 seconds
+0024.514 (0) Table exo_dokan_orders: finishing file(s) (2, 0.4 KB)
+0024.516 (0) Table exo_dokan_refund: Total expected rows (approximate): 0
+0024.519 (0) Table exo_dokan_refund: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=807) in 0.00 seconds
+0024.520 (0) Table exo_dokan_refund: finishing file(s) (2, 0.4 KB)
+0024.523 (0) Table exo_dokan_shipping_zone_locations: Total expected rows (approximate): 0
+0024.525 (0) Table exo_dokan_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.00 seconds
+0024.527 (0) Table exo_dokan_shipping_zone_locations: finishing file(s) (2, 0.3 KB)
+0024.529 (0) Table exo_dokan_shipping_zone_methods: Total expected rows (approximate): 0
+0024.531 (0) Table exo_dokan_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=693) in 0.00 seconds
+0024.533 (0) Table exo_dokan_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0024.536 (0) Table exo_dokan_vendor_balance: Total expected rows (approximate): 0
+0024.539 (0) Table exo_dokan_vendor_balance: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=960) in 0.00 seconds
+0024.541 (0) Table exo_dokan_vendor_balance: finishing file(s) (2, 0.5 KB)
+0024.542 (0) Table exo_dokan_withdraw: Total expected rows (approximate): 0
+0024.545 (0) Table exo_dokan_withdraw: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=630) in 0.00 seconds
+0024.547 (0) Table exo_dokan_withdraw: finishing file(s) (2, 0.4 KB)
+0024.549 (0) Table exo_mailchimp_carts: Total expected rows (approximate): 1
+0024.552 (0) Table exo_mailchimp_carts: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=1234) in 0.00 seconds
+0024.554 (0) Table exo_mailchimp_carts: finishing file(s) (2, 0.7 KB)
+0024.557 (0) Table exo_mailchimp_jobs: Total expected rows (approximate): 1
+0024.560 (0) Table exo_mailchimp_jobs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=589) in 0.00 seconds
+0024.562 (0) Table exo_mailchimp_jobs: finishing file(s) (2, 0.3 KB)
+0024.564 (0) Table exo_revslider_css: Total expected rows (approximate): 109
+0024.574 (0) Table exo_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=91039) in 0.01 seconds
+0024.576 (0) Table exo_revslider_css: finishing file(s) (2, 4.9 KB)
+0024.579 (0) Table exo_revslider_css_bkp: Total expected rows (approximate): 47
+0024.582 (0) Table exo_revslider_css_bkp: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=15368) in 0.00 seconds
+0024.584 (0) Table exo_revslider_css_bkp: finishing file(s) (2, 1.8 KB)
+0024.587 (0) Table exo_revslider_layer_animations: Total expected rows (approximate): 0
+0024.590 (0) Table exo_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=547) in 0.00 seconds
+0024.592 (0) Table exo_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0024.595 (0) Table exo_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0024.598 (0) Table exo_revslider_layer_animations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=571) in 0.00 seconds
+0024.600 (0) Table exo_revslider_layer_animations_bkp: finishing file(s) (2, 0.3 KB)
+0024.602 (0) Table exo_revslider_navigations: Total expected rows (approximate): 0
+0024.605 (0) Table exo_revslider_navigations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=624) in 0.00 seconds
+0024.607 (0) Table exo_revslider_navigations: finishing file(s) (2, 0.3 KB)
+0024.609 (0) Table exo_revslider_navigations_bkp: Total expected rows (approximate): 0
+0024.612 (0) Table exo_revslider_navigations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+0024.614 (0) Table exo_revslider_navigations_bkp: finishing file(s) (2, 0.3 KB)
+0024.617 (0) Table exo_revslider_sliders: Total expected rows (approximate): 0
+0024.621 (0) Table exo_revslider_sliders: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=9390) in 0.00 seconds
+0024.623 (0) Table exo_revslider_sliders: finishing file(s) (2, 3.1 KB)
+0024.625 (0) Table exo_revslider_sliders_bkp: Total expected rows (approximate): 0
+0024.628 (0) Table exo_revslider_sliders_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=587) in 0.00 seconds
+0024.630 (0) Table exo_revslider_sliders_bkp: finishing file(s) (2, 0.3 KB)
+0024.632 (0) Table exo_revslider_slides: Total expected rows (approximate): 3
+0024.636 (0) Table exo_revslider_slides: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=11538) in 0.00 seconds
+0024.638 (0) Table exo_revslider_slides: finishing file(s) (2, 1.7 KB)
+0024.640 (0) Table exo_revslider_slides_bkp: Total expected rows (approximate): 0
+0024.642 (0) Table exo_revslider_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=593) in 0.00 seconds
+0024.644 (0) Table exo_revslider_slides_bkp: finishing file(s) (2, 0.3 KB)
+0024.646 (0) Table exo_revslider_static_slides: Total expected rows (approximate): 0
+0024.649 (0) Table exo_revslider_static_slides: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=679) in 0.00 seconds
+0024.651 (0) Table exo_revslider_static_slides: finishing file(s) (2, 0.4 KB)
+0024.653 (0) Table exo_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0024.656 (0) Table exo_revslider_static_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=601) in 0.00 seconds
+0024.657 (0) Table exo_revslider_static_slides_bkp: finishing file(s) (2, 0.3 KB)
+0024.661 (0) Table exo_wc_admin_note_actions: Total expected rows (approximate): 19
+0024.664 (0) Table exo_wc_admin_note_actions: Rows added in this batch (next record: 886): 19 (uncompressed bytes in this segment=3433) in 0.00 seconds
+0024.665 (0) Table exo_wc_admin_note_actions: finishing file(s) (2, 1.2 KB)
+0024.667 (0) Table exo_wc_admin_notes: Total expected rows (approximate): 13
+0024.671 (0) Table exo_wc_admin_notes: Rows added in this batch (next record: 19): 18 (uncompressed bytes in this segment=10356) in 0.00 seconds
+0024.672 (0) Table exo_wc_admin_notes: finishing file(s) (2, 3.2 KB)
+0024.674 (0) Table exo_wc_customer_lookup: Total expected rows (approximate): 1
+0024.677 (0) Table exo_wc_customer_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1493) in 0.00 seconds
+0024.679 (0) Table exo_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0024.681 (0) Table exo_wc_download_log: Total expected rows (approximate): 0
+0024.684 (0) Table exo_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=934) in 0.00 seconds
+0024.686 (0) Table exo_wc_download_log: finishing file(s) (2, 0.5 KB)
+0024.688 (0) Table exo_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0024.691 (0) Table exo_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=723) in 0.00 seconds
+0024.692 (0) Table exo_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0024.695 (0) Table exo_wc_order_product_lookup: Total expected rows (approximate): 0
+0024.698 (0) Table exo_wc_order_product_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1362) in 0.00 seconds
+0024.700 (0) Table exo_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0024.703 (0) Table exo_wc_order_stats: Total expected rows (approximate): 0
+0024.706 (0) Table exo_wc_order_stats: Rows added in this batch (next record: 284): 1 (uncompressed bytes in this segment=1272) in 0.00 seconds
+0024.708 (0) Table exo_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0024.711 (0) Table exo_wc_order_tax_lookup: Total expected rows (approximate): 0
+0024.714 (0) Table exo_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=805) in 0.00 seconds
+0024.716 (0) Table exo_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0024.718 (0) Table exo_wc_webhooks: Total expected rows (approximate): 0
+0024.721 (0) Table exo_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1236) in 0.00 seconds
+0024.725 (0) Table exo_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0024.727 (0) Table exo_woocommerce_api_keys: Total expected rows (approximate): 0
+0024.731 (0) Table exo_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1052) in 0.00 seconds
+0024.733 (0) Table exo_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0024.735 (0) Table exo_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0024.737 (0) Table exo_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=967) in 0.00 seconds
+0024.739 (0) Table exo_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0024.741 (0) Table exo_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0024.744 (0) Table exo_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1544) in 0.00 seconds
+0024.746 (0) Table exo_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0024.748 (0) Table exo_woocommerce_log: Total expected rows (approximate): 0
+0024.751 (0) Table exo_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.00 seconds
+0024.752 (0) Table exo_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0024.754 (0) Table exo_woocommerce_order_items: Total expected rows (approximate): 0
+0024.757 (0) Table exo_woocommerce_order_items: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=874) in 0.00 seconds
+0024.759 (0) Table exo_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0024.761 (0) Table exo_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0024.764 (0) Table exo_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=847) in 0.00 seconds
+0024.766 (0) Table exo_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0024.769 (0) Table exo_woocommerce_sessions: Total expected rows (approximate): 2
+0024.772 (0) Table exo_woocommerce_sessions: Rows added in this batch (next record: 26): 1 (uncompressed bytes in this segment=2385) in 0.00 seconds
+0024.774 (0) Table exo_woocommerce_sessions: finishing file(s) (2, 1 KB)
+0024.776 (0) Table exo_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0024.780 (0) Table exo_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=880) in 0.00 seconds
+0024.782 (0) Table exo_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0024.784 (0) Table exo_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0024.787 (0) Table exo_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.00 seconds
+0024.789 (0) Table exo_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0024.792 (0) Table exo_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0024.795 (0) Table exo_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=639) in 0.00 seconds
+0024.797 (0) Table exo_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0024.799 (0) Table exo_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0024.802 (0) Table exo_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=854) in 0.00 seconds
+0024.804 (0) Table exo_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0024.806 (0) Table exo_woocommerce_tax_rates: Total expected rows (approximate): 0
+0024.809 (0) Table exo_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1307) in 0.00 seconds
+0024.811 (0) Table exo_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0024.814 (0) Table exo_wpforms_tasks_meta: Total expected rows (approximate): 20
+0024.818 (0) Table exo_wpforms_tasks_meta: Rows added in this batch (next record: 34): 27 (uncompressed bytes in this segment=2731) in 0.00 seconds
+0024.821 (0) Table exo_wpforms_tasks_meta: finishing file(s) (2, 0.8 KB)
+0024.824 (0) Table exo_yith_wcwl: Total expected rows (approximate): 0
+0024.828 (0) Table exo_yith_wcwl: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=953) in 0.00 seconds
+0024.830 (0) Table exo_yith_wcwl: finishing file(s) (2, 0.5 KB)
+0024.833 (0) Table exo_yith_wcwl_lists: Total expected rows (approximate): 0
+0024.837 (0) Table exo_yith_wcwl_lists: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1031) in 0.00 seconds
+0024.839 (0) Table exo_yith_wcwl_lists: finishing file(s) (2, 0.5 KB)
+0024.841 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_options.table.tmpr9692.gz (1/245): adding to final database dump
+0024.938 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_options.table.gz (2/245): adding to final database dump
+0024.938 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_users.table.tmpr5.gz (3/245): adding to final database dump
+0024.939 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_users.table.gz (4/245): adding to final database dump
+0024.939 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_usermeta.table.tmpr165.gz (5/245): adding to final database dump
+0024.941 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_usermeta.table.gz (6/245): adding to final database dump
+0024.941 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_actions.table.tmpr223.gz (7/245): adding to final database dump
+0024.943 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_actions.table.gz (8/245): adding to final database dump
+0024.944 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_claims.table.tmpr0.gz (9/245): adding to final database dump
+0024.945 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_claims.table.gz (10/245): adding to final database dump
+0024.946 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_groups.table.tmpr6.gz (11/245): adding to final database dump
+0024.947 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_groups.table.gz (12/245): adding to final database dump
+0024.948 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_logs.table.tmpr621.gz (13/245): adding to final database dump
+0024.950 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_actionscheduler_logs.table.gz (14/245): adding to final database dump
+0024.951 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_commentmeta.table.tmpr7.gz (15/245): adding to final database dump
+0024.951 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_commentmeta.table.gz (16/245): adding to final database dump
+0024.952 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_comments.table.tmpr8.gz (17/245): adding to final database dump
+0024.953 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_comments.table.gz (18/245): adding to final database dump
+0024.953 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_links.table.tmpr0.gz (19/245): adding to final database dump
+0024.954 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_links.table.gz (20/245): adding to final database dump
+0024.954 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_postmeta.table.tmpr4574.gz (21/245): adding to final database dump
+0024.971 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_postmeta.table.gz (22/245): adding to final database dump
+0024.972 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_posts.table.tmpr567.gz (23/245): adding to final database dump
+0024.983 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_posts.table.gz (24/245): adding to final database dump
+0024.984 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_term_relationships.table.tmpr100001.gz (25/245): adding to final database dump
+0024.985 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_term_relationships.table.gz (26/245): adding to final database dump
+0024.985 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_term_taxonomy.table.tmpr205.gz (27/245): adding to final database dump
+0024.986 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_term_taxonomy.table.gz (28/245): adding to final database dump
+0024.987 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_termmeta.table.tmpr1485.gz (29/245): adding to final database dump
+0024.990 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_termmeta.table.gz (30/245): adding to final database dump
+0024.990 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_terms.table.tmpr205.gz (31/245): adding to final database dump
+0024.991 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_terms.table.gz (32/245): adding to final database dump
+0024.992 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_category_lookup.table.tmpr1001.gz (33/245): adding to final database dump
+0024.993 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_category_lookup.table.gz (34/245): adding to final database dump
+0024.994 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_product_meta_lookup.table.tmpr566.gz (35/245): adding to final database dump
+0024.994 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_product_meta_lookup.table.gz (36/245): adding to final database dump
+0024.995 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_reserved_stock.table.tmpr1.gz (37/245): adding to final database dump
+0024.995 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_reserved_stock.table.gz (38/245): adding to final database dump
+0024.996 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_tax_rate_classes.table.tmpr5.gz (39/245): adding to final database dump
+0024.996 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_tax_rate_classes.table.gz (40/245): adding to final database dump
+0024.997 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_order_itemmeta.table.tmpr15.gz (41/245): adding to final database dump
+0024.997 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_order_itemmeta.table.gz (42/245): adding to final database dump
+0024.997 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/245): adding to final database dump
+0024.998 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_payment_tokenmeta.table.gz (44/245): adding to final database dump
+0024.998 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_announcement.table.tmpr0.gz (45/245): adding to final database dump
+0024.999 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_announcement.table.gz (46/245): adding to final database dump
+0024.999 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_orders.table.tmpr2.gz (47/245): adding to final database dump
+0025.000 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_orders.table.gz (48/245): adding to final database dump
+0025.000 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_refund.table.tmpr0.gz (49/245): adding to final database dump
+0025.001 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_refund.table.gz (50/245): adding to final database dump
+0025.001 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_shipping_zone_locations.table.tmpr0.gz (51/245): adding to final database dump
+0025.001 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_shipping_zone_locations.table.gz (52/245): adding to final database dump
+0025.002 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_shipping_zone_methods.table.tmpr0.gz (53/245): adding to final database dump
+0025.002 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_shipping_zone_methods.table.gz (54/245): adding to final database dump
+0025.003 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_vendor_balance.table.tmpr2.gz (55/245): adding to final database dump
+0025.003 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_vendor_balance.table.gz (56/245): adding to final database dump
+0025.003 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_withdraw.table.tmpr0.gz (57/245): adding to final database dump
+0025.004 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_dokan_withdraw.table.gz (58/245): adding to final database dump
+0025.004 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_mailchimp_carts.table.tmpr1001.gz (59/245): adding to final database dump
+0025.005 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_mailchimp_carts.table.gz (60/245): adding to final database dump
+0025.005 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_mailchimp_jobs.table.tmpr0.gz (61/245): adding to final database dump
+0025.006 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_mailchimp_jobs.table.gz (62/245): adding to final database dump
+0025.006 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_css.table.tmpr110.gz (63/245): adding to final database dump
+0025.008 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_css.table.gz (64/245): adding to final database dump
+0025.008 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_css_bkp.table.tmpr48.gz (65/245): adding to final database dump
+0025.009 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_css_bkp.table.gz (66/245): adding to final database dump
+0025.009 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_layer_animations.table.tmpr0.gz (67/245): adding to final database dump
+0025.010 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_layer_animations.table.gz (68/245): adding to final database dump
+0025.010 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_layer_animations_bkp.table.tmpr0.gz (69/245): adding to final database dump
+0025.011 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_layer_animations_bkp.table.gz (70/245): adding to final database dump
+0025.011 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_navigations.table.tmpr0.gz (71/245): adding to final database dump
+0025.012 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_navigations.table.gz (72/245): adding to final database dump
+0025.012 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_navigations_bkp.table.tmpr0.gz (73/245): adding to final database dump
+0025.013 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_navigations_bkp.table.gz (74/245): adding to final database dump
+0025.014 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_sliders.table.tmpr2.gz (75/245): adding to final database dump
+0025.016 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_sliders.table.gz (76/245): adding to final database dump
+0025.017 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_sliders_bkp.table.tmpr0.gz (77/245): adding to final database dump
+0025.017 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_sliders_bkp.table.gz (78/245): adding to final database dump
+0025.018 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_slides.table.tmpr4.gz (79/245): adding to final database dump
+0025.019 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_slides.table.gz (80/245): adding to final database dump
+0025.019 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_slides_bkp.table.tmpr0.gz (81/245): adding to final database dump
+0025.020 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_slides_bkp.table.gz (82/245): adding to final database dump
+0025.020 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_static_slides.table.tmpr2.gz (83/245): adding to final database dump
+0025.021 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_static_slides.table.gz (84/245): adding to final database dump
+0025.022 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_static_slides_bkp.table.tmpr0.gz (85/245): adding to final database dump
+0025.022 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_revslider_static_slides_bkp.table.gz (86/245): adding to final database dump
+0025.023 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_admin_note_actions.table.tmpr887.gz (87/245): adding to final database dump
+0025.023 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_admin_note_actions.table.gz (88/245): adding to final database dump
+0025.024 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_admin_notes.table.tmpr20.gz (89/245): adding to final database dump
+0025.025 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_admin_notes.table.gz (90/245): adding to final database dump
+0025.025 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_customer_lookup.table.tmpr2.gz (91/245): adding to final database dump
+0025.026 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_customer_lookup.table.gz (92/245): adding to final database dump
+0025.026 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_download_log.table.tmpr0.gz (93/245): adding to final database dump
+0025.027 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_download_log.table.gz (94/245): adding to final database dump
+0025.027 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_coupon_lookup.table.tmpr1.gz (95/245): adding to final database dump
+0025.028 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_coupon_lookup.table.gz (96/245): adding to final database dump
+0025.028 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_product_lookup.table.tmpr2.gz (97/245): adding to final database dump
+0025.029 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_product_lookup.table.gz (98/245): adding to final database dump
+0025.030 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_stats.table.tmpr285.gz (99/245): adding to final database dump
+0025.031 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_stats.table.gz (100/245): adding to final database dump
+0025.031 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_tax_lookup.table.tmpr1.gz (101/245): adding to final database dump
+0025.032 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_order_tax_lookup.table.gz (102/245): adding to final database dump
+0025.032 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_webhooks.table.tmpr0.gz (103/245): adding to final database dump
+0025.033 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wc_webhooks.table.gz (104/245): adding to final database dump
+0025.033 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_api_keys.table.tmpr0.gz (105/245): adding to final database dump
+0025.034 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_api_keys.table.gz (106/245): adding to final database dump
+0025.034 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_attribute_taxonomies.table.tmpr0.gz (107/245): adding to final database dump
+0025.035 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_attribute_taxonomies.table.gz (108/245): adding to final database dump
+0025.035 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_downloadable_product_permissions.table.tmpr0.gz (109/245): adding to final database dump
+0025.035 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_downloadable_product_permissions.table.gz (110/245): adding to final database dump
+0025.036 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_log.table.tmpr0.gz (111/245): adding to final database dump
+0025.036 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_log.table.gz (112/245): adding to final database dump
+0025.037 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_order_items.table.tmpr2.gz (113/245): adding to final database dump
+0025.037 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_order_items.table.gz (114/245): adding to final database dump
+0025.037 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_payment_tokens.table.tmpr0.gz (115/245): adding to final database dump
+0025.038 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_payment_tokens.table.gz (116/245): adding to final database dump
+0025.038 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_sessions.table.tmpr27.gz (117/245): adding to final database dump
+0025.038 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_sessions.table.gz (118/245): adding to final database dump
+0025.039 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_shipping_zone_locations.table.tmpr0.gz (119/245): adding to final database dump
+0025.039 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_shipping_zone_locations.table.gz (120/245): adding to final database dump
+0025.040 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_shipping_zone_methods.table.tmpr0.gz (121/245): adding to final database dump
+0025.040 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_shipping_zone_methods.table.gz (122/245): adding to final database dump
+0025.040 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_shipping_zones.table.tmpr0.gz (123/245): adding to final database dump
+0025.041 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_shipping_zones.table.gz (124/245): adding to final database dump
+0025.041 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_tax_rate_locations.table.tmpr0.gz (125/245): adding to final database dump
+0025.042 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_tax_rate_locations.table.gz (126/245): adding to final database dump
+0025.042 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_tax_rates.table.tmpr0.gz (127/245): adding to final database dump
+0025.043 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_woocommerce_tax_rates.table.gz (128/245): adding to final database dump
+0025.043 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wpforms_tasks_meta.table.tmpr35.gz (129/245): adding to final database dump
+0025.043 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_wpforms_tasks_meta.table.gz (130/245): adding to final database dump
+0025.044 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_yith_wcwl.table.tmpr3.gz (131/245): adding to final database dump
+0025.044 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_yith_wcwl.table.gz (132/245): adding to final database dump
+0025.045 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_yith_wcwl_lists.table.tmpr2.gz (133/245): adding to final database dump
+0025.045 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db-table-exo_yith_wcwl_lists.table.gz (134/245): adding to final database dump
+0025.049 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz: finished writing out complete database file (640 KB)
+0025.060 (0) Total database tables backed up: 67 (backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz, size: 681147, sha1: f1a356baad5a25aa019308627712f672981b87ac, sha256: f64fa3121e25bdc67ea0ab323d5e8c0c70419f84016b67db4d243025aab8de33)
+0025.064 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0025.065 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0025.065 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0025.066 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0025.067 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip: others: This file has not yet been successfully uploaded: will queue
+0025.067 (0) backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz: db: This file has not yet been successfully uploaded: will queue
+0025.067 (0) Saving backup history. Total backup size: 597.1 MB
+0025.069 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0025.071 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0025.071 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-44c14976712a161d5d8932fdc45edf59)
+0025.975 (0) Google Drive: quota usage: used=9715.6 MB, total=15360 MB, available=5644.4 MB
+0025.975 (0) Google Drive: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip: Attempting to upload to Google Drive (into folder id: 1VUyzmkAWJLyBcHmKoINiazbXXaGDrUkg)
+0026.272 (0) Googledrive chunked upload: 1 % uploaded (1048576)
+0026.356 (0) Googledrive chunked upload: 2.1 % uploaded (2097152)
+0026.437 (0) Googledrive chunked upload: 3.1 % uploaded (3145728)
+0026.522 (0) Googledrive chunked upload: 4.1 % uploaded (4194304)
+0026.613 (0) Googledrive chunked upload: 5.2 % uploaded (5242880)
+0026.678 (0) Googledrive chunked upload: 6.2 % uploaded (6291456)
+0026.753 (0) Googledrive chunked upload: 7.2 % uploaded (7340032)
+0026.833 (0) Googledrive chunked upload: 8.3 % uploaded (8388608)
+0026.901 (0) Googledrive chunked upload: 9.3 % uploaded (9437184)
+0026.998 (0) Googledrive chunked upload: 10.3 % uploaded (10485760)
+0027.170 (0) Googledrive chunked upload: 11.3 % uploaded (11534336)
+0027.356 (0) Googledrive chunked upload: 12.4 % uploaded (12582912)
+0027.444 (0) Googledrive chunked upload: 13.4 % uploaded (13631488)
+0027.508 (0) Googledrive chunked upload: 14.4 % uploaded (14680064)
+0027.586 (0) Googledrive chunked upload: 15.5 % uploaded (15728640)
+0027.699 (0) Googledrive chunked upload: 16.5 % uploaded (16777216)
+0027.794 (0) Googledrive chunked upload: 17.5 % uploaded (17825792)
+0027.861 (0) Googledrive chunked upload: 18.6 % uploaded (18874368)
+0027.935 (0) Googledrive chunked upload: 19.6 % uploaded (19922944)
+0028.019 (0) Googledrive chunked upload: 20.6 % uploaded (20971520)
+0028.177 (0) Googledrive chunked upload: 21.7 % uploaded (22020096)
+0028.258 (0) Googledrive chunked upload: 22.7 % uploaded (23068672)
+0028.347 (0) Googledrive chunked upload: 23.7 % uploaded (24117248)
+0028.415 (0) Googledrive chunked upload: 24.8 % uploaded (25165824)
+0028.488 (0) Googledrive chunked upload: 25.8 % uploaded (26214400)
+0028.604 (0) Googledrive chunked upload: 26.8 % uploaded (27262976)
+0028.680 (0) Googledrive chunked upload: 27.9 % uploaded (28311552)
+0028.771 (0) Googledrive chunked upload: 28.9 % uploaded (29360128)
+0028.889 (0) Googledrive chunked upload: 29.9 % uploaded (30408704)
+0028.974 (0) Googledrive chunked upload: 31 % uploaded (31457280)
+0029.158 (0) Googledrive chunked upload: 32 % uploaded (32505856)
+0029.245 (0) Googledrive chunked upload: 33 % uploaded (33554432)
+0029.318 (0) Googledrive chunked upload: 34 % uploaded (34603008)
+0029.384 (0) Googledrive chunked upload: 35.1 % uploaded (35651584)
+0029.498 (0) Googledrive chunked upload: 36.1 % uploaded (36700160)
+0029.569 (0) Googledrive chunked upload: 37.1 % uploaded (37748736)
+0029.668 (0) Googledrive chunked upload: 38.2 % uploaded (38797312)
+0029.763 (0) Googledrive chunked upload: 39.2 % uploaded (39845888)
+0029.832 (0) Googledrive chunked upload: 40.2 % uploaded (40894464)
+0029.904 (0) Googledrive chunked upload: 41.3 % uploaded (41943040)
+0030.076 (0) Googledrive chunked upload: 42.3 % uploaded (42991616)
+0030.161 (0) Googledrive chunked upload: 43.3 % uploaded (44040192)
+0030.230 (0) Googledrive chunked upload: 44.4 % uploaded (45088768)
+0030.311 (0) Googledrive chunked upload: 45.4 % uploaded (46137344)
+0030.380 (0) Googledrive chunked upload: 46.4 % uploaded (47185920)
+0030.451 (0) Googledrive chunked upload: 47.5 % uploaded (48234496)
+0030.526 (0) Googledrive chunked upload: 48.5 % uploaded (49283072)
+0030.613 (0) Googledrive chunked upload: 49.5 % uploaded (50331648)
+0030.678 (0) Googledrive chunked upload: 50.6 % uploaded (51380224)
+0030.756 (0) Googledrive chunked upload: 51.6 % uploaded (52428800)
+0030.913 (0) Googledrive chunked upload: 52.6 % uploaded (53477376)
+0030.986 (0) Googledrive chunked upload: 53.7 % uploaded (54525952)
+0031.079 (0) Googledrive chunked upload: 54.7 % uploaded (55574528)
+0031.173 (0) Googledrive chunked upload: 55.7 % uploaded (56623104)
+0031.255 (0) Googledrive chunked upload: 56.7 % uploaded (57671680)
+0031.323 (0) Googledrive chunked upload: 57.8 % uploaded (58720256)
+0031.416 (0) Googledrive chunked upload: 58.8 % uploaded (59768832)
+0031.492 (0) Googledrive chunked upload: 59.8 % uploaded (60817408)
+0031.565 (0) Googledrive chunked upload: 60.9 % uploaded (61865984)
+0031.636 (0) Googledrive chunked upload: 61.9 % uploaded (62914560)
+0031.811 (0) Googledrive chunked upload: 62.9 % uploaded (63963136)
+0031.883 (0) Googledrive chunked upload: 64 % uploaded (65011712)
+0032.067 (0) Googledrive chunked upload: 65 % uploaded (66060288)
+0032.151 (0) Googledrive chunked upload: 66 % uploaded (67108864)
+0032.215 (0) Googledrive chunked upload: 67.1 % uploaded (68157440)
+0032.278 (0) Googledrive chunked upload: 68.1 % uploaded (69206016)
+0032.351 (0) Googledrive chunked upload: 69.1 % uploaded (70254592)
+0032.519 (0) Googledrive chunked upload: 70.2 % uploaded (71303168)
+0032.595 (0) Googledrive chunked upload: 71.2 % uploaded (72351744)
+0032.663 (0) Googledrive chunked upload: 72.2 % uploaded (73400320)
+0032.876 (0) Googledrive chunked upload: 73.3 % uploaded (74448896)
+0032.946 (0) Googledrive chunked upload: 74.3 % uploaded (75497472)
+0033.032 (0) Googledrive chunked upload: 75.3 % uploaded (76546048)
+0033.101 (0) Googledrive chunked upload: 76.3 % uploaded (77594624)
+0033.169 (0) Googledrive chunked upload: 77.4 % uploaded (78643200)
+0033.280 (0) Googledrive chunked upload: 78.4 % uploaded (79691776)
+0033.417 (0) Googledrive chunked upload: 79.4 % uploaded (80740352)
+0033.485 (0) Googledrive chunked upload: 80.5 % uploaded (81788928)
+0033.575 (0) Googledrive chunked upload: 81.5 % uploaded (82837504)
+0033.662 (0) Googledrive chunked upload: 82.5 % uploaded (83886080)
+0033.813 (0) Googledrive chunked upload: 83.6 % uploaded (84934656)
+0033.892 (0) Googledrive chunked upload: 84.6 % uploaded (85983232)
+0033.967 (0) Googledrive chunked upload: 85.6 % uploaded (87031808)
+0034.076 (0) Googledrive chunked upload: 86.7 % uploaded (88080384)
+0034.147 (0) Googledrive chunked upload: 87.7 % uploaded (89128960)
+0034.215 (0) Googledrive chunked upload: 88.7 % uploaded (90177536)
+0034.299 (0) Googledrive chunked upload: 89.8 % uploaded (91226112)
+0034.371 (0) Googledrive chunked upload: 90.8 % uploaded (92274688)
+0034.434 (0) Googledrive chunked upload: 91.8 % uploaded (93323264)
+0034.521 (0) Googledrive chunked upload: 92.9 % uploaded (94371840)
+0034.671 (0) Googledrive chunked upload: 93.9 % uploaded (95420416)
+0034.738 (0) Googledrive chunked upload: 94.9 % uploaded (96468992)
+0034.825 (0) Googledrive chunked upload: 96 % uploaded (97517568)
+0034.928 (0) Googledrive chunked upload: 97 % uploaded (98566144)
+0035.002 (0) Googledrive chunked upload: 98 % uploaded (99614720)
+0035.064 (0) Googledrive chunked upload: 99 % uploaded (100663296)
+0036.429 (0) Googledrive chunked upload: 100 % uploaded (100663296)
+0036.432 (0) Google Drive: OK: Archive backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip uploaded in 10.46 seconds
+0036.433 (0) Recording as successfully uploaded: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip
+0036.453 (0) Deleting local file: backup_2020-12-12-1543_SD_Express_19d42699c422-plugins.zip: OK
+0036.742 (0) Google Drive: quota usage: used=9812.5 MB, total=15360 MB, available=5547.5 MB
+0036.743 (0) Google Drive: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip: Attempting to upload to Google Drive (into folder id: 1VUyzmkAWJLyBcHmKoINiazbXXaGDrUkg)
+0037.055 (0) Googledrive chunked upload: 13.1 % uploaded (1048576)
+0037.145 (0) Googledrive chunked upload: 26.2 % uploaded (2097152)
+0037.214 (0) Googledrive chunked upload: 39.3 % uploaded (3145728)
+0037.309 (0) Googledrive chunked upload: 52.4 % uploaded (4194304)
+0037.399 (0) Googledrive chunked upload: 65.4 % uploaded (5242880)
+0037.471 (0) Googledrive chunked upload: 78.5 % uploaded (6291456)
+0037.537 (0) Googledrive chunked upload: 91.6 % uploaded (7340032)
+0038.777 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0038.779 (0) Google Drive: OK: Archive backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip uploaded in 2.04 seconds
+0038.779 (0) Recording as successfully uploaded: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip
+0038.781 (0) Deleting local file: backup_2020-12-12-1543_SD_Express_19d42699c422-themes.zip: OK
+0039.100 (0) Google Drive: quota usage: used=9812.5 MB, total=15360 MB, available=5547.5 MB
+0039.101 (0) Google Drive: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip: Attempting to upload to Google Drive (into folder id: 1VUyzmkAWJLyBcHmKoINiazbXXaGDrUkg)
+0039.416 (0) Googledrive chunked upload: 0.3 % uploaded (1048576)
+0039.481 (0) Googledrive chunked upload: 0.5 % uploaded (2097152)
+0039.549 (0) Googledrive chunked upload: 0.8 % uploaded (3145728)
+0039.673 (0) Googledrive chunked upload: 1 % uploaded (4194304)
+0039.785 (0) Googledrive chunked upload: 1.3 % uploaded (5242880)
+0039.853 (0) Googledrive chunked upload: 1.5 % uploaded (6291456)
+0039.914 (0) Googledrive chunked upload: 1.8 % uploaded (7340032)
+0039.980 (0) Googledrive chunked upload: 2 % uploaded (8388608)
+0040.041 (0) Googledrive chunked upload: 2.3 % uploaded (9437184)
+0040.105 (0) Googledrive chunked upload: 2.6 % uploaded (10485760)
+0040.282 (0) Googledrive chunked upload: 2.8 % uploaded (11534336)
+0040.358 (0) Googledrive chunked upload: 3.1 % uploaded (12582912)
+0040.428 (0) Googledrive chunked upload: 3.3 % uploaded (13631488)
+0040.531 (0) Googledrive chunked upload: 3.6 % uploaded (14680064)
+0040.597 (0) Googledrive chunked upload: 3.8 % uploaded (15728640)
+0040.662 (0) Googledrive chunked upload: 4.1 % uploaded (16777216)
+0040.771 (0) Googledrive chunked upload: 4.3 % uploaded (17825792)
+0040.886 (0) Googledrive chunked upload: 4.6 % uploaded (18874368)
+0040.959 (0) Googledrive chunked upload: 4.9 % uploaded (19922944)
+0041.022 (0) Googledrive chunked upload: 5.1 % uploaded (20971520)
+0041.193 (0) Googledrive chunked upload: 5.4 % uploaded (22020096)
+0041.255 (0) Googledrive chunked upload: 5.6 % uploaded (23068672)
+0041.320 (0) Googledrive chunked upload: 5.9 % uploaded (24117248)
+0041.406 (0) Googledrive chunked upload: 6.1 % uploaded (25165824)
+0041.478 (0) Googledrive chunked upload: 6.4 % uploaded (26214400)
+0041.549 (0) Googledrive chunked upload: 6.7 % uploaded (27262976)
+0041.627 (0) Googledrive chunked upload: 6.9 % uploaded (28311552)
+0041.695 (0) Googledrive chunked upload: 7.2 % uploaded (29360128)
+0041.769 (0) Googledrive chunked upload: 7.4 % uploaded (30408704)
+0041.836 (0) Googledrive chunked upload: 7.7 % uploaded (31457280)
+0042.040 (0) Googledrive chunked upload: 7.9 % uploaded (32505856)
+0042.130 (0) Googledrive chunked upload: 8.2 % uploaded (33554432)
+0042.197 (0) Googledrive chunked upload: 8.4 % uploaded (34603008)
+0042.284 (0) Googledrive chunked upload: 8.7 % uploaded (35651584)
+0042.353 (0) Googledrive chunked upload: 9 % uploaded (36700160)
+0042.420 (0) Googledrive chunked upload: 9.2 % uploaded (37748736)
+0042.488 (0) Googledrive chunked upload: 9.5 % uploaded (38797312)
+0042.557 (0) Googledrive chunked upload: 9.7 % uploaded (39845888)
+0042.621 (0) Googledrive chunked upload: 10 % uploaded (40894464)
+0042.688 (0) Googledrive chunked upload: 10.2 % uploaded (41943040)
+0042.866 (0) Googledrive chunked upload: 10.5 % uploaded (42991616)
+0042.935 (0) Googledrive chunked upload: 10.7 % uploaded (44040192)
+0043.029 (0) Googledrive chunked upload: 11 % uploaded (45088768)
+0043.102 (0) Googledrive chunked upload: 11.3 % uploaded (46137344)
+0043.188 (0) Googledrive chunked upload: 11.5 % uploaded (47185920)
+0043.257 (0) Googledrive chunked upload: 11.8 % uploaded (48234496)
+0043.326 (0) Googledrive chunked upload: 12 % uploaded (49283072)
+0043.398 (0) Googledrive chunked upload: 12.3 % uploaded (50331648)
+0043.472 (0) Googledrive chunked upload: 12.5 % uploaded (51380224)
+0043.534 (0) Googledrive chunked upload: 12.8 % uploaded (52428800)
+0043.703 (0) Googledrive chunked upload: 13 % uploaded (53477376)
+0043.776 (0) Googledrive chunked upload: 13.3 % uploaded (54525952)
+0043.860 (0) Googledrive chunked upload: 13.6 % uploaded (55574528)
+0043.927 (0) Googledrive chunked upload: 13.8 % uploaded (56623104)
+0044.004 (0) Googledrive chunked upload: 14.1 % uploaded (57671680)
+0044.103 (0) Googledrive chunked upload: 14.3 % uploaded (58720256)
+0044.170 (0) Googledrive chunked upload: 14.6 % uploaded (59768832)
+0044.275 (0) Googledrive chunked upload: 14.8 % uploaded (60817408)
+0044.340 (0) Googledrive chunked upload: 15.1 % uploaded (61865984)
+0044.410 (0) Googledrive chunked upload: 15.3 % uploaded (62914560)
+0044.603 (0) Googledrive chunked upload: 15.6 % uploaded (63963136)
+0044.701 (0) Googledrive chunked upload: 15.9 % uploaded (65011712)
+0044.770 (0) Googledrive chunked upload: 16.1 % uploaded (66060288)
+0044.837 (0) Googledrive chunked upload: 16.4 % uploaded (67108864)
+0044.929 (0) Googledrive chunked upload: 16.6 % uploaded (68157440)
+0045.000 (0) Googledrive chunked upload: 16.9 % uploaded (69206016)
+0045.099 (0) Googledrive chunked upload: 17.1 % uploaded (70254592)
+0045.200 (0) Googledrive chunked upload: 17.4 % uploaded (71303168)
+0045.290 (0) Googledrive chunked upload: 17.6 % uploaded (72351744)
+0045.388 (0) Googledrive chunked upload: 17.9 % uploaded (73400320)
+0045.544 (0) Googledrive chunked upload: 18.2 % uploaded (74448896)
+0045.623 (0) Googledrive chunked upload: 18.4 % uploaded (75497472)
+0045.693 (0) Googledrive chunked upload: 18.7 % uploaded (76546048)
+0045.768 (0) Googledrive chunked upload: 18.9 % uploaded (77594624)
+0045.838 (0) Googledrive chunked upload: 19.2 % uploaded (78643200)
+0045.918 (0) Googledrive chunked upload: 19.4 % uploaded (79691776)
+0045.983 (0) Googledrive chunked upload: 19.7 % uploaded (80740352)
+0046.049 (0) Googledrive chunked upload: 20 % uploaded (81788928)
+0046.210 (0) Googledrive chunked upload: 20.2 % uploaded (82837504)
+0046.298 (0) Googledrive chunked upload: 20.5 % uploaded (83886080)
+0046.455 (0) Googledrive chunked upload: 20.7 % uploaded (84934656)
+0046.522 (0) Googledrive chunked upload: 21 % uploaded (85983232)
+0046.586 (0) Googledrive chunked upload: 21.2 % uploaded (87031808)
+0046.652 (0) Googledrive chunked upload: 21.5 % uploaded (88080384)
+0046.726 (0) Googledrive chunked upload: 21.7 % uploaded (89128960)
+0046.806 (0) Googledrive chunked upload: 22 % uploaded (90177536)
+0046.872 (0) Googledrive chunked upload: 22.3 % uploaded (91226112)
+0046.937 (0) Googledrive chunked upload: 22.5 % uploaded (92274688)
+0047.021 (0) Googledrive chunked upload: 22.8 % uploaded (93323264)
+0047.090 (0) Googledrive chunked upload: 23 % uploaded (94371840)
+0047.244 (0) Googledrive chunked upload: 23.3 % uploaded (95420416)
+0047.352 (0) Googledrive chunked upload: 23.5 % uploaded (96468992)
+0047.424 (0) Googledrive chunked upload: 23.8 % uploaded (97517568)
+0047.496 (0) Googledrive chunked upload: 24 % uploaded (98566144)
+0047.563 (0) Googledrive chunked upload: 24.3 % uploaded (99614720)
+0047.632 (0) Googledrive chunked upload: 24.6 % uploaded (100663296)
+0047.753 (0) Googledrive chunked upload: 24.8 % uploaded (101711872)
+0047.862 (0) Googledrive chunked upload: 25.1 % uploaded (102760448)
+0047.967 (0) Googledrive chunked upload: 25.3 % uploaded (103809024)
+0048.033 (0) Googledrive chunked upload: 25.6 % uploaded (104857600)
+0048.179 (0) Googledrive chunked upload: 25.8 % uploaded (105906176)
+0048.261 (0) Googledrive chunked upload: 26.1 % uploaded (106954752)
+0048.344 (0) Googledrive chunked upload: 26.3 % uploaded (108003328)
+0048.410 (0) Googledrive chunked upload: 26.6 % uploaded (109051904)
+0048.478 (0) Googledrive chunked upload: 26.9 % uploaded (110100480)
+0048.542 (0) Googledrive chunked upload: 27.1 % uploaded (111149056)
+0048.615 (0) Googledrive chunked upload: 27.4 % uploaded (112197632)
+0048.679 (0) Googledrive chunked upload: 27.6 % uploaded (113246208)
+0048.776 (0) Googledrive chunked upload: 27.9 % uploaded (114294784)
+0048.844 (0) Googledrive chunked upload: 28.1 % uploaded (115343360)
+0049.000 (0) Googledrive chunked upload: 28.4 % uploaded (116391936)
+0049.069 (0) Googledrive chunked upload: 28.6 % uploaded (117440512)
+0049.135 (0) Googledrive chunked upload: 28.9 % uploaded (118489088)
+0049.198 (0) Googledrive chunked upload: 29.2 % uploaded (119537664)
+0049.264 (0) Googledrive chunked upload: 29.4 % uploaded (120586240)
+0049.328 (0) Googledrive chunked upload: 29.7 % uploaded (121634816)
+0049.392 (0) Googledrive chunked upload: 29.9 % uploaded (122683392)
+0049.460 (0) Googledrive chunked upload: 30.2 % uploaded (123731968)
+0049.526 (0) Googledrive chunked upload: 30.4 % uploaded (124780544)
+0049.624 (0) Googledrive chunked upload: 30.7 % uploaded (125829120)
+0049.789 (0) Googledrive chunked upload: 31 % uploaded (126877696)
+0049.885 (0) Googledrive chunked upload: 31.2 % uploaded (127926272)
+0049.984 (0) Googledrive chunked upload: 31.5 % uploaded (128974848)
+0050.065 (0) Googledrive chunked upload: 31.7 % uploaded (130023424)
+0050.132 (0) Googledrive chunked upload: 32 % uploaded (131072000)
+0050.197 (0) Googledrive chunked upload: 32.2 % uploaded (132120576)
+0050.263 (0) Googledrive chunked upload: 32.5 % uploaded (133169152)
+0050.328 (0) Googledrive chunked upload: 32.7 % uploaded (134217728)
+0050.400 (0) Googledrive chunked upload: 33 % uploaded (135266304)
+0050.473 (0) Googledrive chunked upload: 33.3 % uploaded (136314880)
+0050.616 (0) Googledrive chunked upload: 33.5 % uploaded (137363456)
+0050.684 (0) Googledrive chunked upload: 33.8 % uploaded (138412032)
+0050.777 (0) Googledrive chunked upload: 34 % uploaded (139460608)
+0050.853 (0) Googledrive chunked upload: 34.3 % uploaded (140509184)
+0050.922 (0) Googledrive chunked upload: 34.5 % uploaded (141557760)
+0050.993 (0) Googledrive chunked upload: 34.8 % uploaded (142606336)
+0051.055 (0) Googledrive chunked upload: 35 % uploaded (143654912)
+0051.119 (0) Googledrive chunked upload: 35.3 % uploaded (144703488)
+0051.219 (0) Googledrive chunked upload: 35.6 % uploaded (145752064)
+0051.290 (0) Googledrive chunked upload: 35.8 % uploaded (146800640)
+0051.446 (0) Googledrive chunked upload: 36.1 % uploaded (147849216)
+0051.513 (0) Googledrive chunked upload: 36.3 % uploaded (148897792)
+0051.575 (0) Googledrive chunked upload: 36.6 % uploaded (149946368)
+0051.638 (0) Googledrive chunked upload: 36.8 % uploaded (150994944)
+0051.720 (0) Googledrive chunked upload: 37.1 % uploaded (152043520)
+0051.786 (0) Googledrive chunked upload: 37.3 % uploaded (153092096)
+0051.857 (0) Googledrive chunked upload: 37.6 % uploaded (154140672)
+0051.933 (0) Googledrive chunked upload: 37.9 % uploaded (155189248)
+0052.051 (0) Googledrive chunked upload: 38.1 % uploaded (156237824)
+0052.131 (0) Googledrive chunked upload: 38.4 % uploaded (157286400)
+0052.297 (0) Googledrive chunked upload: 38.6 % uploaded (158334976)
+0052.381 (0) Googledrive chunked upload: 38.9 % uploaded (159383552)
+0052.462 (0) Googledrive chunked upload: 39.1 % uploaded (160432128)
+0052.537 (0) Googledrive chunked upload: 39.4 % uploaded (161480704)
+0052.617 (0) Googledrive chunked upload: 39.6 % uploaded (162529280)
+0052.697 (0) Googledrive chunked upload: 39.9 % uploaded (163577856)
+0052.794 (0) Googledrive chunked upload: 40.2 % uploaded (164626432)
+0052.874 (0) Googledrive chunked upload: 40.4 % uploaded (165675008)
+0052.958 (0) Googledrive chunked upload: 40.7 % uploaded (166723584)
+0053.045 (0) Googledrive chunked upload: 40.9 % uploaded (167772160)
+0053.208 (0) Googledrive chunked upload: 41.2 % uploaded (168820736)
+0053.282 (0) Googledrive chunked upload: 41.4 % uploaded (169869312)
+0053.362 (0) Googledrive chunked upload: 41.7 % uploaded (170917888)
+0053.438 (0) Googledrive chunked upload: 42 % uploaded (171966464)
+0053.512 (0) Googledrive chunked upload: 42.2 % uploaded (173015040)
+0053.593 (0) Googledrive chunked upload: 42.5 % uploaded (174063616)
+0053.677 (0) Googledrive chunked upload: 42.7 % uploaded (175112192)
+0053.761 (0) Googledrive chunked upload: 43 % uploaded (176160768)
+0053.848 (0) Googledrive chunked upload: 43.2 % uploaded (177209344)
+0053.924 (0) Googledrive chunked upload: 43.5 % uploaded (178257920)
+0054.132 (0) Googledrive chunked upload: 43.7 % uploaded (179306496)
+0054.216 (0) Googledrive chunked upload: 44 % uploaded (180355072)
+0054.297 (0) Googledrive chunked upload: 44.3 % uploaded (181403648)
+0054.377 (0) Googledrive chunked upload: 44.5 % uploaded (182452224)
+0054.456 (0) Googledrive chunked upload: 44.8 % uploaded (183500800)
+0054.570 (0) Googledrive chunked upload: 45 % uploaded (184549376)
+0054.645 (0) Googledrive chunked upload: 45.3 % uploaded (185597952)
+0054.722 (0) Googledrive chunked upload: 45.5 % uploaded (186646528)
+0054.805 (0) Googledrive chunked upload: 45.8 % uploaded (187695104)
+0054.888 (0) Googledrive chunked upload: 46 % uploaded (188743680)
+0055.059 (0) Googledrive chunked upload: 46.3 % uploaded (189792256)
+0055.140 (0) Googledrive chunked upload: 46.6 % uploaded (190840832)
+0055.216 (0) Googledrive chunked upload: 46.8 % uploaded (191889408)
+0055.288 (0) Googledrive chunked upload: 47.1 % uploaded (192937984)
+0055.377 (0) Googledrive chunked upload: 47.3 % uploaded (193986560)
+0055.463 (0) Googledrive chunked upload: 47.6 % uploaded (195035136)
+0055.552 (0) Googledrive chunked upload: 47.8 % uploaded (196083712)
+0055.640 (0) Googledrive chunked upload: 48.1 % uploaded (197132288)
+0055.716 (0) Googledrive chunked upload: 48.3 % uploaded (198180864)
+0055.800 (0) Googledrive chunked upload: 48.6 % uploaded (199229440)
+0055.967 (0) Googledrive chunked upload: 48.9 % uploaded (200278016)
+0056.041 (0) Googledrive chunked upload: 49.1 % uploaded (201326592)
+0056.122 (0) Googledrive chunked upload: 49.4 % uploaded (202375168)
+0056.201 (0) Googledrive chunked upload: 49.6 % uploaded (203423744)
+0056.299 (0) Googledrive chunked upload: 49.9 % uploaded (204472320)
+0056.380 (0) Googledrive chunked upload: 50.1 % uploaded (205520896)
+0056.472 (0) Googledrive chunked upload: 50.4 % uploaded (206569472)
+0056.553 (0) Googledrive chunked upload: 50.6 % uploaded (207618048)
+0056.646 (0) Googledrive chunked upload: 50.9 % uploaded (208666624)
+0056.747 (0) Googledrive chunked upload: 51.2 % uploaded (209715200)
+0056.912 (0) Googledrive chunked upload: 51.4 % uploaded (210763776)
+0057.005 (0) Googledrive chunked upload: 51.7 % uploaded (211812352)
+0057.091 (0) Googledrive chunked upload: 51.9 % uploaded (212860928)
+0057.179 (0) Googledrive chunked upload: 52.2 % uploaded (213909504)
+0057.273 (0) Googledrive chunked upload: 52.4 % uploaded (214958080)
+0057.346 (0) Googledrive chunked upload: 52.7 % uploaded (216006656)
+0057.422 (0) Googledrive chunked upload: 52.9 % uploaded (217055232)
+0057.508 (0) Googledrive chunked upload: 53.2 % uploaded (218103808)
+0057.585 (0) Googledrive chunked upload: 53.5 % uploaded (219152384)
+0057.670 (0) Googledrive chunked upload: 53.7 % uploaded (220200960)
+0057.847 (0) Googledrive chunked upload: 54 % uploaded (221249536)
+0057.926 (0) Googledrive chunked upload: 54.2 % uploaded (222298112)
+0058.000 (0) Googledrive chunked upload: 54.5 % uploaded (223346688)
+0058.084 (0) Googledrive chunked upload: 54.7 % uploaded (224395264)
+0058.170 (0) Googledrive chunked upload: 55 % uploaded (225443840)
+0058.249 (0) Googledrive chunked upload: 55.3 % uploaded (226492416)
+0058.333 (0) Googledrive chunked upload: 55.5 % uploaded (227540992)
+0058.457 (0) Googledrive chunked upload: 55.8 % uploaded (228589568)
+0058.579 (0) Googledrive chunked upload: 56 % uploaded (229638144)
+0058.651 (0) Googledrive chunked upload: 56.3 % uploaded (230686720)
+0058.834 (0) Googledrive chunked upload: 56.5 % uploaded (231735296)
+0058.919 (0) Googledrive chunked upload: 56.8 % uploaded (232783872)
+0058.999 (0) Googledrive chunked upload: 57 % uploaded (233832448)
+0059.081 (0) Googledrive chunked upload: 57.3 % uploaded (234881024)
+0059.188 (0) Googledrive chunked upload: 57.6 % uploaded (235929600)
+0059.271 (0) Googledrive chunked upload: 57.8 % uploaded (236978176)
+0059.347 (0) Googledrive chunked upload: 58.1 % uploaded (238026752)
+0059.433 (0) Googledrive chunked upload: 58.3 % uploaded (239075328)
+0059.525 (0) Googledrive chunked upload: 58.6 % uploaded (240123904)
+0059.607 (0) Googledrive chunked upload: 58.8 % uploaded (241172480)
+0059.775 (0) Googledrive chunked upload: 59.1 % uploaded (242221056)
+0059.900 (0) Googledrive chunked upload: 59.3 % uploaded (243269632)
+0059.980 (0) Googledrive chunked upload: 59.6 % uploaded (244318208)
+0060.065 (0) Googledrive chunked upload: 59.9 % uploaded (245366784)
+0060.146 (0) Googledrive chunked upload: 60.1 % uploaded (246415360)
+0060.228 (0) Googledrive chunked upload: 60.4 % uploaded (247463936)
+0060.309 (0) Googledrive chunked upload: 60.6 % uploaded (248512512)
+0060.464 (0) Googledrive chunked upload: 60.9 % uploaded (249561088)
+0060.541 (0) Googledrive chunked upload: 61.1 % uploaded (250609664)
+0060.616 (0) Googledrive chunked upload: 61.4 % uploaded (251658240)
+0060.793 (0) Googledrive chunked upload: 61.6 % uploaded (252706816)
+0060.888 (0) Googledrive chunked upload: 61.9 % uploaded (253755392)
+0060.968 (0) Googledrive chunked upload: 62.2 % uploaded (254803968)
+0061.052 (0) Googledrive chunked upload: 62.4 % uploaded (255852544)
+0061.171 (0) Googledrive chunked upload: 62.7 % uploaded (256901120)
+0061.278 (0) Googledrive chunked upload: 62.9 % uploaded (257949696)
+0061.358 (0) Googledrive chunked upload: 63.2 % uploaded (258998272)
+0061.432 (0) Googledrive chunked upload: 63.4 % uploaded (260046848)
+0061.512 (0) Googledrive chunked upload: 63.7 % uploaded (261095424)
+0061.610 (0) Googledrive chunked upload: 63.9 % uploaded (262144000)
+0061.771 (0) Googledrive chunked upload: 64.2 % uploaded (263192576)
+0061.855 (0) Googledrive chunked upload: 64.5 % uploaded (264241152)
+0061.948 (0) Googledrive chunked upload: 64.7 % uploaded (265289728)
+0062.027 (0) Googledrive chunked upload: 65 % uploaded (266338304)
+0062.127 (0) Googledrive chunked upload: 65.2 % uploaded (267386880)
+0062.216 (0) Googledrive chunked upload: 65.5 % uploaded (268435456)
+0062.307 (0) Googledrive chunked upload: 65.7 % uploaded (269484032)
+0062.418 (0) Googledrive chunked upload: 66 % uploaded (270532608)
+0062.493 (0) Googledrive chunked upload: 66.3 % uploaded (271581184)
+0062.579 (0) Googledrive chunked upload: 66.5 % uploaded (272629760)
+0062.753 (0) Googledrive chunked upload: 66.8 % uploaded (273678336)
+0062.839 (0) Googledrive chunked upload: 67 % uploaded (274726912)
+0062.915 (0) Googledrive chunked upload: 67.3 % uploaded (275775488)
+0062.996 (0) Googledrive chunked upload: 67.5 % uploaded (276824064)
+0063.085 (0) Googledrive chunked upload: 67.8 % uploaded (277872640)
+0063.161 (0) Googledrive chunked upload: 68 % uploaded (278921216)
+0063.244 (0) Googledrive chunked upload: 68.3 % uploaded (279969792)
+0063.331 (0) Googledrive chunked upload: 68.6 % uploaded (281018368)
+0063.419 (0) Googledrive chunked upload: 68.8 % uploaded (282066944)
+0063.580 (0) Googledrive chunked upload: 69.1 % uploaded (283115520)
+0063.748 (0) Googledrive chunked upload: 69.3 % uploaded (284164096)
+0063.845 (0) Googledrive chunked upload: 69.6 % uploaded (285212672)
+0063.937 (0) Googledrive chunked upload: 69.8 % uploaded (286261248)
+0064.029 (0) Googledrive chunked upload: 70.1 % uploaded (287309824)
+0064.240 (0) Googledrive chunked upload: 70.3 % uploaded (288358400)
+0064.323 (0) Googledrive chunked upload: 70.6 % uploaded (289406976)
+0064.416 (0) Googledrive chunked upload: 70.9 % uploaded (290455552)
+0064.486 (0) Googledrive chunked upload: 71.1 % uploaded (291504128)
+0064.574 (0) Googledrive chunked upload: 71.4 % uploaded (292552704)
+0064.655 (0) Googledrive chunked upload: 71.6 % uploaded (293601280)
+0064.832 (0) Googledrive chunked upload: 71.9 % uploaded (294649856)
+0064.916 (0) Googledrive chunked upload: 72.1 % uploaded (295698432)
+0064.999 (0) Googledrive chunked upload: 72.4 % uploaded (296747008)
+0065.080 (0) Googledrive chunked upload: 72.6 % uploaded (297795584)
+0065.164 (0) Googledrive chunked upload: 72.9 % uploaded (298844160)
+0065.256 (0) Googledrive chunked upload: 73.2 % uploaded (299892736)
+0065.344 (0) Googledrive chunked upload: 73.4 % uploaded (300941312)
+0065.423 (0) Googledrive chunked upload: 73.7 % uploaded (301989888)
+0065.517 (0) Googledrive chunked upload: 73.9 % uploaded (303038464)
+0065.598 (0) Googledrive chunked upload: 74.2 % uploaded (304087040)
+0065.756 (0) Googledrive chunked upload: 74.4 % uploaded (305135616)
+0065.845 (0) Googledrive chunked upload: 74.7 % uploaded (306184192)
+0065.921 (0) Googledrive chunked upload: 74.9 % uploaded (307232768)
+0066.002 (0) Googledrive chunked upload: 75.2 % uploaded (308281344)
+0066.123 (0) Googledrive chunked upload: 75.5 % uploaded (309329920)
+0066.207 (0) Googledrive chunked upload: 75.7 % uploaded (310378496)
+0066.289 (0) Googledrive chunked upload: 76 % uploaded (311427072)
+0066.372 (0) Googledrive chunked upload: 76.2 % uploaded (312475648)
+0066.450 (0) Googledrive chunked upload: 76.5 % uploaded (313524224)
+0066.531 (0) Googledrive chunked upload: 76.7 % uploaded (314572800)
+0066.707 (0) Googledrive chunked upload: 77 % uploaded (315621376)
+0066.785 (0) Googledrive chunked upload: 77.3 % uploaded (316669952)
+0066.877 (0) Googledrive chunked upload: 77.5 % uploaded (317718528)
+0066.953 (0) Googledrive chunked upload: 77.8 % uploaded (318767104)
+0067.035 (0) Googledrive chunked upload: 78 % uploaded (319815680)
+0067.112 (0) Googledrive chunked upload: 78.3 % uploaded (320864256)
+0067.197 (0) Googledrive chunked upload: 78.5 % uploaded (321912832)
+0067.276 (0) Googledrive chunked upload: 78.8 % uploaded (322961408)
+0067.357 (0) Googledrive chunked upload: 79 % uploaded (324009984)
+0067.454 (0) Googledrive chunked upload: 79.3 % uploaded (325058560)
+0067.665 (0) Googledrive chunked upload: 79.6 % uploaded (326107136)
+0067.737 (0) Googledrive chunked upload: 79.8 % uploaded (327155712)
+0067.822 (0) Googledrive chunked upload: 80.1 % uploaded (328204288)
+0067.913 (0) Googledrive chunked upload: 80.3 % uploaded (329252864)
+0067.989 (0) Googledrive chunked upload: 80.6 % uploaded (330301440)
+0068.069 (0) Googledrive chunked upload: 80.8 % uploaded (331350016)
+0068.146 (0) Googledrive chunked upload: 81.1 % uploaded (332398592)
+0068.228 (0) Googledrive chunked upload: 81.3 % uploaded (333447168)
+0068.312 (0) Googledrive chunked upload: 81.6 % uploaded (334495744)
+0068.420 (0) Googledrive chunked upload: 81.9 % uploaded (335544320)
+0068.600 (0) Googledrive chunked upload: 82.1 % uploaded (336592896)
+0068.677 (0) Googledrive chunked upload: 82.4 % uploaded (337641472)
+0068.752 (0) Googledrive chunked upload: 82.6 % uploaded (338690048)
+0068.864 (0) Googledrive chunked upload: 82.9 % uploaded (339738624)
+0068.932 (0) Googledrive chunked upload: 83.1 % uploaded (340787200)
+0069.006 (0) Googledrive chunked upload: 83.4 % uploaded (341835776)
+0069.081 (0) Googledrive chunked upload: 83.6 % uploaded (342884352)
+0069.169 (0) Googledrive chunked upload: 83.9 % uploaded (343932928)
+0069.240 (0) Googledrive chunked upload: 84.2 % uploaded (344981504)
+0069.315 (0) Googledrive chunked upload: 84.4 % uploaded (346030080)
+0069.478 (0) Googledrive chunked upload: 84.7 % uploaded (347078656)
+0069.557 (0) Googledrive chunked upload: 84.9 % uploaded (348127232)
+0069.635 (0) Googledrive chunked upload: 85.2 % uploaded (349175808)
+0069.732 (0) Googledrive chunked upload: 85.4 % uploaded (350224384)
+0069.831 (0) Googledrive chunked upload: 85.7 % uploaded (351272960)
+0069.955 (0) Googledrive chunked upload: 85.9 % uploaded (352321536)
+0070.038 (0) Googledrive chunked upload: 86.2 % uploaded (353370112)
+0070.125 (0) Googledrive chunked upload: 86.5 % uploaded (354418688)
+0070.230 (0) Googledrive chunked upload: 86.7 % uploaded (355467264)
+0070.316 (0) Googledrive chunked upload: 87 % uploaded (356515840)
+0070.481 (0) Googledrive chunked upload: 87.2 % uploaded (357564416)
+0070.572 (0) Googledrive chunked upload: 87.5 % uploaded (358612992)
+0070.654 (0) Googledrive chunked upload: 87.7 % uploaded (359661568)
+0070.732 (0) Googledrive chunked upload: 88 % uploaded (360710144)
+0070.818 (0) Googledrive chunked upload: 88.2 % uploaded (361758720)
+0070.895 (0) Googledrive chunked upload: 88.5 % uploaded (362807296)
+0070.983 (0) Googledrive chunked upload: 88.8 % uploaded (363855872)
+0071.067 (0) Googledrive chunked upload: 89 % uploaded (364904448)
+0071.146 (0) Googledrive chunked upload: 89.3 % uploaded (365953024)
+0071.222 (0) Googledrive chunked upload: 89.5 % uploaded (367001600)
+0071.391 (0) Googledrive chunked upload: 89.8 % uploaded (368050176)
+0071.472 (0) Googledrive chunked upload: 90 % uploaded (369098752)
+0071.554 (0) Googledrive chunked upload: 90.3 % uploaded (370147328)
+0071.631 (0) Googledrive chunked upload: 90.6 % uploaded (371195904)
+0071.707 (0) Googledrive chunked upload: 90.8 % uploaded (372244480)
+0071.793 (0) Googledrive chunked upload: 91.1 % uploaded (373293056)
+0071.871 (0) Googledrive chunked upload: 91.3 % uploaded (374341632)
+0071.958 (0) Googledrive chunked upload: 91.6 % uploaded (375390208)
+0072.040 (0) Googledrive chunked upload: 91.8 % uploaded (376438784)
+0072.129 (0) Googledrive chunked upload: 92.1 % uploaded (377487360)
+0072.284 (0) Googledrive chunked upload: 92.3 % uploaded (378535936)
+0072.361 (0) Googledrive chunked upload: 92.6 % uploaded (379584512)
+0072.493 (0) Googledrive chunked upload: 92.9 % uploaded (380633088)
+0072.574 (0) Googledrive chunked upload: 93.1 % uploaded (381681664)
+0072.650 (0) Googledrive chunked upload: 93.4 % uploaded (382730240)
+0072.746 (0) Googledrive chunked upload: 93.6 % uploaded (383778816)
+0072.818 (0) Googledrive chunked upload: 93.9 % uploaded (384827392)
+0072.891 (0) Googledrive chunked upload: 94.1 % uploaded (385875968)
+0072.971 (0) Googledrive chunked upload: 94.4 % uploaded (386924544)
+0073.065 (0) Googledrive chunked upload: 94.6 % uploaded (387973120)
+0073.232 (0) Googledrive chunked upload: 94.9 % uploaded (389021696)
+0073.331 (0) Googledrive chunked upload: 95.2 % uploaded (390070272)
+0073.423 (0) Googledrive chunked upload: 95.4 % uploaded (391118848)
+0073.502 (0) Googledrive chunked upload: 95.7 % uploaded (392167424)
+0073.582 (0) Googledrive chunked upload: 95.9 % uploaded (393216000)
+0073.662 (0) Googledrive chunked upload: 96.2 % uploaded (394264576)
+0073.740 (0) Googledrive chunked upload: 96.4 % uploaded (395313152)
+0073.828 (0) Googledrive chunked upload: 96.7 % uploaded (396361728)
+0073.941 (0) Googledrive chunked upload: 96.9 % uploaded (397410304)
+0074.017 (0) Googledrive chunked upload: 97.2 % uploaded (398458880)
+0074.186 (0) Googledrive chunked upload: 97.5 % uploaded (399507456)
+0074.266 (0) Googledrive chunked upload: 97.7 % uploaded (400556032)
+0074.344 (0) Googledrive chunked upload: 98 % uploaded (401604608)
+0074.427 (0) Googledrive chunked upload: 98.2 % uploaded (402653184)
+0074.508 (0) Googledrive chunked upload: 98.5 % uploaded (403701760)
+0074.587 (0) Googledrive chunked upload: 98.7 % uploaded (404750336)
+0074.669 (0) Googledrive chunked upload: 99 % uploaded (405798912)
+0074.764 (0) Googledrive chunked upload: 99.2 % uploaded (406847488)
+0074.835 (0) Googledrive chunked upload: 99.5 % uploaded (407896064)
+0074.931 (0) Googledrive chunked upload: 99.8 % uploaded (408944640)
+0076.119 (0) Googledrive chunked upload: 100 % uploaded (408944640)
+0076.121 (0) Google Drive: OK: Archive backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip uploaded in 37.02 seconds
+0076.121 (0) Recording as successfully uploaded: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip
+0076.176 (0) Deleting local file: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads.zip: OK
+0076.439 (0) Google Drive: quota usage: used=9820.2 MB, total=15360 MB, available=5539.8 MB
+0076.440 (0) Google Drive: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip: Attempting to upload to Google Drive (into folder id: 1VUyzmkAWJLyBcHmKoINiazbXXaGDrUkg)
+0076.752 (0) Googledrive chunked upload: 1.1 % uploaded (1048576)
+0076.823 (0) Googledrive chunked upload: 2.1 % uploaded (2097152)
+0076.888 (0) Googledrive chunked upload: 3.2 % uploaded (3145728)
+0076.955 (0) Googledrive chunked upload: 4.2 % uploaded (4194304)
+0077.032 (0) Googledrive chunked upload: 5.3 % uploaded (5242880)
+0077.101 (0) Googledrive chunked upload: 6.3 % uploaded (6291456)
+0077.171 (0) Googledrive chunked upload: 7.4 % uploaded (7340032)
+0077.255 (0) Googledrive chunked upload: 8.4 % uploaded (8388608)
+0077.322 (0) Googledrive chunked upload: 9.5 % uploaded (9437184)
+0077.395 (0) Googledrive chunked upload: 10.5 % uploaded (10485760)
+0077.554 (0) Googledrive chunked upload: 11.6 % uploaded (11534336)
+0077.641 (0) Googledrive chunked upload: 12.6 % uploaded (12582912)
+0077.703 (0) Googledrive chunked upload: 13.7 % uploaded (13631488)
+0077.777 (0) Googledrive chunked upload: 14.7 % uploaded (14680064)
+0077.846 (0) Googledrive chunked upload: 15.8 % uploaded (15728640)
+0077.913 (0) Googledrive chunked upload: 16.8 % uploaded (16777216)
+0077.983 (0) Googledrive chunked upload: 17.9 % uploaded (17825792)
+0078.049 (0) Googledrive chunked upload: 18.9 % uploaded (18874368)
+0078.112 (0) Googledrive chunked upload: 20 % uploaded (19922944)
+0078.180 (0) Googledrive chunked upload: 21 % uploaded (20971520)
+0078.341 (0) Googledrive chunked upload: 22.1 % uploaded (22020096)
+0078.410 (0) Googledrive chunked upload: 23.1 % uploaded (23068672)
+0078.491 (0) Googledrive chunked upload: 24.2 % uploaded (24117248)
+0078.557 (0) Googledrive chunked upload: 25.3 % uploaded (25165824)
+0078.624 (0) Googledrive chunked upload: 26.3 % uploaded (26214400)
+0078.692 (0) Googledrive chunked upload: 27.4 % uploaded (27262976)
+0078.766 (0) Googledrive chunked upload: 28.4 % uploaded (28311552)
+0078.845 (0) Googledrive chunked upload: 29.5 % uploaded (29360128)
+0078.909 (0) Googledrive chunked upload: 30.5 % uploaded (30408704)
+0078.982 (0) Googledrive chunked upload: 31.6 % uploaded (31457280)
+0079.128 (0) Googledrive chunked upload: 32.6 % uploaded (32505856)
+0079.195 (0) Googledrive chunked upload: 33.7 % uploaded (33554432)
+0079.261 (0) Googledrive chunked upload: 34.7 % uploaded (34603008)
+0079.325 (0) Googledrive chunked upload: 35.8 % uploaded (35651584)
+0079.398 (0) Googledrive chunked upload: 36.8 % uploaded (36700160)
+0079.471 (0) Googledrive chunked upload: 37.9 % uploaded (37748736)
+0079.540 (0) Googledrive chunked upload: 38.9 % uploaded (38797312)
+0079.638 (0) Googledrive chunked upload: 40 % uploaded (39845888)
+0079.745 (0) Googledrive chunked upload: 41 % uploaded (40894464)
+0079.814 (0) Googledrive chunked upload: 42.1 % uploaded (41943040)
+0079.982 (0) Googledrive chunked upload: 43.1 % uploaded (42991616)
+0080.084 (0) Googledrive chunked upload: 44.2 % uploaded (44040192)
+0080.152 (0) Googledrive chunked upload: 45.2 % uploaded (45088768)
+0080.233 (0) Googledrive chunked upload: 46.3 % uploaded (46137344)
+0080.304 (0) Googledrive chunked upload: 47.3 % uploaded (47185920)
+0080.383 (0) Googledrive chunked upload: 48.4 % uploaded (48234496)
+0080.458 (0) Googledrive chunked upload: 49.5 % uploaded (49283072)
+0080.525 (0) Googledrive chunked upload: 50.5 % uploaded (50331648)
+0080.595 (0) Googledrive chunked upload: 51.6 % uploaded (51380224)
+0080.662 (0) Googledrive chunked upload: 52.6 % uploaded (52428800)
+0080.834 (0) Googledrive chunked upload: 53.7 % uploaded (53477376)
+0080.899 (0) Googledrive chunked upload: 54.7 % uploaded (54525952)
+0080.964 (0) Googledrive chunked upload: 55.8 % uploaded (55574528)
+0081.034 (0) Googledrive chunked upload: 56.8 % uploaded (56623104)
+0081.143 (0) Googledrive chunked upload: 57.9 % uploaded (57671680)
+0081.210 (0) Googledrive chunked upload: 58.9 % uploaded (58720256)
+0081.272 (0) Googledrive chunked upload: 60 % uploaded (59768832)
+0081.342 (0) Googledrive chunked upload: 61 % uploaded (60817408)
+0081.439 (0) Googledrive chunked upload: 62.1 % uploaded (61865984)
+0081.523 (0) Googledrive chunked upload: 63.1 % uploaded (62914560)
+0081.678 (0) Googledrive chunked upload: 64.2 % uploaded (63963136)
+0081.756 (0) Googledrive chunked upload: 65.2 % uploaded (65011712)
+0081.823 (0) Googledrive chunked upload: 66.3 % uploaded (66060288)
+0081.885 (0) Googledrive chunked upload: 67.3 % uploaded (67108864)
+0081.956 (0) Googledrive chunked upload: 68.4 % uploaded (68157440)
+0082.084 (0) Googledrive chunked upload: 69.4 % uploaded (69206016)
+0082.157 (0) Googledrive chunked upload: 70.5 % uploaded (70254592)
+0082.288 (0) Googledrive chunked upload: 71.5 % uploaded (71303168)
+0082.361 (0) Googledrive chunked upload: 72.6 % uploaded (72351744)
+0082.435 (0) Googledrive chunked upload: 73.7 % uploaded (73400320)
+0082.589 (0) Googledrive chunked upload: 74.7 % uploaded (74448896)
+0082.678 (0) Googledrive chunked upload: 75.8 % uploaded (75497472)
+0082.794 (0) Googledrive chunked upload: 76.8 % uploaded (76546048)
+0082.870 (0) Googledrive chunked upload: 77.9 % uploaded (77594624)
+0082.945 (0) Googledrive chunked upload: 78.9 % uploaded (78643200)
+0083.061 (0) Googledrive chunked upload: 80 % uploaded (79691776)
+0083.148 (0) Googledrive chunked upload: 81 % uploaded (80740352)
+0083.218 (0) Googledrive chunked upload: 82.1 % uploaded (81788928)
+0083.293 (0) Googledrive chunked upload: 83.1 % uploaded (82837504)
+0083.393 (0) Googledrive chunked upload: 84.2 % uploaded (83886080)
+0083.547 (0) Googledrive chunked upload: 85.2 % uploaded (84934656)
+0083.660 (0) Googledrive chunked upload: 86.3 % uploaded (85983232)
+0083.734 (0) Googledrive chunked upload: 87.3 % uploaded (87031808)
+0083.811 (0) Googledrive chunked upload: 88.4 % uploaded (88080384)
+0083.876 (0) Googledrive chunked upload: 89.4 % uploaded (89128960)
+0083.957 (0) Googledrive chunked upload: 90.5 % uploaded (90177536)
+0084.042 (0) Googledrive chunked upload: 91.5 % uploaded (91226112)
+0084.108 (0) Googledrive chunked upload: 92.6 % uploaded (92274688)
+0084.174 (0) Googledrive chunked upload: 93.6 % uploaded (93323264)
+0084.243 (0) Googledrive chunked upload: 94.7 % uploaded (94371840)
+0084.399 (0) Googledrive chunked upload: 95.7 % uploaded (95420416)
+0084.469 (0) Googledrive chunked upload: 96.8 % uploaded (96468992)
+0084.541 (0) Googledrive chunked upload: 97.9 % uploaded (97517568)
+0084.616 (0) Googledrive chunked upload: 98.9 % uploaded (98566144)
+0084.698 (0) Googledrive chunked upload: 100 % uploaded (99614720)
+0085.712 (0) Googledrive chunked upload: 100 % uploaded (99614720)
+0085.714 (0) Google Drive: OK: Archive backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip uploaded in 9.27 seconds
+0085.714 (0) Recording as successfully uploaded: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip
+0085.735 (0) Deleting local file: backup_2020-12-12-1543_SD_Express_19d42699c422-uploads2.zip: OK
+0086.045 (0) Google Drive: quota usage: used=10306.1 MB, total=15360 MB, available=5053.9 MB
+0086.046 (0) Google Drive: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip: Attempting to upload to Google Drive (into folder id: 1VUyzmkAWJLyBcHmKoINiazbXXaGDrUkg)
+0086.362 (0) Googledrive chunked upload: 16.9 % uploaded (1048576)
+0086.449 (0) Googledrive chunked upload: 33.8 % uploaded (2097152)
+0086.542 (0) Googledrive chunked upload: 50.8 % uploaded (3145728)
+0086.614 (0) Googledrive chunked upload: 67.7 % uploaded (4194304)
+0086.701 (0) Googledrive chunked upload: 84.6 % uploaded (5242880)
+0088.072 (0) Googledrive chunked upload: 100 % uploaded (5242880)
+0088.074 (0) Google Drive: OK: Archive backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip uploaded in 2.03 seconds
+0088.075 (0) Recording as successfully uploaded: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip
+0088.077 (0) Deleting local file: backup_2020-12-12-1543_SD_Express_19d42699c422-others.zip: OK
+0088.374 (0) Google Drive: quota usage: used=10312 MB, total=15360 MB, available=5048 MB
+0088.375 (0) Google Drive: backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz: Attempting to upload to Google Drive (into folder id: 1VUyzmkAWJLyBcHmKoINiazbXXaGDrUkg)
+0089.956 (0) Googledrive chunked upload: 100 % uploaded
+0089.957 (0) Google Drive: OK: Archive backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz uploaded in 1.58 seconds
+0089.958 (0) Recording as successfully uploaded: backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz
+0089.959 (0) Deleting local file: backup_2020-12-12-1543_SD_Express_19d42699c422-db.gz: OK
+0089.961 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0089.961 (0) Number of backup sets in history: 3; groups (db): 1
+0089.962 (0) Examining (for databases) backup set with group_id=0, nonce=19d42699c422, datestamp=1607787811 (Dec 12 2020 15:43:31)
+0089.962 (0) This backup set is the backup set just made, so will not be deleted.
+0089.962 (0) Examining (for databases) backup set with group_id=0, nonce=8f9ac11bf034, datestamp=1607784016 (Dec 12 2020 14:40:16)
+0089.962 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0089.962 (0) Examining (for databases) backup set with group_id=0, nonce=af8587474a24, datestamp=1607701493 (Dec 11 2020 15:44:53)
+0089.962 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0089.962 (0) Number of backup sets in history: 3; groups (files): 1
+0089.963 (0) Examining (for files) backup set with nonce=19d42699c422, datestamp=1607787811 (Dec 12 2020 15:43:31)
+0089.963 (0) This backup set is the backup set just made, so will not be deleted.
+0089.963 (0) This backup set is the backup set just made, so will not be deleted.
+0089.963 (0) This backup set is the backup set just made, so will not be deleted.
+0089.963 (0) This backup set is the backup set just made, so will not be deleted.
+0089.963 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0089.964 (0) Examining (for files) backup set with nonce=8f9ac11bf034, datestamp=1607784016 (Dec 12 2020 14:40:16)
+0089.964 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0089.964 (0) Examining (for files) backup set with nonce=af8587474a24, datestamp=1607701493 (Dec 11 2020 15:44:53)
+0089.964 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0089.964 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0089.965 (0) Resume backup (19d42699c422, 0): finish run
+0089.966 (0) Decremented the semaphore (fd) by 1
+0089.966 (0) Semaphore (fd) unlocked
+0089.967 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0089.968 (0) No email will/can be sent - the user has not configured an email address.
+0089.969 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,25 @@
+2020-12-01T18:48:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 284
+2020-12-01T18:48:54+00:00 NOTICE debug :: Order ID 284 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.sdexpress.me/wp-admin/admin-ajax.php
+        )
+
+)
+
+2020-12-01T18:52:46+00:00 NOTICE order.member.updated :: Updated your.email+faker84580@gmail.com subscriber status to transactional and language to bs
+2020-12-01T18:52:46+00:00 NOTICE order_submit.success :: addStoreOrder :: #284 :: email: your.email+faker84580@gmail.com :: landing site https://www.sdexpress.me/wp-admin/admin-ajax.php
+2020-12-01T19:05:22+00:00 NOTICE debug :: Order ID 284 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-12-01T19:05:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 284
+2020-12-01T19:07:44+00:00 NOTICE order.member.updated :: Updated your.email+faker84580@gmail.com subscriber status to transactional and language to 
+2020-12-01T19:07:44+00:00 NOTICE order_submit.success :: updateStoreOrder :: #284 :: email: your.email+faker84580@gmail.com
+2020-12-01T20:41:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 285
+2020-12-01T20:42:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #285

@@ -1,0 +1,771 @@
+# Translation of the WordPress theme Twenty Sixteen to Serbian.
+# Copyright (C) 2015 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+# Milan Dinić <milan@srpski.biz> 2015
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Sixteen 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-02-21 23:52+0100\n"
+"Last-Translator: Milan Dinić <milan@srpski.biz>\n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. Theme Name of the theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. Description of the theme
+msgid ""
+"Twenty Sixteen is a modernized take on an ever-popular WordPress layout — "
+"the horizontal masthead with an optional right sidebar that works perfectly "
+"for blogs and websites. It has custom color options with beautiful default "
+"color schemes, a harmonious fluid grid using a mobile-first approach, and "
+"impeccable polish in every detail. Twenty Sixteen will make your WordPress "
+"look beautiful everywhere."
+msgstr ""
+"Twenty Sixteen је модернизован поглед на популарни Вордпресов распоред — "
+"водоравни јарбол на врху са необавезном десном бочном траком која ради "
+"савршено за блогове и веб места. Има прилагођене могућности боја са прелепим "
+"подразумеваним шемама боја, складну течну решетку користећи приступ прво-"
+"преносиви и беспрекорну угланчаност у сваком детаљу. Twenty Sixteen ће "
+"направити да ваш Вордпрес свуда изгледа прелепо."
+
+#: functions.php:202
+msgid "Bright Red"
+msgstr "Јарко црвена"
+
+#: functions.php:197
+msgid "Dark Red"
+msgstr "Тамно црвена"
+
+#: functions.php:192
+msgid "Medium Brown"
+msgstr "Средње браон"
+
+#: functions.php:187
+msgid "Dark Brown"
+msgstr "Тамно браон"
+
+#: functions.php:182
+msgid "Light Blue"
+msgstr "Светло плава"
+
+#: functions.php:177
+msgid "Bright Blue"
+msgstr "Светло плава"
+
+#: functions.php:172
+msgid "Blue Gray"
+msgstr "Плаво сива"
+
+#: functions.php:167
+msgid "White"
+msgstr "Бела"
+
+#: functions.php:162
+msgid "Light Gray"
+msgstr "Светло сива"
+
+#: functions.php:157
+msgid "Medium Gray"
+msgstr "Средње сива"
+
+#: functions.php:152
+msgid "Dark Gray"
+msgstr "Тамно сива"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:29 inc/template-tags.php:194
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Настави са читањем<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:53 template-parts/content-page.php:39
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 image.php:88
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Уреди<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:345
+msgid "Red"
+msgstr "Црвена"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Једно мишљење на &#0132;%s&#0147;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Претражи"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Претрага &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Претрага за:"
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "Изборник друштвених веза у подножју"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Примарни изборник у подножју"
+
+#: functions.php:246
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Овде додајте виџете како би се појавили у вашој бочној траци."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Издвојено"
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање "
+"помоћи."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Жао нам је, али ништа не одговара вашем упиту. Молимо вас да покушате поново "
+"са другим кључним речима."
+
+#: template-parts/content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</"
+"a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ништа није пронађено"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Види све чланке од %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Аутор:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Претходни чланак:"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Претходно"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Следећи чланак:"
+
+#: single.php:38
+msgid "Next"
+msgstr "Следеће"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#: inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Ознаке"
+
+#: inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Категорије"
+
+#: inc/template-tags.php:99 inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Објављено"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Облик"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставите коментар<span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Аутор"
+
+#: functions.php:207 inc/customizer.php:355
+msgid "Yellow"
+msgstr "Жута"
+
+#: inc/customizer.php:335
+msgid "Gray"
+msgstr "Сива"
+
+#: inc/customizer.php:325
+msgid "Dark"
+msgstr "Тамна"
+
+#: inc/customizer.php:221
+msgid "Main Text Color"
+msgstr "Главна боја текста"
+
+#: inc/customizer.php:315
+msgid "Default"
+msgstr "Подразумевана"
+
+#: inc/customizer.php:242
+msgid "Secondary Text Color"
+msgstr "Секундарна боја текста"
+
+#: inc/customizer.php:200
+msgid "Link Color"
+msgstr "Боја везе"
+
+#: inc/customizer.php:176
+msgid "Page Background Color"
+msgstr "Боја позадине заглавља"
+
+#: single.php:31 image.php:107
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Објављено под</span><span class=\"post-title\">"
+"%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:54 inc/back-compat.php:72
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Twenty Sixteen захтева издање Вордпреса најмање 4.4. Користите издање %s. "
+"Молимо вас да ажурирате и покушате поново."
+
+#: inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr "Основна шема боја"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Пуна величина"
+
+#: template-parts/content.php:36 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 image.php:58
+msgid "Pages:"
+msgstr "Стране:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Следећа слика"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Претходна слика"
+
+#: header.php:49
+msgid "Menu"
+msgstr "Изборник"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#: functions.php:386
+msgid "expand child menu"
+msgstr "прошири изборник дете"
+
+#: functions.php:387
+msgid "collapse child menu"
+msgstr "скупи изборник дете"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:306
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:256
+msgid "Content Bottom 1"
+msgstr "Дно садржаја 1"
+
+#: functions.php:258 functions.php:270
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Појављује се на дну садржаја на чланцима и странама."
+
+#: functions.php:268
+msgid "Content Bottom 2"
+msgstr "Дно садржаја 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:301
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:244
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: functions.php:93 header.php:66
+msgid "Social Links Menu"
+msgstr "Изборник друштвених веза"
+
+#: functions.php:92 header.php:53
+msgid "Primary Menu"
+msgstr "Примарни изборник"
+
+#: footer.php:61
+msgid "Proudly powered by %s"
+msgstr "Са поносом покреће %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s мишљењa на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#: archive.php:53 template-parts/content.php:40
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: search.php:41 index.php:50 image.php:62
+msgid "Page"
+msgstr "Страна"
+
+#: archive.php:52 search.php:40 index.php:49
+msgid "Next page"
+msgstr "Следећа страна"
+
+#: archive.php:51 search.php:39 index.php:48
+msgid "Previous page"
+msgstr "Претходна страна"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Изгледа да ништа није пронађено на овом месту. Можда да покушате "
+"претраживање?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Та страница не може бити пронађена."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://sr.wordpress.org/themes/twentysixteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Вордпресова екипа"
+
+#. Author URI of the theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://sr.wordpress.org/"
+
+#~ msgid "Published by"
+#~ msgstr "Објављено од стране"
+
+#~ msgid "Continue reading %s"
+#~ msgstr "Настави са читањем %s"
+
+#~ msgid "Edit"
+#~ msgstr "Уреди"
+
+#~ msgid "Widget Area"
+#~ msgstr "Простор за виџете"
+
+#~ msgctxt "Noto Serif font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+#~ msgid "no-subset"
+#~ msgstr "cyrillic"
+
+#~ msgid "Menu and widgets"
+#~ msgstr "Изборник и виџети"
+
+#~ msgid ""
+#~ "Applied to the header on small screens and the sidebar on wide screens."
+#~ msgstr ""
+#~ "Примењује се на загллавље на малим екранима и на бочну траку на ширим "
+#~ "екранима."
+
+#~ msgid "Pink"
+#~ msgstr "Роза"
+
+#~ msgid "Purple"
+#~ msgstr "Љубичаста"
+
+#~ msgid "Blue"
+#~ msgstr "Плава"
+
+#~ msgid "Comment navigation"
+#~ msgstr "Кретање коментара"
+
+#~ msgid "Older Comments"
+#~ msgstr "Старији коментари"
+
+#~ msgid "Newer Comments"
+#~ msgstr "Новији коментари"
+
+#~ msgid ""
+#~ "Our 2015 default theme is clean, blog-focused, and designed for clarity. "
+#~ "Twenty Fifteen's simple, straightforward typography is readable on a wide "
+#~ "variety of screen sizes, and suitable for multiple languages. We designed "
+#~ "it using a mobile-first approach, meaning your content takes center-"
+#~ "stage, regardless of whether your visitors arrive by smartphone, tablet, "
+#~ "laptop, or desktop computer."
+#~ msgstr ""
+#~ "Наша подразумевана тема 2015 је чиста, усредрсређена на блогове и "
+#~ "направљена за јасноћу. Једноставна типографија Twenty Fifteen је читљива "
+#~ "на великом брооју величина екрана и одговарајућа је за више језика. "
+#~ "Направили смо је уз приступ преносивим уређајима, што значи да ваш "
+#~ "садржај заузима средишње место, без обзира да ли ваши посетиоци долазе "
+#~ "користећи паметан телефон, таблет, лаптоп или стони рачунар."
+
+#~ msgid "% Comments"
+#~ msgstr "% коментара"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 коментар"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Оставите коментар"
+
+#~ msgid ""
+#~ "Only applied to the sidebar on wide screens. On small screens it will be "
+#~ "applied to the header."
+#~ msgstr ""
+#~ "Примењује се само на бочну траку на ширим екранима, На малим екранима "
+#~ "биће примењено на загллавље."
+
+#~ msgctxt "Next post link"
+#~ msgid ""
+#~ "<span class=\"meta-nav\">Next <span class=\"screen-reader-text\">post:</"
+#~ "span></span><span class=\"post-title\">%title</span>"
+#~ msgstr ""
+#~ "<span class=\"meta-nav\">Следећи <span class=\"screen-reader-text"
+#~ "\">чланак:</span></span><span class=\"post-title\">%title</span>"
+
+#~ msgctxt "Previous post link"
+#~ msgid ""
+#~ "<span class=\"meta-nav\">Previous <span class=\"screen-reader-text\">post:"
+#~ "</span></span><span class=\"post-title\">%title</span>"
+#~ msgstr ""
+#~ "<span class=\"meta-nav\">Претходни <span class=\"screen-reader-text"
+#~ "\">чланак:</span></span><span class=\"post-title\">%title</span>"
+
+#~ msgid "Day: %s"
+#~ msgstr "Дан: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Месец: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y."
+
+#~ msgid "Year: %s"
+#~ msgstr "Year: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y."
+
+#~ msgid "Asides"
+#~ msgstr "Са стране"
+
+#~ msgid "Galleries"
+#~ msgstr "Галерије"
+
+#~ msgid "Images"
+#~ msgstr "Слике"
+
+#~ msgid "Videos"
+#~ msgstr "Видео записи"
+
+#~ msgid "Quotes"
+#~ msgstr "Цитати"
+
+#~ msgid "Links"
+#~ msgstr "Везе"
+
+#, fuzzy
+#~ msgid "Audios"
+#~ msgstr "Звучни записи"
+
+#~ msgid "Archives"
+#~ msgstr "Архиве"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Наставите са читањем <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Page %s"
+#~ msgstr "Страна %s"
+
+#~ msgid "Posts navigation"
+#~ msgstr "Кретање чланака"
+
+#~ msgid "Post navigation"
+#~ msgstr "Кретање чланака"
+
+#~ msgctxt "Used before post author name."
+#~ msgid "<span class=\"screen-reader-text\">Author</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Аутор</span>"
+
+#~ msgctxt "Used before category names."
+#~ msgid "<span class=\"screen-reader-text\">Categories</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Категорије</span>"
+
+#~ msgctxt "Used before full size attachment link."
+#~ msgid "<span class=\"screen-reader-text\">Full size</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Пуна величина</span>"
+
+#~ msgid "Not Found"
+#~ msgstr "Није пронађено"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Дневне архиве: %s"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Годишње архиве: %s"
+
+#~ msgid "Top primary menu"
+#~ msgstr "Примарни изборник на врху"
+
+#~ msgid "Secondary menu in left sidebar"
+#~ msgstr "Секундарни изборник у левој бочној траци"
+
+#~ msgid "Main sidebar that appears on the left."
+#~ msgstr "Примарна бочна трака која се појављује са леве стране."
+
+#~ msgid "Content Sidebar"
+#~ msgstr "Садржај-бочна трака"
+
+#~ msgid "Additional sidebar that appears on the right."
+#~ msgstr "Додатна бочна трака која се појављује са десне стране."
+
+#~ msgid "Appears in the footer section of the site."
+#~ msgstr "Појављује се у одељку подножја вашег веб места."
+
+#~ msgid "%d Article"
+#~ msgid_plural "%d Articles"
+#~ msgstr[0] "%d чланак"
+#~ msgstr[1] "%d чланка"
+#~ msgstr[2] "%d чланака"
+
+#~ msgid "Background may only be visible on wide screens."
+#~ msgstr "Позадина може бити видљива само на широком екранима."
+
+#~ msgid "Display Site Title &amp; Tagline"
+#~ msgstr "Прикажи наслов и поднаслов веб места"
+
+#~ msgid "Featured Content"
+#~ msgstr "Издвојени садржај"
+
+#~ msgid ""
+#~ "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match "
+#~ "the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+#~ msgstr ""
+#~ "Користите <a href=\"%1$s\">ознаку</a> да бисте издвојили своје чланке. "
+#~ "Уколико нема чланака са ознаком, уместо тога ће се приказивати <a href="
+#~ "\"%2$s\">лепљиви чланци</a>."
+
+#~ msgid "Layout"
+#~ msgstr "Распоред"
+
+#~ msgid "Grid"
+#~ msgstr "Мрежа"
+
+#~ msgid "Slider"
+#~ msgstr "Приказ слајдова"
+
+#~ msgid ""
+#~ "The home page features your choice of up to 6 posts prominently displayed "
+#~ "in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can "
+#~ "change the tag and layout in <a href=\"%2$s\">Appearance &rarr; "
+#~ "Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</"
+#~ "a> will be displayed instead."
+#~ msgstr ""
+#~ "Почетна страница показује ваш избор од највише 6 чланака који су видно "
+#~ "приказани у мрежи или приказу слајдова а који су контролисани <a href="
+#~ "\"%1$s\">ознаком</a>; можете променити ознаку и распоред под <a href="
+#~ "\"%2$s\">Изглед &rarr; Прилагоди</a>. Уколико ознака нема чланака, уместо "
+#~ "тога ће се приказати <a href=\"%3$s\">лепљиви чланци</a>."
+
+#~ msgid ""
+#~ "Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+#~ "posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+#~ "allows you to associate an image with your post without inserting it. "
+#~ "Twenty Fourteen uses featured images for posts and pages&mdash;above the "
+#~ "title&mdash;and in the Featured Content area on the home page."
+#~ msgstr ""
+#~ "Побољшајте изгле свог веб места користећи <a href=\"%s\">Издвојене слике</"
+#~ "a> за чланке за које желите да се истичу (такође познато и као умањене "
+#~ "слике чланака). Ово вам омогућава да повежете слике са својим чланком без "
+#~ "уметања. Twenty Fourteen користи издвојене слике за чланке и стране&mdash;"
+#~ "изнад наслова&mdash;и у одељку Издвојени садржај на почетној страници."
+
+#~ msgid ""
+#~ "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+#~ "\">Twenty Fourteen documentation</a>."
+#~ msgstr ""
+#~ "За детаљно упутство и још савета и трикова, посетите <a href=\"%s"
+#~ "\">документацију теме Twenty Fourteen</a>."
+
+#~ msgid "Tag Name"
+#~ msgstr "Име ознаке"
+
+#~ msgid "Don&rsquo;t display tag on front end."
+#~ msgstr "Не приказуј ознаку на предњем делу."
+
+#~ msgid "&larr; Previous"
+#~ msgstr "&larr; Претходно"
+
+#~ msgid "Next &rarr;"
+#~ msgstr "Следеће &rarr;"
+
+#~ msgid "Sticky"
+#~ msgstr "Лепљиво"
+
+#~ msgid "Twenty Fourteen Ephemera"
+#~ msgstr "Twenty Fourteen пролазни виџет"
+
+#~ msgid ""
+#~ "Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+#~ "Gallery, and Link posts."
+#~ msgstr ""
+#~ "Користите овај виџет да наведете своје скорашње чланке облика Са стране, "
+#~ "Цитат, Видео запис, Звучни запис, Слика, Галерија и Веза."
+
+#~ msgid "More images"
+#~ msgstr "Још слика"
+
+#~ msgid "More videos"
+#~ msgstr "Још видео записа"
+
+#~ msgid "More audio"
+#~ msgstr "Још звучних записа"
+
+#~ msgid "More quotes"
+#~ msgstr "Још цитата"
+
+#~ msgid "More links"
+#~ msgstr "Још веза"
+
+#~ msgid "More galleries"
+#~ msgstr "Још галерија"
+
+#~ msgid "More asides"
+#~ msgstr "Још са стране"
+
+#~ msgid ""
+#~ "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+#~ msgid_plural ""
+#~ "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+#~ msgstr[0] ""
+#~ "Ова галерија садржи <a href=\"%1$s\" rel=\"bookmark\">%2$s фотографију</"
+#~ "a>."
+#~ msgstr[1] ""
+#~ "Ова галерија садржи <a href=\"%1$s\" rel=\"bookmark\">%2$s фотографије</"
+#~ "a>."
+#~ msgstr[2] ""
+#~ "Ова галерија садржи <a href=\"%1$s\" rel=\"bookmark\">%2$s фотографија</"
+#~ "a>."
+
+#~ msgid "Title:"
+#~ msgstr "Наслов:"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Број чланака за приказивање:"
+
+#~ msgid "Post format to show:"
+#~ msgstr "Облик чланка за приказивање:"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Архиве ознака: %s"
+
+#~ msgid ""
+#~ "In 2014, our default theme lets you create a responsive magazine website "
+#~ "with a sleek, modern design. Feature your favorite homepage content in "
+#~ "either a grid or a slider. Use the three widget areas to customize your "
+#~ "website, and change your content's layout with a full-width page template "
+#~ "and a contributor page to show off your authors. Creating a magazine "
+#~ "website with WordPress has never been easier."
+#~ msgstr ""
+#~ "У 2014, наша подразумевана тема вам дозвољава да правите одговарајућа "
+#~ "магазинска веб места са слатким, модерним изгледом. Издвојите своји "
+#~ "омиљени садржај почетне странице у мрежу или приказ слајдова. Користите "
+#~ "три простора за виџете да бисте прилагодили своје веб место и промените "
+#~ "распоред свог веб места са шаблоном за страну пуне ширине и страном "
+#~ "сарадника да бисте приказали ваше ауторе. Прављење магазинског веб места "
+#~ "са Вордпресом никада није било једноставније."
+
+#~ msgid "Contributor Page"
+#~ msgstr "Страна сарадника"
+
+#~ msgid "Full Width Page"
+#~ msgstr "Страна пуне ширине"
+
+#~ msgid ""
+#~ "Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You "
+#~ "can change this to a tag of your choice; if no posts match the tag, <a "
+#~ "href=\"%2$s\">sticky posts</a> will be displayed instead."
+#~ msgstr ""
+#~ "Користите <a href=\"%1$s\">ознаку \"featured\"</a> да бисте издвојили "
+#~ "своје чланке. Ово можете променити у ознаку вашег избора. Уколико нема "
+#~ "чланака са ознаком, уместо тога ће се приказивати <a href=\"%2$s"
+#~ "\">лепљиви чланци</a>."

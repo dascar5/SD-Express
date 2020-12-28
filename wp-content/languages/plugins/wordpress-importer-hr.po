@@ -1,0 +1,204 @@
+# Translation of Plugins - WordPress Importer - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - WordPress Importer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-28 09:23:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - WordPress Importer - Stable (latest release)\n"
+
+#: class-wp-import.php:239
+msgid "To make it simpler for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site, such as your primary administrator account."
+msgstr "Kako bi si olakšali uređivanje i spremanje uvezenog sadržaja, promijenite autora uvezene stavke u postojećeg korisnika ove web-stranice, kao npr. vaš primarni administratorski račun."
+
+#: parsers/class-wxr-parser.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Detalji su prikazani iznad. Uvoznik će sada pokušati ponovno sa drugačijim pristupom..."
+
+#: parsers/class-wxr-parser-simplexml.php:29
+#: parsers/class-wxr-parser-simplexml.php:37 parsers/class-wxr-parser.php:42
+msgid "There was an error when reading this WXR file"
+msgstr "Dogodila se greška prilikom čitanja ove WXR datoteke"
+
+#: parsers/class-wxr-parser-regex.php:96 parsers/class-wxr-parser-xml.php:48
+#: parsers/class-wxr-parser-simplexml.php:41
+#: parsers/class-wxr-parser-simplexml.php:46
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Izgleda da ovo nije WXR datoteka, nedostaje/neispravan je WXR broj inačice."
+
+#: class-wp-import.php:106 class-wp-import.php:115 class-wp-import.php:166
+#: class-wp-import.php:170 class-wp-import.php:179
+msgid "Sorry, there has been an error."
+msgstr "Žalim, došlo je do greške."
+
+#: class-wp-import.php:107
+msgid "The file does not exist, please try again."
+msgstr "Datoteka ne postoji, molimo pokušajte ponovno."
+
+#: class-wp-import.php:150
+msgid "All done."
+msgstr "Gotovo."
+
+#: class-wp-import.php:151
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Ne zaboravite promijeniti lozinke i uloge uveženih korisnika."
+
+#: class-wp-import.php:150
+msgid "Have fun!"
+msgstr "Dobru zabavu želim!"
+
+#: class-wp-import.php:171
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Izvozna datoteka nije pronađena na <code>%s</code>. Vjerojatno je problem uzrokovan dozvolama za zapisivanje (permissions)."
+
+#: class-wp-import.php:187
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Ova WXR datoteka (inačica %s) možda nije podržana od ove inačice uvoznika. Molimo razmislite o ažuriranju."
+
+#: class-wp-import.php:212
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Uvoz autora %s nije uspio. Njegove objave biti će dodijeljene trenutnom korisniku."
+
+#: class-wp-import.php:238
+msgid "Assign Authors"
+msgstr "Dodijeli autore"
+
+#: class-wp-import.php:241
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Ako je WordPress kreirao novog korisnika, biti će kreirana nasumično nova lozinka i uloga novog korisnika biti će postavljena na %s. Biti će potrebno ručno mijenjanje detalja novog korisnika."
+
+#: class-wp-import.php:251
+msgid "Import Attachments"
+msgstr "Uvezi privitke"
+
+#: class-wp-import.php:254
+msgid "Download and import file attachments"
+msgstr "Preuzmi i uvezi datoteke privitke"
+
+#: class-wp-import.php:258
+msgid "Submit"
+msgstr "Pošalji"
+
+#: class-wp-import.php:271
+msgid "Import author:"
+msgstr "Uvezi autora:"
+
+#: class-wp-import.php:286
+msgid "as a new user:"
+msgstr "kao novi korisnik:"
+
+#: class-wp-import.php:283
+msgid "or create new user with login name:"
+msgstr "ili kreiraj novog korisnika sa imenom:"
+
+#: class-wp-import.php:296
+msgid "assign posts to an existing user:"
+msgstr "dodijeli objavu postojećem korisniku:"
+
+#: class-wp-import.php:306
+msgid "- Select -"
+msgstr "- Odaberi -"
+
+#: class-wp-import.php:298
+msgid "or assign posts to an existing user:"
+msgstr "ili dodijeli objavu postojećem korisniku:"
+
+#: class-wp-import.php:360
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Nije uspjelo kreiranje novog korisnika za %s. Njegove objave će biti dodane trenutnom korisniku."
+
+#: class-wp-import.php:457
+msgid "Failed to import post tag %s"
+msgstr "Nije uspio uvoz oznake objave %s"
+
+#: class-wp-import.php:412
+msgid "Failed to import category %s"
+msgstr "Nije uspio uvoz kategorije %s"
+
+#: class-wp-import.php:512 class-wp-import.php:738
+msgid "Failed to import %s %s"
+msgstr "Nije uspio uvoz %s %s"
+
+#: class-wp-import.php:605
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Nije uspio uvoz &#8220;%s&#8221;: Neispravna vrsta objave %s"
+
+#: class-wp-import.php:878
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Stavka izbornika je preskočena zbog nedostatka slug izbornika"
+
+#: class-wp-import.php:704
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Nije uspio uvoz %s &#8220;%s&#8221;"
+
+#: class-wp-import.php:642
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; već postoji."
+
+#: class-wp-import.php:885
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Stavka izbornika je preskočena zbog neispravnoga sluga izbornika: %s"
+
+#: class-wp-import.php:948
+msgid "Fetching attachments is not enabled"
+msgstr "Dobavljanje privitaka nije omogućeno."
+
+#: class-wp-import.php:961
+msgid "Invalid file type"
+msgstr "Neispravan tip datoteke"
+
+#: class-wp-import.php:1047
+msgid "Remote server did not respond"
+msgstr "Nema odgovora s udaljenog servera"
+
+#: class-wp-import.php:1065
+msgid "Remote file is too large, limit is %s"
+msgstr "Udaljena datoteka je prevelika, gornja granica je %s"
+
+#: class-wp-import.php:1054
+msgid "Zero size file downloaded"
+msgstr "Datoteka veličine 0 preuzeta"
+
+#: class-wp-import.php:1231
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Nova inačica ovog uvoznika je dostupna. Molimo nadogradite na inačicu %s kako bi osigurali kompatibilnost sa novijim izvoznim datotekama."
+
+#: class-wp-import.php:1224
+msgid "Import WordPress"
+msgstr "Uvezi WordPress"
+
+#: class-wp-import.php:1246
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Pozdrav! Prenesite vašu WordPress eXtended RSS (WXR) datoteku i mi ćemo uvesti objave, stranice, komentare, dodatna polja, kategorije i oznake u ovu web-stranicu."
+
+#: class-wp-import.php:1247
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Odaberite WXR (.xml) datoteku za prijenos, zatim kliknite Prenesi datoteku i uvezi."
+
+#: wordpress-importer.php:58
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Uvezi <strong>objave, stranice, komentare, dodatna polja, kategorije i oznake</strong> iz izvozne datoteke WordPressa."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wordpress-importer/"
+msgstr "https://wordpress.org/plugins/wordpress-importer/"
+
+#. Plugin Name of the plugin
+msgid "WordPress Importer"
+msgstr "WordPress uvoznik"
+
+#. Description of the plugin
+msgid "Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file."
+msgstr "Uvezi objave, stranice, komentare, dodatna polja, kategorije, oznake i sve ostalo iz WordPress izvozne datoteke."
+
+#. Author of the plugin
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Author URI of the plugin
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

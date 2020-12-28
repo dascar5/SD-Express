@@ -1,0 +1,64 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://sdexpress.me
+Data file = /home/customer/www/sdexpress.me/public_html/wp-content/uploads/2020/11/content.xml
+Widget file = /home/customer/www/sdexpress.me/public_html/wp-content/uploads/2020/11/widget.wie
+Customizer file = /home/customer/www/sdexpress.me/public_html/wp-content/uploads/2020/11/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Gallery - Product Gallery - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+
+Advertisements Below Slider : 
+
+eC-Gem: Advertisement - LADIES - Imported
+eC-Gem: Advertisement - FOOTWARE - Imported
+eC-Gem: Advertisement - SMART - Imported
+
+Home Page Widget Area : 
+
+eC-Gem: Featured Categories - Featured Categories - Imported
+eC-Gem: CTA - Trending Season - Imported
+eC-Gem: Products Carousel - Featured Products - Imported
+eC-Gem: Latest News - Latest News - Imported
+eC-Gem: Newsletter - Subscribe Newsletter - Imported
+
+Footer 1 : 
+
+Text - About eCommerce Gem - Imported
+eC-Gem: Social - No Title - Imported
+
+Footer 2 : 
+
+eC-Gem: Contact - Contact Us - Imported
+
+Footer 3 : 
+
+eC-Gem: Features - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tawk.to Live Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-07 15:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: templates/settings.php:203 templates/settings.php:218
+msgid "Add (*) at the end of the entry to match wildcard url."
+msgstr ""
+
+#: templates/settings.php:148
+msgid "Always show Tawk.To widget on every page"
+msgstr ""
+
+#: templates/settings.php:252
+msgid "Display on product category pages"
+msgstr ""
+
+#: templates/settings.php:271
+msgid "Display on product tag pages"
+msgstr ""
+
+#: templates/settings.php:243
+msgid "Display on Shop main page"
+msgstr ""
+
+#: templates/settings.php:262
+msgid "Display on single product page"
+msgstr ""
+
+#. Description of the plugin
+msgid "Embeds Tawk.to live chat widget to your site"
+msgstr ""
+
+#: templates/settings.php:201
+msgid "Enter the url where you <b>DO NOT</b> want the widget to display."
+msgstr ""
+
+#: templates/settings.php:216
+msgid "Enter the url where you <b>WANT</b> the widget to display."
+msgstr ""
+
+#: templates/settings.php:193
+msgid "Exclude on specific url"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.tawk.to"
+msgstr ""
+
+#: templates/settings.php:208
+msgid "Include on specific url"
+msgstr ""
+
+#: templates/settings.php:142
+msgid ""
+"on any page independent of these visibility options by simply using the <b>"
+"[tawkto]</b> shortcode in"
+msgstr ""
+
+#: templates/settings.php:140
+msgid ""
+"Please Note: that you can use the visibility options below, or you can show "
+"the tawk.to widget"
+msgstr ""
+
+#: templates/settings.php:202
+msgid "Separate entries with comma"
+msgstr ""
+
+#: templates/settings.php:217
+msgid "Separate entries with comma "
+msgstr ""
+
+#: templates/settings.php:166
+msgid "Show on Category pages"
+msgstr ""
+
+#: templates/settings.php:157
+msgid "Show on front page"
+msgstr ""
+
+#: templates/settings.php:184
+msgid "Show on Single Post Pages"
+msgstr ""
+
+#: templates/settings.php:175
+msgid "Show on Tag pages"
+msgstr ""
+
+#: tawkto.php:130
+msgid "Tawk.to"
+msgstr ""
+
+#. Name of the plugin
+msgid "Tawk.to Live Chat"
+msgstr ""
+
+#: templates/settings.php:19
+msgid "tawk.to Plugin Settings"
+msgstr ""
+
+#: tawkto.php:129
+msgid "Tawk.to Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tawkto"
+msgstr ""
+
+#: templates/settings.php:144
+msgid "the post or page."
+msgstr ""
+
+#: templates/settings.php:138
+msgid "Visibility Options"
+msgstr ""
+
+#: templates/settings.php:240
+msgid "Woocommerce visibility Options"
+msgstr ""
+
+#: tawkto.php:92
+msgid ""
+"You might need to clear cache if your using a cache plugin to see your "
+"updates"
+msgstr ""

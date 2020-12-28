@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Electro - Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://sdexpress.me
+Data file = /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/assets/dummy-data/elementor/dummy-data.xml
+Widget file = /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/assets/dummy-data/elementor/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/assets/dummy-data/elementor/redux-options.json 
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Image - No Title - Imported
+Products - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Image - No Title - Imported
+Products - Latest Products - Imported
+
+Product Filters : 
+
+Active Product Filters - Active Filters - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Price - Price - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+Text - About Blog - Imported
+Categories - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Products - Featured Products - Imported
+Products - Top Selling Products - Imported
+Products - On-sale Products - Imported
+
+Footer Bottom Widgets : 
+
+Wpbingo Custom Menu - Find It Fast - Imported
+Wpbingo Custom Menu -   - Imported
+Wpbingo Custom Menu - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Wpbingo Custom Menu - We Recommend - Imported
+Wpbingo Custom Menu - My Account - Imported
+Wpbingo Custom Menu - Customer Care - Imported
+Wpbingo Custom Menu - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---pt-ocdi/after_import---
+

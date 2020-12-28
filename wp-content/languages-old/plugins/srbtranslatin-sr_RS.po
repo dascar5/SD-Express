@@ -1,0 +1,344 @@
+# Translation of Plugins - SrbTransLatin &#8211; SrbTransLatin - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - SrbTransLatin &#8211; SrbTransLatin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-13 21:52:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - SrbTransLatin &#8211; SrbTransLatin - Stable (latest release)\n"
+
+#: lib/Admin/Settings/Fixes.php:113
+msgid "If you have problems, open a support ticket"
+msgstr "Уколико имате проблема, отворите тикет"
+
+#: lib/Admin/Settings/Fixes.php:112
+msgid "This functionality is in BETA. Test your website thoroughly when enabling."
+msgstr "Ова функционалност је у БЕТА верзији. Истестирајте функционалности Вашег веб-места када омогућите ову опцију"
+
+#: lib/Admin/Settings/Fixes.php:107
+msgid "Enable if you want to transliterate ajax calls on your website"
+msgstr "Омогућите уколико желите да пресловите Ajax позиве на Вашем веб-месту"
+
+#: lib/Admin/Settings/Fixes.php:106
+msgid "Transliterate ajax calls"
+msgstr "Преслови ajax позиве"
+
+#: lib/Admin/Settings/Fixes.php:48
+msgid "Fix Ajax"
+msgstr "Поправи Ajax"
+
+#: lib/Admin/TinyMCE.php:56
+msgid "Special transliteration"
+msgstr "Посебно пресловљавање"
+
+#: lib/Admin/TinyMCE.php:55
+msgid "Selective output"
+msgstr "Селективни приказ"
+
+#: lib/Admin/TinyMCE.php:54
+msgid "Forced Cyrillic"
+msgstr "Форсирана ћирилица"
+
+#: lib/Admin/TinyMCE.php:53
+msgid "Select a shortcode"
+msgstr "Одаберите шорткод"
+
+#: lib/Admin/TinyMCE.php:52
+msgid "SrbTransLatin - shortcodes"
+msgstr "СрбТрансЛатин - Шорткодови"
+
+#: srbtranslatin.php:39
+msgid "STL - Serbian Latinisation plugin requires WordPress 4.8.0."
+msgstr "СрбТрансЛатин - Српска Латинизација захтева минималну верзију ВордПреса 4.8"
+
+#: srbtranslatin.php:36
+msgid "STL - Serbian Latinisation plugin requires PHP 7.0 or greater."
+msgstr "рбТрансЛатин - Српска Латинизација захтева минималну PHP верзију 7.0"
+
+#: lib/Widget/Selector.php:122
+msgid "List"
+msgstr "Листа"
+
+#: lib/Widget/Selector.php:120
+msgid "One Line"
+msgstr "Једнолинијски"
+
+#: lib/Widget/Selector.php:108
+msgid "Separator (oneline)"
+msgstr "Сепаратор"
+
+#: lib/Widget/Selector.php:96
+msgid "Selector style"
+msgstr "Стил селектора"
+
+#: lib/Widget/Selector.php:85
+msgid "Display Options"
+msgstr "Опције приказа"
+
+#: lib/Widget/Selector.php:77
+msgid "Link text - Latin"
+msgstr "Текст линка - Латиница"
+
+#: lib/Widget/Selector.php:65
+msgid "Link text - Cyrillic"
+msgstr "Текст линка - Ћирилица"
+
+#: lib/Widget/Selector.php:56
+msgid "Link Options"
+msgstr "Опције линкова"
+
+#: lib/Widget/Selector.php:48
+msgid "Title"
+msgstr "Наслов"
+
+#: lib/Widget/Selector.php:31
+msgid "Serbian Script selector"
+msgstr "Селектор српског писма"
+
+#: lib/Widget/Selector.php:25
+msgid "Latinica"
+msgstr "Latinica"
+
+#: lib/Widget/Selector.php:24
+msgid "Ћирилица"
+msgstr "Ћирилица"
+
+#: lib/Widget/Selector.php:21
+msgid "Script Selection"
+msgstr "Одабир писма"
+
+#: lib/Widget/Selector.php:17
+msgid "Serbian Script selection widget"
+msgstr "Одабир писма (Српска Латинизација)"
+
+#: lib/Admin/Core.php:93
+msgid "Settings - SrbTransLatin"
+msgstr "Подешавања - Српска Латинизација"
+
+#: lib/Admin/Core.php:82 lib/Admin/Core.php:83
+msgid "Latinisation"
+msgstr "Латинизација"
+
+#: lib/Admin/Settings/Menu.php:126
+msgid "Label used for the menu dropdown"
+msgstr "Текст који се користи за падајући мени"
+
+#: lib/Admin/Settings/Menu.php:103
+msgid "Inline"
+msgstr "У равни"
+
+#: lib/Admin/Settings/Menu.php:102 lib/Widget/Selector.php:121
+msgid "Dropdown"
+msgstr "Падајући мени"
+
+#: lib/Admin/Settings/Menu.php:92 lib/Admin/Settings/Menu.php:112
+msgid "Menu to extend with script selector"
+msgstr "Изборник који ће бити проширен селектором писма"
+
+#: lib/Admin/Settings/Menu.php:76
+msgid "Enables adding script selector to nav menus"
+msgstr "Омогоућава додавање селектора писма у изборнике"
+
+#: lib/Admin/Settings/Menu.php:75
+msgid "Extend menu with script selector"
+msgstr "Прошири изборник селектором писма"
+
+#: lib/Admin/Settings/Menu.php:57
+msgid "Menu Label"
+msgstr "Текст у изборнику"
+
+#: lib/Admin/Settings/Menu.php:48
+msgid "Selector type"
+msgstr "Тип селектора"
+
+#: lib/Admin/Settings/Menu.php:39
+msgid "Nav Menu to extend"
+msgstr "Изборник који желите да проширите"
+
+#: lib/Admin/Settings/Menu.php:30
+msgid "Extend Nav Menu"
+msgstr "Прошири изборник"
+
+#: lib/Admin/Settings/Menu.php:25
+msgid "Menu settings control extending and tweaking the script selector in theme menus"
+msgstr "Подешавања за изборнике контролишу проширивање и сређивање селектора писма у изборницима теме"
+
+#: lib/Admin/Settings/Menu.php:14
+msgid "Menu Settings"
+msgstr "Подешавања изборника"
+
+#: lib/Admin/Settings/Multilanguage.php:47
+msgid "Enable if you want to enable script selector in WPML Language Switcher"
+msgstr "Штиклирајте уколико желите да омогућите одабир писма у WPML изборнику језика"
+
+#: lib/Admin/Settings/Multilanguage.php:46
+msgid "Extend WPML Language Switcher"
+msgstr "Прошири WPML изборник језика"
+
+#: lib/Admin/Settings/Multilanguage.php:30
+msgid "WPML Settings"
+msgstr "WPML подешавања"
+
+#: lib/Admin/Settings/Multilanguage.php:25
+msgid "Multilanguage settings control settings for language switchers"
+msgstr "Подешавања вишејезичности контролишу опције за селекторе језика"
+
+#: lib/Admin/Settings/Multilanguage.php:13
+msgid "Multilanguage Settings"
+msgstr "Подешавања вишејезичности"
+
+#: lib/Admin/Settings/General.php:91
+msgid "URL parameter used for script selector"
+msgstr "URL Параметар који користи селектор писма"
+
+#: lib/Admin/Settings/General.php:78
+msgid "Enable if you want to keep script preference setting in a user cookie"
+msgstr "Штиклирајте уколико желите да чувате одабир писма у колачићу"
+
+#: lib/Admin/Settings/General.php:77
+msgid "Use Cookie"
+msgstr "Користи колачић"
+
+#: lib/Admin/Settings/General.php:64
+msgid "Default script used for the website if user did not select a script"
+msgstr "Подразумевано писмо за веб сајт уколико корисник није одабрао писмо"
+
+#: lib/Admin/Settings/General.php:55
+msgid "Latin"
+msgstr "Латиница"
+
+#: lib/Admin/Settings/General.php:54
+msgid "Cyrillic"
+msgstr "Ћирилица"
+
+#: lib/Admin/Settings/General.php:45
+msgid "General settings control main functionality of the plugin"
+msgstr "Општа подешавања контролишу главне функционалности додатка"
+
+#: lib/Admin/Settings/General.php:31
+msgid "URL Parameter"
+msgstr "URL Параметар"
+
+#: lib/Admin/Settings/General.php:22
+msgid "Default script"
+msgstr "Подразумевано писмо"
+
+#: lib/Admin/Settings/General.php:15
+msgid "General Settings"
+msgstr "Општа подешавања"
+
+#: lib/Admin/Settings/Fixes.php:94
+msgid "Enables searching for posts using both cyrillic and latin script"
+msgstr "Омогућава претраживање чланака коришћењем ћирилице и латинице"
+
+#: lib/Admin/Settings/Fixes.php:93
+msgid "Enable search using latin script"
+msgstr "Омогући претрагу користећи латиницу"
+
+#: lib/Admin/Settings/Fixes.php:69
+msgid "Enable if you want to change cyrillic permalinks to latin"
+msgstr "Омогућите уколико желите да пресловите ћириличне сталне везе у латиничне"
+
+#: lib/Admin/Settings/Fixes.php:68
+msgid "Transliterate permalinks to latin script"
+msgstr "Преслови сталне везе у латиницу"
+
+#: lib/Admin/Settings/Fixes.php:39
+msgid "Fix Search"
+msgstr "Поправи претрагу"
+
+#: lib/Admin/Settings/Fixes.php:30
+msgid "Fix Permalinks"
+msgstr "Поправи сталне везе"
+
+#: lib/Admin/Settings/Fixes.php:25
+msgid "Advanced settings control permalink and search settings"
+msgstr "Напредна подешавања контролишу опције сталних веза и претраге"
+
+#: lib/Admin/Settings/Fixes.php:13
+msgid "Advanced Settings"
+msgstr "Напредна подешавања"
+
+#: lib/Admin/Settings/Files.php:117
+msgid "Filename delimiter - i.e. - myfilename-cir.jpg"
+msgstr "Делимитер датотека - нпр. - mojfajlnejm-cir.jpg"
+
+#: lib/Admin/Settings/Files.php:102
+msgid "Enable if you want to limit different filenames to post/page content only"
+msgstr "Омогућите уколико желите да ограничите двојна имена дадотека само на садржај чланака и страница"
+
+#: lib/Admin/Settings/Files.php:101
+msgid "Script specific filenames in content only"
+msgstr "Омогући двојна имена датотека само у садржају"
+
+#: lib/Admin/Settings/Files.php:92
+msgid "Enable if you want to have cyrillic and latin versions of an image "
+msgstr "Штиклирајте уколико желите да имате двојна имена датотека (нпр. за ћириличну и латиничну верзију слика)"
+
+#: lib/Admin/Settings/Files.php:91
+msgid "Script specific filenames"
+msgstr "Двојна имена датотека"
+
+#: lib/Admin/Settings/Files.php:79
+msgid "Enable if you want to convert cyrillic filenames to latin"
+msgstr "Штиклирајте уколико желите да пресловите ћирилична имена датотека у латиницу"
+
+#: lib/Admin/Settings/Files.php:78
+msgid "Transliterate filenames"
+msgstr "Преслови имена датотека"
+
+#: lib/Admin/Settings/Files.php:66
+msgid "File & Media settings control filename transliteration and media saving"
+msgstr "Подешвање датотека и слика контролишу пресловљавање датотека и чување слика"
+
+#: lib/Admin/Settings/Files.php:43
+msgid "Filename delimiter"
+msgstr "Делимитер за датотеке"
+
+#: lib/Admin/Settings/Files.php:31
+msgid "Latin speficic filenames"
+msgstr "Посебна имена датотека за латиницу"
+
+#: lib/Admin/Settings/Files.php:22
+msgid "Fix Filenames"
+msgstr "Поправи имена датотека"
+
+#: lib/Admin/Settings/Files.php:15
+msgid "File and Media Settings"
+msgstr "Подешвање датотека и слика"
+
+#: lib/Admin/Core.php:69
+msgid "Donate"
+msgstr "Донирајте"
+
+#: lib/Admin/Core.php:63
+msgid "Documentation"
+msgstr "Документација"
+
+#: lib/Admin/Core.php:46 lib/Admin/Core.php:94
+msgid "Settings"
+msgstr "Подешавања"
+
+#. Author URI of the plugin
+msgid "https://sgi.io"
+msgstr "https://sgi.io"
+
+#. Author of the plugin
+msgid "Sibin Grasic"
+msgstr "Сибин Грашић"
+
+#. Description of the plugin
+msgid "SrbTransLatin - Serbian Latinisation plugin allows you to have a website in both cyrillic and latin scripts"
+msgstr "Додатак СрбТрансЛатин - Српска Латинизација омогућава Вашем веб месту садржај на ћирилици и латиници"
+
+#. Plugin URI of the plugin
+msgid "https://sgi.io/plugins/srbtranslatin/"
+msgstr "https://sgi.io/plugins/srbtranslatin/"
+
+#. Plugin Name of the plugin
+msgid "SrbTransLatin - Serbian Latinisation"
+msgstr "Српска Латинизација"

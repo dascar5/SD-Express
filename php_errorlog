@@ -1,0 +1,27 @@
+[05-Nov-2020 21:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dimita_dropdown_vertical_menu() in /home/customer/www/sdexpress.me/public_html/wp-content/plugins/wpbingo/widgets/custom_menu.php:26
+Stack trace:
+#0 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-widget.php(380): Bwp_WP_Nav_Menu_Widget->widget(Array, Array)
+#1 /home/customer/www/sdexpress.me/public_html/wp-includes/widgets.php(805): WP_Widget->display_callback(Array, Array)
+#2 /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/inc/structure/footer.php(318): dynamic_sidebar('footer-bottom-w...')
+#3 /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/inc/structure/footer-v2.php(96): electro_display_footer_bottom_widgets()
+#4 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-hook.php(287): electro_footer_bottom_widgets_v2('')
+#5 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/sdexpress.me/public_html/wp-includes/ in /home/customer/www/sdexpress.me/public_html/wp-content/plugins/wpbingo/widgets/custom_menu.php on line 26
+[05-Nov-2020 21:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dimita_dropdown_vertical_menu() in /home/customer/www/sdexpress.me/public_html/wp-content/plugins/wpbingo/widgets/custom_menu.php:26
+Stack trace:
+#0 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-widget.php(380): Bwp_WP_Nav_Menu_Widget->widget(Array, Array)
+#1 /home/customer/www/sdexpress.me/public_html/wp-includes/widgets.php(805): WP_Widget->display_callback(Array, Array)
+#2 /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/inc/structure/footer.php(318): dynamic_sidebar('footer-bottom-w...')
+#3 /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/inc/structure/footer-v2.php(96): electro_display_footer_bottom_widgets()
+#4 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-hook.php(287): electro_footer_bottom_widgets_v2('')
+#5 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/sdexpress.me/public_html/wp-includes/ in /home/customer/www/sdexpress.me/public_html/wp-content/plugins/wpbingo/widgets/custom_menu.php on line 26
+[05-Nov-2020 21:12:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dimita_dropdown_vertical_menu() in /home/customer/www/sdexpress.me/public_html/wp-content/plugins/wpbingo/widgets/custom_menu.php:26
+Stack trace:
+#0 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-widget.php(380): Bwp_WP_Nav_Menu_Widget->widget(Array, Array)
+#1 /home/customer/www/sdexpress.me/public_html/wp-includes/widgets.php(805): WP_Widget->display_callback(Array, Array)
+#2 /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/inc/structure/footer.php(318): dynamic_sidebar('footer-bottom-w...')
+#3 /home/customer/www/sdexpress.me/public_html/wp-content/themes/electro/inc/structure/footer-v2.php(96): electro_display_footer_bottom_widgets()
+#4 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-hook.php(287): electro_footer_bottom_widgets_v2('')
+#5 /home/customer/www/sdexpress.me/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/sdexpress.me/public_html/wp-includes/ in /home/customer/www/sdexpress.me/public_html/wp-content/plugins/wpbingo/widgets/custom_menu.php on line 26

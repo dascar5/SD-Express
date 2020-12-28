@@ -1,0 +1,123 @@
+#bwp_slider_price::before, #bwp_slider_price::after,.bwp_slider_price::before, #bwp_slider_price::after {
+    background: #fff none repeat scroll 0 0;
+    content: "";
+    display: inline-block;
+    height: 100%;
+    position: absolute;
+    width: 5px;
+    z-index: 1;
+}
+
+#bwp_slider_price,.bwp_slider_price{
+	background-color: #f03939;
+    border-radius: 5px;
+    height: 6px;
+    margin: 10px;
+    position: relative;
+}
+#bwp_slider_price	.ui-slider-handle,.bwp_slider_price	.ui-slider-handle {
+	background: #fff none repeat scroll 0 0;
+    border: 3px solid #f03939;
+    color: #f03939;
+    cursor: e-resize;
+    display: block;
+    height: 14px;
+    position: absolute;
+    text-align: center;
+    top: -7px;
+    width: 14px;
+    z-index: 15;	
+	margin-right: inherit;
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+.tongge-filter{
+	position:fixed;
+	border:1px solid #dfdfdf;
+	overflow:scroll;
+	padding:10px;
+	background:white;
+	z-index:999;
+	top:100px;
+	bottom:100px;
+	right:-400px;
+	width:400px;
+	transition:all 0.35s ease;
+}
+
+.tongge-filter.active{
+	right:0px;	
+}
+.bwp-woocommerce-filter-product .navbar-header{
+	position:fixed;
+	top:50%;
+	right:0px;
+	transition:all 0.35s ease;
+}
+
+.bwp-woocommerce-filter-product .navbar-header.active{
+	right:400px;
+}
+#bwp_form_filter_product {
+	float:left;
+}
+#bwp_form_filter_product .bwp-filter{
+	float:left;
+	width:100%;
+}
+#bwp_form_filter_product .bwp-filter li{
+	float:left;
+	padding:5px;
+}
+#bwp_form_filter_product .bwp-filter input{
+	display:none;
+}
+#bwp_form_filter_product .bwp-filter span {
+	border: 1px solid #ddd;
+    display: block;
+    height: 20px;
+    margin: 5px 5px 5px 0;
+    padding: 0;
+    width: 20px;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    box-sizing: content-box;
+}
+#bwp_form_filter_product .bwp-filter span.active{
+	 border: 2px solid red;
+}
+#button-price-slider{
+	margin:5px;
+	float:right;
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.loading:before{
+	content:"";
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:9999;
+	background-color:rgba(0,0,0,0.9);
+}
+.loading span {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+	position:fixed;
+	left:50%;
+	top:50%;
+	z-index:10000;
+}
+.bwp-filter-homepage .clear_all{
+	display : none;
+}

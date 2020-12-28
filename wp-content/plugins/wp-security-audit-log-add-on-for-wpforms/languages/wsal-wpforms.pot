@@ -1,0 +1,199 @@
+# Copyright (C) 2020 WP White Security
+# This file is distributed under the same license as the WP Activity Log for WPForms plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Activity Log for WPForms 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wsal-wpforms\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-09-22T15:00:31+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wsal-wpforms\n"
+
+#. Plugin Name of the plugin
+msgid "WP Activity Log for WPForms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpactivitylog.com/extensions/wpforms-activity-log/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A WP Activity Log plugin extension to keep a log of changes within WPForms."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP White Security"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.wpwhitesecurity.com/"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:4
+#: wsal-wpforms.php:55
+msgid "WPForms"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:5
+msgid "Form Content"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:10
+msgid "A form was created, modified or deleted"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:11
+msgid "Form name %PostTitle% %LineBreak% ID: %PostID% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:19
+msgid "A field was created, modified or deleted from a form."
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:20
+msgid "Field name %field_name% %LineBreak% Form name %form_name% %LineBreak% Form ID: %PostID% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:28
+msgid "A form was duplicated"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:29
+msgid "Source form %OldPostTitle% %LineBreak% New form name %PostTitle% %LineBreak% Source form ID %SourceID% %LineBreak% New form ID: %PostID% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:37
+msgid "A notification was added to a form, enabled or modified"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:38
+msgid "Notification name %notifiation_name% %LineBreak% Form name %form_name% %LineBreak% Form ID %PostID% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:46
+msgid "An entry was deleted"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:47
+msgid "Entry email address: %entry_email% %LineBreak% Entry ID: %entry_id% %LineBreak% Form name: %form_name% %LineBreak% Form ID: %form_id% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:55
+msgid "Notifications were enabled or disabled in a form"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:56
+msgid "All the notifications in the form. %LineBreak% Form name %form_name% %LineBreak% Form ID %PostID% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:64
+msgid "A form was renamed"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:65
+msgid "New form name %new_form_name% %LineBreak% Old form name %old_form_name% %LineBreak% Form ID %PostID% %LineBreak% %EditorLinkForm%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:73
+msgid "An entry was modified"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:74
+msgid "Entry ID: %entry_id% %LineBreak% From form: %form_name% %LineBreak% Modified field name: %field_name% %LineBreak% Old value: %old_value% %LineBreak% New Value: %new_value% %LineBreak% %EditorLinkEntry%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:82
+msgid "Plugin access settings were changed"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:83
+msgid "Access setting: %setting_name% %LineBreak% Type: %setting_type% %LineBreak% Old privileges: %old_value% %LineBreak% New privileges: %new_value%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:91
+msgid "Currency settings were changed"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:92
+msgid "Changed the currency %LineBreak% Old currency: %old_value% %LineBreak% New currency: %new_value%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:100
+msgid "A service integration was added or deleted."
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:101
+msgid "A service integration %LineBreak% Service: %service_name% %LineBreak% Connection name: %connection_name%"
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:109
+msgid "An addon was installed, activated or deactivated."
+msgstr ""
+
+#: wp-security-audit-log/custom-alerts.php:110
+msgid "The addon %addon_name%"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:217
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:236
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:285
+msgid "Default Notification"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:556
+msgid "No email provided"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:690
+msgid "Own"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:692
+msgid "Other"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:694
+msgid "N/A"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:746
+msgid "Mailchimp"
+msgstr ""
+
+#: wp-security-audit-log/custom-sensors/WPFormsSensor.php:748
+msgid "GetResponse"
+msgstr ""
+
+#: wsal-wpforms.php:56
+#: wsal-wpforms.php:57
+msgid "Notifications in WPForms"
+msgstr ""
+
+#: wsal-wpforms.php:58
+#: wsal-wpforms.php:59
+msgid "Entries in WPForms"
+msgstr ""
+
+#: wsal-wpforms.php:60
+#: wsal-wpforms.php:61
+msgid "Fields in WPForms"
+msgstr ""
+
+#: wsal-wpforms.php:62
+msgid "Forms in WPForms"
+msgstr ""
+
+#: wsal-wpforms.php:99
+#: wsal-wpforms.php:125
+msgid "View form in the editor"
+msgstr ""
+
+#: wsal-wpforms.php:107
+#: wsal-wpforms.php:133
+msgid "View entry in the editor"
+msgstr ""
