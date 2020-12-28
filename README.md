@@ -147,15 +147,15 @@ Project Link: [SD Express](https://github.com/dascar5/SD-Express)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dascar5/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/dascar5/SD-Express.svg?style=for-the-badge
 [contributors-url]: https://github.com/dascar5/SD-Express/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dascar5/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/dascar5/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/dascar5/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dascar5/SD-Express.svg?style=for-the-badge
+[forks-url]: https://github.com/dascar5/SD-Express/network/members
+[stars-shield]: https://img.shields.io/github/stars/dascar5/SD-Express.svg?style=for-the-badge
 [stars-url]: https://github.com/dascar5/SD-Express/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dascar5/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/dascar5/SD-Express.svg?style=for-the-badge
 [issues-url]: https://github.com/dascar5/SD-Express/issues
-[license-shield]: https://img.shields.io/github/license/dascar5/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/dascar5/SD-Express.svg?style=for-the-badge
 [license-url]: https://github.com/dascar5/SD-Express/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bogdan-laban-521070163/
