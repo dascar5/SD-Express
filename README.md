@@ -18,13 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="center">
-  [![GitHub contributors](https://img.shields.io/github/contributors/dascar5/SD-Express.svg)](https://GitHub.com/dascar5/SD-Express/graphs/contributors/)
-  [![GitHub forks](https://img.shields.io/github/forks/dascar5/SD-Express.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/dascar5/SD-Express/network/)
-  [![GitHub stars](https://img.shields.io/github/stars/dascar5/SD-Express.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/dascar5/SD-Express/stargazers/)
-  [![GitHub issues](https://img.shields.io/github/issues/dascar5/SD-Express.svg)](https://GitHub.com/dascar5/SD-Express/issues/)
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/dascar5/SD-Express/blob/main/LICENSE.txt)
-  [![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![GitHub contributors](https://img.shields.io/github/contributors/dascar5/SD-Express.svg)](https://GitHub.com/dascar5/SD-Express/graphs/contributors/)
+[![GitHub forks](https://img.shields.io/github/forks/dascar5/SD-Express.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/dascar5/SD-Express/network/)
+[![GitHub stars](https://img.shields.io/github/stars/dascar5/SD-Express.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/dascar5/SD-Express/stargazers/)
+[![GitHub issues](https://img.shields.io/github/issues/dascar5/SD-Express.svg)](https://GitHub.com/dascar5/SD-Express/issues/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/dascar5/SD-Express/blob/main/LICENSE.txt)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
