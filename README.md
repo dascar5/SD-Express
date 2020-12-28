@@ -36,8 +36,6 @@
   <p align="center">
     Complete Multi-Vendor E-Commerce platform made in Wordpress, fashioned after AliExpress and Amazon.
     <br />
-    <a href="https://github.com/dascar5/SD-Express"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://www.sdexpress.me/">Check Website</a>
     ·
