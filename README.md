@@ -109,7 +109,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the GNU GENERAL PUBLIC License, provided by Wordpress. See `license.txt` for more information.
+Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
