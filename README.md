@@ -93,7 +93,7 @@ I recommend adding this custom CSS, as it fixes the overlap between Account Menu
 }
 ```
 
-_If you need help with some minor fixes, please contact me @ [this address](admin@sdexpress.me)_
+_If you need help with some minor fixes, please contact me @ admin@sdexpress.me_.
 
 ## Contributing
 
