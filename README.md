@@ -67,7 +67,7 @@ Complete Multi-Vendor E-Commerce solution, containing all and any functions you 
 - [Dokan Pro](https://wedevs.com/dokan)
 - [Slider Revolution](https://www.sliderrevolution.com/)
 - [YITH WooCommerce Compare](https://yithemes.com/themes/plugins/yith-woocommerce-compare/)
-- [YITH WooCommerce Compare](https://yithemes.com/themes/plugins/yith-woocommerce-compare/)
+- [YITH WooCommerce Wishlist](https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/)
 
 <!-- GETTING STARTED -->
 
